@@ -32516,6 +32516,32 @@ const ITEMS = [
     "name": "Le Tronknydum",
     "imageUrl": "html/img/le_tronknydum.png",
     "damages": [
+      "Vole 2 à 4 PV (neutre)"
+    ],
+    "effects": [
+      {
+        "stat": "Créature invocables",
+        "min": 1,
+        "max": 2
+      },
+      {
+        "stat": "Vitalité",
+        "min": 21,
+        "max": 30
+      },
+      {
+        "stat": "Dommages",
+        "min": 2,
+        "max": 4
+      }
+    ]
+  },
+  {
+    "type": "Arc",
+    "level": 60,
+    "name": "Arc du Roi des Borins",
+    "imageUrl": "html/img/arc_du_roi_des_borins.png",
+    "damages": [
       "Dommages : 12 à 21 (neutre)"
     ],
     "effects": [
@@ -34336,6 +34362,22 @@ const ITEMS = [
     "name": "Baguette Larvesque",
     "imageUrl": "html/img/baguette_larvesque.png",
     "damages": [
+      "PV rendus : 8 à 12"
+    ],
+    "effects": [
+      {
+        "stat": "PA perdu à la cible",
+        "min": 1,
+        "max": 2
+      }
+    ]
+  },
+  {
+    "type": "Baguette",
+    "level": 40,
+    "name": "Discrète Baguette d'Houvette",
+    "imageUrl": "html/img/discrete_baguette_dhouvette.png",
+    "damages": [
       "Dommages : 5 à 8 (neutre)"
     ],
     "effects": [
@@ -34821,6 +34863,27 @@ const ITEMS = [
     "level": 59,
     "name": "Baguette du Scarabosse Doré",
     "imageUrl": "html/img/baguette_du_scarabosse_dore.png",
+    "damages": [
+      "PV rendus : 11 à 30"
+    ],
+    "effects": [
+      {
+        "stat": "Soins",
+        "min": 1,
+        "max": 3
+      },
+      {
+        "stat": "Dommages (%)",
+        "min": 6,
+        "max": 20
+      }
+    ]
+  },
+  {
+    "type": "Baguette",
+    "level": 59,
+    "name": "Le Tison Fûté",
+    "imageUrl": "html/img/le_tison_fute.png",
     "damages": [
       "Dommages : 9 à 16 (feu)"
     ],
@@ -36769,6 +36832,32 @@ const ITEMS = [
     "level": 32,
     "name": "Fourbasse-Ton",
     "imageUrl": "html/img/fourbasse-ton.png",
+    "damages": [
+      "Vole 2 à 3 PV (neutre)"
+    ],
+    "effects": [
+      {
+        "stat": "PA perdu à la cible",
+        "min": 1,
+        "max": 1
+      },
+      {
+        "stat": "Faiblesse neutre (%)",
+        "min": 6,
+        "max": 10
+      },
+      {
+        "stat": "Vitalité",
+        "min": 10,
+        "max": 10
+      }
+    ]
+  },
+  {
+    "type": "Baton",
+    "level": 32,
+    "name": "Bâton du Grand Pa Wabbit",
+    "imageUrl": "html/img/baton_du_grand_pa_wabbit.png",
     "damages": [
       "Dommages : 2 à 6 (neutre)"
     ],
@@ -40555,6 +40644,14 @@ const ITEMS = [
     "level": 58,
     "name": "Dagues Ristocrates",
     "imageUrl": "html/img/dagues_ristocrates.png",
+    "damages": [],
+    "effects": []
+  },
+  {
+    "type": "Dague",
+    "level": 58,
+    "name": "Dague Fourbesque",
+    "imageUrl": "html/img/dague_fourbesque.png",
     "damages": [
       "Dommages : 7 à 12 (neutre)"
     ],
@@ -40740,6 +40837,37 @@ const ITEMS = [
     "level": 67,
     "name": "Dagues Ruyère",
     "imageUrl": "html/img/dagues_ruyere.png",
+    "damages": [
+      "Vole 3 à 4 PV (neutre)"
+    ],
+    "effects": [
+      {
+        "stat": "PA perdu à la cible",
+        "min": 1,
+        "max": 1
+      },
+      {
+        "stat": "Coup critiques",
+        "min": 3,
+        "max": 4
+      },
+      {
+        "stat": "Agilité",
+        "min": 16,
+        "max": 30
+      },
+      {
+        "stat": "Sagesse",
+        "min": 16,
+        "max": 25
+      }
+    ]
+  },
+  {
+    "type": "Dague",
+    "level": 69,
+    "name": "Griffettes",
+    "imageUrl": "html/img/griffettes.png",
     "damages": [
       "Dommages : 9 à 18 (neutre)"
     ],
@@ -41947,6 +42075,16 @@ const ITEMS = [
     "name": "Epée de Mercenaire",
     "imageUrl": "html/img/epee_de_mercenaire.png",
     "damages": [
+      "Vole 41 à 60 PV (neutre)"
+    ],
+    "effects": []
+  },
+  {
+    "type": "Epée",
+    "level": 2,
+    "name": "Petite Epée de Boisaille",
+    "imageUrl": "html/img/petite_epee_de_boisaille.png",
+    "damages": [
       "Dommages : 1 à 7 (neutre)"
     ],
     "effects": [
@@ -42010,6 +42148,22 @@ const ITEMS = [
     "level": 12,
     "name": "Epée du Chevalier de Glace",
     "imageUrl": "html/img/epee_du_chevalier_de_glace.png",
+    "damages": [
+      "PV rendus : 6 à 13"
+    ],
+    "effects": [
+      {
+        "stat": "Chance",
+        "min": 1,
+        "max": 10
+      }
+    ]
+  },
+  {
+    "type": "Epée",
+    "level": 13,
+    "name": "Petite Epée Sacrée",
+    "imageUrl": "html/img/petite_epee_sacree.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
@@ -47517,6 +47671,27 @@ const ITEMS = [
     "name": "Barabas",
     "imageUrl": "html/img/barabas.png",
     "damages": [
+      "Dommages : 6 à 10 (neutre)"
+    ],
+    "effects": [
+      {
+        "stat": "Agilité",
+        "min": 21,
+        "max": 30
+      },
+      {
+        "stat": "Force",
+        "min": -1,
+        "max": -10
+      }
+    ]
+  },
+  {
+    "type": "Marteau",
+    "level": 24,
+    "name": "Marteau R'unique",
+    "imageUrl": "html/img/marteau_runique.png",
+    "damages": [
       "Dommages : 9 à 14 (neutre)"
     ],
     "effects": [
@@ -48315,6 +48490,37 @@ const ITEMS = [
     "level": 55,
     "name": "Marteau Réfacteur",
     "imageUrl": "html/img/marteau_refacteur.png",
+    "damages": [
+      "Vole 2 à 4 PV (neutre)"
+    ],
+    "effects": [
+      {
+        "stat": "Créature invocables",
+        "min": 1,
+        "max": 1
+      },
+      {
+        "stat": "Vitalité",
+        "min": 11,
+        "max": 20
+      },
+      {
+        "stat": "Agilité",
+        "min": 11,
+        "max": 20
+      },
+      {
+        "stat": "Dommages (%)",
+        "min": 6,
+        "max": 10
+      }
+    ]
+  },
+  {
+    "type": "Marteau",
+    "level": 55,
+    "name": "Marteau Re'Thu",
+    "imageUrl": "html/img/marteau_rethu.png",
     "damages": [
       "Dommages : 16 à 30 (eau)"
     ],
@@ -51140,6 +51346,47 @@ const ITEMS = [
     "level": 72,
     "name": "Ares",
     "imageUrl": "html/img/ares.png",
+    "damages": [
+      "Dommages : 7 à 13 (eau)"
+    ],
+    "effects": [
+      {
+        "stat": "Vitalité",
+        "min": 31,
+        "max": 50
+      },
+      {
+        "stat": "Coup critiques",
+        "min": 3,
+        "max": 5
+      },
+      {
+        "stat": "PA",
+        "min": 1,
+        "max": 1
+      },
+      {
+        "stat": "Chance",
+        "min": 16,
+        "max": 30
+      },
+      {
+        "stat": "Créature invocables",
+        "min": 1,
+        "max": 1
+      },
+      {
+        "stat": "Dommages",
+        "min": 2,
+        "max": 3
+      }
+    ]
+  },
+  {
+    "type": "Pelle",
+    "level": 80,
+    "name": "La Pelle du Large",
+    "imageUrl": "html/img/la_pelle_du_large.png",
     "damages": [
       "Dommages : 26 à 35 (feu)"
     ],

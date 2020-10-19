@@ -39,7 +39,7 @@ class ItemParser {
         }
 
         if (this._isWeapon) {
-            effectsStr = this._locate('<td class="b2"><b>', '<br /></td>');
+            effectsStr = this._locate('<td class="b2">', '<br /></td>');
         } else {
             effectsStr = this._locate('<td class="effet">', '</td>');
         }
