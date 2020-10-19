@@ -1,0 +1,1 @@
+[Lien vers l'outil.](https://anovs.github.io/dofusearch/)
