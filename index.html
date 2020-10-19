@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                line-height: 150%;
+                font-family: Arial, Helvetica, sans-serif
+            }
+            .center {
+              margin: 0;
+              position: absolute;
+              left: 50%;
+              -ms-transform: translate(-50%, 0);
+              transform: translate(-50%, 0);
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Critères :</h1>
+        <p id="criteria-elt"></p>
+        <button class="center" onclick="updateItemList()">Recherche</button>
+        <br><br>
+        <h1>Résultats<span id="result-count"></span> :</h1>
+        <ul id="equipments-elt"></ul>
+        <script src="html/database.js"></script>
+        <script src="html/script.js"></script>
+    </body>
+</html>
