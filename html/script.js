@@ -48,6 +48,7 @@ function appendTextInput(label, width, onChange) {
 
     if (!label) {
         spanElt.style.visibility = 'hidden';
+        inputElt.id = null;
     }
 
     CRITERIA_ELT.appendChild(spanElt);
