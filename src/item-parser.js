@@ -25,6 +25,16 @@ class ItemParser {
         return str;
     }
 
+    _splitLines(str) {
+        return str.split('<br />')
+            .map(str => str.replace(/<font color='\w+'>/g, ''))
+            .map(str => str.replace(/<\/font>/g, ''))
+            .map(str => str.replace(/<\/span>/g, ''))
+            .map(str => str.replace(/<\/?b>/g, ''))
+            .map(str => str.replace(/<span style='color:#?\w+;'>/g, ''))
+            .filter(str => str);
+    }
+
     _parseNextItem() {
         const type = this._type;
         const levelStr = this._locate('<th class="niveau">', '</th>');
@@ -32,7 +42,9 @@ class ItemParser {
         const imageUrl = this._locate('<td class="screen"><img src="', '" alt="Chargement de l\'image..."');
         const effects = [];
         const damages = [];
+        const conditions = [];
         let effectsStr = null;
+        let conditionsStr = null;
 
         if (!levelStr) {
             return null;
@@ -40,20 +52,15 @@ class ItemParser {
 
         if (this._isWeapon) {
             effectsStr = this._locate('<td class="b2">', '<br /></td>');
+            conditionsStr = this._locate('<td class="b4">', '<br /></td>')
         } else {
             effectsStr = this._locate('<td class="effet">', '</td>');
         }
 
         const level = parseInt(levelStr.replace('Niveau ', ''));
-        const lines = effectsStr.split('<br />')
-            .map(str => str.replace(/<font color='\w+'>/g, ''))
-            .map(str => str.replace(/<\/font>/g, ''))
-            .map(str => str.replace(/<\/span>/g, ''))
-            .map(str => str.replace(/<\/?b>/g, ''))
-            .map(str => str.replace(/<span style='color:#?\w+;'>/g, ''))
-            .filter(str => str);
+        const effectLines = this._splitLines(effectsStr);
 
-        for (const str of lines) {
+        for (const str of effectLines) {
             if (str.startsWith('Dommages :') || str.startsWith('Vole ') || str.startsWith('PV rendus : ')) {
                 damages.push(str);
             } else {
@@ -88,7 +95,13 @@ class ItemParser {
             }
         }
 
-        return { type, level, name, imageUrl, damages, effects };
+        if (conditionsStr) {
+            for (const str of this._splitLines(conditionsStr)) {
+                conditions.push(str);
+            }
+        }
+
+        return { type, level, name, imageUrl, damages, conditions, effects };
     }
 
     parse() {

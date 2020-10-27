@@ -225,6 +225,23 @@ function updateItemList() {
             ulElt.appendChild(li);
         }
 
+        if (item.conditions.length) {
+            const li = document.createElement('li');
+            li.style.position = 'relative';
+            li.style.left = '30px';
+            li.textContent = `Conditions:`;
+            li.style.fontStyle = 'italic';
+            ulElt.appendChild(li);
+
+            const ul = document.createElement('ul');
+            for (const str of item.conditions) {
+                const li = document.createElement('li');
+                li.textContent = str.replace(' etre ', ' être ');
+                ul.appendChild(li);
+            }
+            li.appendChild(ul);
+        }
+
         liElt.appendChild(aElt);
         liElt.appendChild(ulElt);
         EQUIPMENT_ELT.appendChild(liElt);

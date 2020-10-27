@@ -188,6 +188,7 @@ const ITEMS = [
     "name": "Amulette de l'Aventurier",
     "imageUrl": "html/img/amulette_de_laventurier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -222,6 +223,7 @@ const ITEMS = [
     "name": "Amulette du Petit Hibou",
     "imageUrl": "html/img/amulette_du_petit_hibou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -236,6 +238,7 @@ const ITEMS = [
     "name": "Amulette du Petit Ours",
     "imageUrl": "html/img/amulette_du_petit_ours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -250,6 +253,7 @@ const ITEMS = [
     "name": "Amulette du Piou Rose",
     "imageUrl": "html/img/amulette_du_piou_rose.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -264,6 +268,7 @@ const ITEMS = [
     "name": "Amulette du Piou Rouge",
     "imageUrl": "html/img/amulette_du_piou_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -278,6 +283,7 @@ const ITEMS = [
     "name": "Amulette du Piou Jaune",
     "imageUrl": "html/img/amulette_du_piou_jaune.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -292,6 +298,7 @@ const ITEMS = [
     "name": "Amulette du Piou Vert",
     "imageUrl": "html/img/amulette_du_piou_vert.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -306,6 +313,7 @@ const ITEMS = [
     "name": "Amulette du Piou Bleu",
     "imageUrl": "html/img/amulette_du_piou_bleu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -320,6 +328,7 @@ const ITEMS = [
     "name": "Le S'Mesme",
     "imageUrl": "html/img/le_smesme.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Prospection",
@@ -334,6 +343,7 @@ const ITEMS = [
     "name": "Amulette du Piou Violet",
     "imageUrl": "html/img/amulette_du_piou_violet.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -348,6 +358,7 @@ const ITEMS = [
     "name": "Koliet Aclou",
     "imageUrl": "html/img/koliet_aclou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -362,6 +373,7 @@ const ITEMS = [
     "name": "Grenouillette",
     "imageUrl": "html/img/grenouillette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -376,6 +388,7 @@ const ITEMS = [
     "name": "Petite Amulette du Hibou",
     "imageUrl": "html/img/petite_amulette_du_hibou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -390,6 +403,7 @@ const ITEMS = [
     "name": "Petite Amulette de l'Ours",
     "imageUrl": "html/img/petite_amulette_de_lours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -404,6 +418,7 @@ const ITEMS = [
     "name": "Petite Amulette du Loup",
     "imageUrl": "html/img/petite_amulette_du_loup.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -418,6 +433,7 @@ const ITEMS = [
     "name": "Amulette du Loup",
     "imageUrl": "html/img/amulette_du_loup.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -432,6 +448,7 @@ const ITEMS = [
     "name": "La Larme du Bouftou",
     "imageUrl": "html/img/la_larme_du_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -446,6 +463,7 @@ const ITEMS = [
     "name": "Amulette de l'Ours",
     "imageUrl": "html/img/amulette_de_lours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -460,6 +478,7 @@ const ITEMS = [
     "name": "Pendentif du Hibou Chétif",
     "imageUrl": "html/img/pendentif_du_hibou_chetif.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -479,6 +498,7 @@ const ITEMS = [
     "name": "Amulette du Hibou",
     "imageUrl": "html/img/amulette_du_hibou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -493,6 +513,7 @@ const ITEMS = [
     "name": "Amulette du Sram",
     "imageUrl": "html/img/amulette_du_sram.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -507,6 +528,7 @@ const ITEMS = [
     "name": "Amulette du Bouftou",
     "imageUrl": "html/img/amulette_du_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -526,6 +548,7 @@ const ITEMS = [
     "name": "Collier de l'Arc en Ciel",
     "imageUrl": "html/img/collier_de_larc_en_ciel.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -540,6 +563,7 @@ const ITEMS = [
     "name": "Belle Amulette de l'Ours",
     "imageUrl": "html/img/belle_amulette_de_lours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -554,6 +578,7 @@ const ITEMS = [
     "name": "Belle Amulette du Hibou",
     "imageUrl": "html/img/belle_amulette_du_hibou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -568,6 +593,7 @@ const ITEMS = [
     "name": "Amulette de Krokette",
     "imageUrl": "html/img/amulette_de_krokette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -582,6 +608,7 @@ const ITEMS = [
     "name": "Belle Amulette du Loup",
     "imageUrl": "html/img/belle_amulette_du_loup.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -596,6 +623,7 @@ const ITEMS = [
     "name": "Puissante Amulette du Hibou",
     "imageUrl": "html/img/puissante_amulette_du_hibou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -610,6 +638,7 @@ const ITEMS = [
     "name": "Puissante Amulette de l'Ours",
     "imageUrl": "html/img/puissante_amulette_de_lours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -624,6 +653,7 @@ const ITEMS = [
     "name": "Puissante Amulette du Loup",
     "imageUrl": "html/img/puissante_amulette_du_loup.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -638,6 +668,7 @@ const ITEMS = [
     "name": "Amulette des Champs",
     "imageUrl": "html/img/amulette_des_champs.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -657,6 +688,7 @@ const ITEMS = [
     "name": "Amulette Itby",
     "imageUrl": "html/img/amulette_itby.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -671,6 +703,7 @@ const ITEMS = [
     "name": "Amulette en Mousse",
     "imageUrl": "html/img/amulette_en_mousse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -685,6 +718,7 @@ const ITEMS = [
     "name": "La Destinée Dorée",
     "imageUrl": "html/img/la_destinee_doree.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -704,6 +738,7 @@ const ITEMS = [
     "name": "La Chaîne Nhanor Kibrill",
     "imageUrl": "html/img/la_chaine_nhanor_kibrill.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -718,6 +753,7 @@ const ITEMS = [
     "name": "La Lou Ptiote",
     "imageUrl": "html/img/la_lou_ptiote.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -737,6 +773,7 @@ const ITEMS = [
     "name": "Amulette du Moskito",
     "imageUrl": "html/img/amulette_du_moskito.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -756,6 +793,7 @@ const ITEMS = [
     "name": "La Veaux Doux",
     "imageUrl": "html/img/la_veaux_doux.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -775,6 +813,7 @@ const ITEMS = [
     "name": "Amulette du Bandit",
     "imageUrl": "html/img/amulette_du_bandit.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -794,6 +833,7 @@ const ITEMS = [
     "name": "Amulette Itby remaniée",
     "imageUrl": "html/img/amulette_itby_remaniee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -808,6 +848,7 @@ const ITEMS = [
     "name": "Omelette Amulette",
     "imageUrl": "html/img/omelette_amulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -832,6 +873,7 @@ const ITEMS = [
     "name": "La Gougnole",
     "imageUrl": "html/img/la_gougnole.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -856,6 +898,7 @@ const ITEMS = [
     "name": "Amulette du Chafer",
     "imageUrl": "html/img/amulette_du_chafer.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -880,6 +923,7 @@ const ITEMS = [
     "name": "Amulette Paysanne",
     "imageUrl": "html/img/amulette_paysanne.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -899,6 +943,7 @@ const ITEMS = [
     "name": "Amulette de l'Homme Ours",
     "imageUrl": "html/img/amulette_de_lhomme_ours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -923,6 +968,7 @@ const ITEMS = [
     "name": "L'Araknamu",
     "imageUrl": "html/img/laraknamu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -937,6 +983,7 @@ const ITEMS = [
     "name": "Amulette du Boufcoul",
     "imageUrl": "html/img/amulette_du_boufcoul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -956,6 +1003,7 @@ const ITEMS = [
     "name": "Amulette du Tofu",
     "imageUrl": "html/img/amulette_du_tofu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -975,6 +1023,7 @@ const ITEMS = [
     "name": "Amulette du Marin",
     "imageUrl": "html/img/amulette_du_marin.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -989,6 +1038,7 @@ const ITEMS = [
     "name": "La Reinette",
     "imageUrl": "html/img/la_reinette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -1008,6 +1058,7 @@ const ITEMS = [
     "name": "Amulette du Bûcheron",
     "imageUrl": "html/img/amulette_du_bucheron.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -1027,6 +1078,7 @@ const ITEMS = [
     "name": "Amulette en Crabe",
     "imageUrl": "html/img/amulette_en_crabe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -1041,6 +1093,7 @@ const ITEMS = [
     "name": "Amulette du Kitsou",
     "imageUrl": "html/img/amulette_du_kitsou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1060,6 +1113,7 @@ const ITEMS = [
     "name": "Larvamulette",
     "imageUrl": "html/img/larvamulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1084,6 +1138,7 @@ const ITEMS = [
     "name": "Entente",
     "imageUrl": "html/img/entente.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -1123,6 +1178,7 @@ const ITEMS = [
     "name": "La Célébrité",
     "imageUrl": "html/img/la_celebrite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -1142,6 +1198,7 @@ const ITEMS = [
     "name": "La Broche Hète",
     "imageUrl": "html/img/la_broche_hete.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -1156,6 +1213,7 @@ const ITEMS = [
     "name": "Kabale",
     "imageUrl": "html/img/kabale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -1175,6 +1233,7 @@ const ITEMS = [
     "name": "Amulette de Shika",
     "imageUrl": "html/img/amulette_de_shika.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1199,6 +1258,7 @@ const ITEMS = [
     "name": "La Bibelaw",
     "imageUrl": "html/img/la_bibelaw.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1233,6 +1293,7 @@ const ITEMS = [
     "name": "Médaille Holy",
     "imageUrl": "html/img/medaille_holy.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -1252,6 +1313,7 @@ const ITEMS = [
     "name": "Médaille Lahilama",
     "imageUrl": "html/img/medaille_lahilama.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -1271,6 +1333,7 @@ const ITEMS = [
     "name": "Dragolyre",
     "imageUrl": "html/img/dragolyre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -1310,6 +1373,7 @@ const ITEMS = [
     "name": "Amulette du Badoul",
     "imageUrl": "html/img/amulette_du_badoul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1329,6 +1393,7 @@ const ITEMS = [
     "name": "La Bourgeonette",
     "imageUrl": "html/img/la_bourgeonette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre (%)",
@@ -1358,6 +1423,7 @@ const ITEMS = [
     "name": "Amulette Deulegarnoulle",
     "imageUrl": "html/img/amulette_deulegarnoulle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -1387,6 +1453,7 @@ const ITEMS = [
     "name": "Fourbamulette",
     "imageUrl": "html/img/fourbamulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1411,6 +1478,7 @@ const ITEMS = [
     "name": "Ambramulette Arackne",
     "imageUrl": "html/img/ambramulette_arackne.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -1445,6 +1513,7 @@ const ITEMS = [
     "name": "Amulette du Pêcheur de Somoon",
     "imageUrl": "html/img/amulette_du_pecheur_de_somoon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -1459,6 +1528,7 @@ const ITEMS = [
     "name": "Amulette de Silicate",
     "imageUrl": "html/img/amulette_de_silicate.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -1508,6 +1578,7 @@ const ITEMS = [
     "name": "Accord",
     "imageUrl": "html/img/accord.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -1547,6 +1618,7 @@ const ITEMS = [
     "name": "Amulette du Mineur Sombre",
     "imageUrl": "html/img/amulette_du_mineur_sombre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -1586,6 +1658,7 @@ const ITEMS = [
     "name": "Ambramulette Moskito",
     "imageUrl": "html/img/ambramulette_moskito.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -1610,6 +1683,7 @@ const ITEMS = [
     "name": "La Broche Céleste",
     "imageUrl": "html/img/la_broche_celeste.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -1644,6 +1718,7 @@ const ITEMS = [
     "name": "Vegamu",
     "imageUrl": "html/img/vegamu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1673,6 +1748,7 @@ const ITEMS = [
     "name": "Bambamulette",
     "imageUrl": "html/img/bambamulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -1697,6 +1773,7 @@ const ITEMS = [
     "name": "Amulette du Pirate",
     "imageUrl": "html/img/amulette_du_pirate.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -1721,6 +1798,7 @@ const ITEMS = [
     "name": "Emblème Livide",
     "imageUrl": "html/img/embleme_livide.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -1755,6 +1833,7 @@ const ITEMS = [
     "name": "Amulette Akwadala",
     "imageUrl": "html/img/amulette_akwadala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1784,6 +1863,7 @@ const ITEMS = [
     "name": "Le foulard du Lard Fou",
     "imageUrl": "html/img/le_foulard_du_lard_fou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1823,6 +1903,7 @@ const ITEMS = [
     "name": "Dragolyre Remaniée",
     "imageUrl": "html/img/dragolyre_remaniee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -1862,6 +1943,7 @@ const ITEMS = [
     "name": "Amukwak de Glace",
     "imageUrl": "html/img/amukwak_de_glace.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau (%)",
@@ -1886,6 +1968,7 @@ const ITEMS = [
     "name": "Amukwak du Vent",
     "imageUrl": "html/img/amukwak_du_vent.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance air (%)",
@@ -1910,6 +1993,7 @@ const ITEMS = [
     "name": "Amukwak de Flammes",
     "imageUrl": "html/img/amukwak_de_flammes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance feu (%)",
@@ -1934,6 +2018,7 @@ const ITEMS = [
     "name": "Amukwak de Terre",
     "imageUrl": "html/img/amukwak_de_terre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre (%)",
@@ -1958,6 +2043,7 @@ const ITEMS = [
     "name": "Collier Sleump",
     "imageUrl": "html/img/collier_sleump.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -1987,6 +2073,7 @@ const ITEMS = [
     "name": "Amulette du Kam Assutra",
     "imageUrl": "html/img/amulette_du_kam_assutra.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -2001,6 +2088,7 @@ const ITEMS = [
     "name": "La Chaplivate",
     "imageUrl": "html/img/la_chaplivate.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2030,6 +2118,7 @@ const ITEMS = [
     "name": "Tartamulette",
     "imageUrl": "html/img/tartamulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -2064,6 +2153,7 @@ const ITEMS = [
     "name": "L'Amulette du Puzzle de la Griffe",
     "imageUrl": "html/img/lamulette_du_puzzle_de_la_griffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -2083,6 +2173,7 @@ const ITEMS = [
     "name": "Chance à Mulette",
     "imageUrl": "html/img/chance_a_mulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -2102,6 +2193,7 @@ const ITEMS = [
     "name": "Amulette Scarabosse Doré",
     "imageUrl": "html/img/amulette_scarabosse_dore.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2131,6 +2223,7 @@ const ITEMS = [
     "name": "Chaîne de la Liche",
     "imageUrl": "html/img/chaine_de_la_liche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -2160,6 +2253,7 @@ const ITEMS = [
     "name": "La Feuille d'Eté",
     "imageUrl": "html/img/la_feuille_dete.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -2199,6 +2293,7 @@ const ITEMS = [
     "name": "Craquamulette",
     "imageUrl": "html/img/craquamulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -2238,6 +2333,7 @@ const ITEMS = [
     "name": "L'Abramu",
     "imageUrl": "html/img/labramu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -2282,6 +2378,7 @@ const ITEMS = [
     "name": "Amulette des Abîmes",
     "imageUrl": "html/img/amulette_des_abimes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -2306,6 +2403,7 @@ const ITEMS = [
     "name": "Amulette Papayou",
     "imageUrl": "html/img/amulette_papayou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2335,6 +2433,7 @@ const ITEMS = [
     "name": "Amulette du Craqueleur",
     "imageUrl": "html/img/amulette_du_craqueleur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -2379,6 +2478,7 @@ const ITEMS = [
     "name": "Harmonie",
     "imageUrl": "html/img/harmonie.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -2418,6 +2518,7 @@ const ITEMS = [
     "name": "Amulette de la Boule",
     "imageUrl": "html/img/amulette_de_la_boule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -2437,6 +2538,7 @@ const ITEMS = [
     "name": "Amublop Griotte",
     "imageUrl": "html/img/amublop_griotte.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2466,6 +2568,7 @@ const ITEMS = [
     "name": "Amulette Royale du Bouftou",
     "imageUrl": "html/img/amulette_royale_du_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -2485,6 +2588,7 @@ const ITEMS = [
     "name": "Amublop Coco",
     "imageUrl": "html/img/amublop_coco.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2514,6 +2618,7 @@ const ITEMS = [
     "name": "Amublop Reinette",
     "imageUrl": "html/img/amublop_reinette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2543,6 +2648,7 @@ const ITEMS = [
     "name": "Amublop Indigo",
     "imageUrl": "html/img/amublop_indigo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2572,6 +2678,7 @@ const ITEMS = [
     "name": "Médaille Oly",
     "imageUrl": "html/img/medaille_oly.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -2591,6 +2698,7 @@ const ITEMS = [
     "name": "Amulette de Xélor",
     "imageUrl": "html/img/amulette_de_xelor.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -2625,6 +2733,7 @@ const ITEMS = [
     "name": "Amulette du Craqueleur des Plaines",
     "imageUrl": "html/img/amulette_du_craqueleur_des_plaines.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2664,6 +2773,7 @@ const ITEMS = [
     "name": "L'Oeil de Kanigrou",
     "imageUrl": "html/img/loeil_de_kanigrou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -2693,6 +2803,7 @@ const ITEMS = [
     "name": "Talisman du Faucheur d'Avoine",
     "imageUrl": "html/img/talisman_du_faucheur_davoine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -2727,6 +2838,7 @@ const ITEMS = [
     "name": "Amuloumulette",
     "imageUrl": "html/img/amuloumulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -2756,6 +2868,7 @@ const ITEMS = [
     "name": "Amulette du Koalak",
     "imageUrl": "html/img/amulette_du_koalak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -2780,6 +2893,7 @@ const ITEMS = [
     "name": "Amulette Dents de Wabbits",
     "imageUrl": "html/img/amulette_\" dents_de_wabbits\".png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -2829,6 +2943,7 @@ const ITEMS = [
     "name": "Gelamu",
     "imageUrl": "html/img/gelamu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -2853,6 +2968,7 @@ const ITEMS = [
     "name": "Amulette Aerdala",
     "imageUrl": "html/img/amulette_aerdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2882,6 +2998,7 @@ const ITEMS = [
     "name": "Le Flan des Étoiles",
     "imageUrl": "html/img/le_flan_des_etoiles.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -2911,6 +3028,7 @@ const ITEMS = [
     "name": "Amulette Turquoise",
     "imageUrl": "html/img/amulette_turquoise.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Prospection",
@@ -2950,6 +3068,7 @@ const ITEMS = [
     "name": "La Maîtrise des Poupées",
     "imageUrl": "html/img/la_maitrise_des_poupees.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -2989,6 +3108,7 @@ const ITEMS = [
     "name": "Amulette du Chef Crocodaille",
     "imageUrl": "html/img/amulette_du_chef_crocodaille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -3018,6 +3138,7 @@ const ITEMS = [
     "name": "La Doubitch O'Boul",
     "imageUrl": "html/img/la_doubitch_oboul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3047,6 +3168,7 @@ const ITEMS = [
     "name": "Amublop Indigo Royale",
     "imageUrl": "html/img/amublop_indigo_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3086,6 +3208,7 @@ const ITEMS = [
     "name": "Epis de Shika",
     "imageUrl": "html/img/epis_de_shika.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -3135,6 +3258,7 @@ const ITEMS = [
     "name": "Amulette Terrdala",
     "imageUrl": "html/img/amulette_terrdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3169,6 +3293,7 @@ const ITEMS = [
     "name": "Amublop Reinette Royale",
     "imageUrl": "html/img/amublop_reinette_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3208,6 +3333,7 @@ const ITEMS = [
     "name": "Epis de Farle",
     "imageUrl": "html/img/epis_de_farle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -3257,6 +3383,7 @@ const ITEMS = [
     "name": "Amublop Coco Royale",
     "imageUrl": "html/img/amublop_coco_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3296,6 +3423,7 @@ const ITEMS = [
     "name": "Amublop Griotte Royale",
     "imageUrl": "html/img/amublop_griotte_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3335,6 +3463,7 @@ const ITEMS = [
     "name": "Amulette Argie",
     "imageUrl": "html/img/amulette_argie.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -3384,6 +3513,7 @@ const ITEMS = [
     "name": "Amulette du Craqueleur Légendaire",
     "imageUrl": "html/img/amulette_du_craqueleur_legendaire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3428,6 +3558,7 @@ const ITEMS = [
     "name": "Amufafah",
     "imageUrl": "html/img/amufafah.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -3477,6 +3608,7 @@ const ITEMS = [
     "name": "La Feuille d'Automne",
     "imageUrl": "html/img/la_feuille_dautomne.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -3521,6 +3653,7 @@ const ITEMS = [
     "name": "Amublop Multicolore Royale",
     "imageUrl": "html/img/amublop_multicolore_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3560,6 +3693,7 @@ const ITEMS = [
     "name": "Amulette Feudala",
     "imageUrl": "html/img/amulette_feudala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3599,6 +3733,7 @@ const ITEMS = [
     "name": "La Résinette",
     "imageUrl": "html/img/la_resinette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3643,6 +3778,7 @@ const ITEMS = [
     "name": "Amulette de la Bouboule",
     "imageUrl": "html/img/amulette_de_la_bouboule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -3697,6 +3833,7 @@ const ITEMS = [
     "name": "La Feuille d'Hiver",
     "imageUrl": "html/img/la_feuille_dhiver.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3741,6 +3878,7 @@ const ITEMS = [
     "name": "Collier du Dragon Cochon",
     "imageUrl": "html/img/collier_du_dragon_cochon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -3800,6 +3938,7 @@ const ITEMS = [
     "name": "Amulette du Chef Bwork",
     "imageUrl": "html/img/amulette_du_chef_bwork.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -3859,6 +3998,7 @@ const ITEMS = [
     "name": "Collier du Rat Blanc",
     "imageUrl": "html/img/collier_du_rat_blanc.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -3903,6 +4043,7 @@ const ITEMS = [
     "name": "Collier du Rat Noir",
     "imageUrl": "html/img/collier_du_rat_noir.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -3947,6 +4088,7 @@ const ITEMS = [
     "name": "Ouassulette",
     "imageUrl": "html/img/ouassulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -3996,6 +4138,7 @@ const ITEMS = [
     "name": "Torque Ancestral",
     "imageUrl": "html/img/torque_ancestral.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -4050,6 +4193,7 @@ const ITEMS = [
     "name": "Collier du Minotoror",
     "imageUrl": "html/img/collier_du_minotoror.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -4089,6 +4233,7 @@ const ITEMS = [
     "name": "La Feuille de Printemps",
     "imageUrl": "html/img/la_feuille_de_printemps.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -4143,6 +4288,7 @@ const ITEMS = [
     "name": "Amulette du Dragoeuf",
     "imageUrl": "html/img/amulette_du_dragoeuf.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -4207,6 +4353,7 @@ const ITEMS = [
     "name": "Médaille Kido",
     "imageUrl": "html/img/medaille_kido.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -4251,6 +4398,7 @@ const ITEMS = [
     "name": "Amulette du Renouveau",
     "imageUrl": "html/img/amulette_du_renouveau.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -4300,6 +4448,7 @@ const ITEMS = [
     "name": "Plimclik",
     "imageUrl": "html/img/plimclik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -4324,6 +4473,7 @@ const ITEMS = [
     "name": "Collier Cérémonial du Seigneur des Rats",
     "imageUrl": "html/img/collier_ceremonial_du_seigneur_des_rats.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -4378,6 +4528,7 @@ const ITEMS = [
     "name": "Talisman d'Elya Wood",
     "imageUrl": "html/img/talisman_delya_wood.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -4432,6 +4583,7 @@ const ITEMS = [
     "name": "Talisman du Chêne Mou",
     "imageUrl": "html/img/talisman_du_chene_mou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -4486,6 +4638,7 @@ const ITEMS = [
     "name": "La Meulette",
     "imageUrl": "html/img/la_meulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -4545,6 +4698,7 @@ const ITEMS = [
     "name": "Collier du Tanukouï San",
     "imageUrl": "html/img/collier_du_tanukoui_san.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -4599,6 +4753,7 @@ const ITEMS = [
     "name": "Collier du Minotot",
     "imageUrl": "html/img/collier_du_minotot.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -4658,6 +4813,7 @@ const ITEMS = [
     "name": "Zothulette",
     "imageUrl": "html/img/zothulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -4717,6 +4873,7 @@ const ITEMS = [
     "name": "Ougamulette",
     "imageUrl": "html/img/ougamulette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -4766,6 +4923,7 @@ const ITEMS = [
     "name": "Amulette Ripage",
     "imageUrl": "html/img/amulette_ripage.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -4830,6 +4988,7 @@ const ITEMS = [
     "name": "Amunite",
     "imageUrl": "html/img/amunite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -4889,6 +5048,7 @@ const ITEMS = [
     "name": "Kralamansion",
     "imageUrl": "html/img/kralamansion.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -4948,6 +5108,7 @@ const ITEMS = [
     "name": "Anneau du Piou Bleu",
     "imageUrl": "html/img/anneau_du_piou_bleu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -4962,6 +5123,7 @@ const ITEMS = [
     "name": "Anneau du Piou Rose",
     "imageUrl": "html/img/anneau_du_piou_rose.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -4976,6 +5138,7 @@ const ITEMS = [
     "name": "Anneau du Piou Vert",
     "imageUrl": "html/img/anneau_du_piou_vert.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -4990,6 +5153,7 @@ const ITEMS = [
     "name": "Anneau de l'Aventurier",
     "imageUrl": "html/img/anneau_de_laventurier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5024,6 +5188,7 @@ const ITEMS = [
     "name": "Anneau du Piou Violet",
     "imageUrl": "html/img/anneau_du_piou_violet.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5038,6 +5203,7 @@ const ITEMS = [
     "name": "Anneau Agilesque",
     "imageUrl": "html/img/anneau_agilesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -5052,6 +5218,7 @@ const ITEMS = [
     "name": "Alliance",
     "imageUrl": "html/img/alliance.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -5060,6 +5227,7 @@ const ITEMS = [
     "name": "Anneau du Piou Jaune",
     "imageUrl": "html/img/anneau_du_piou_jaune.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -5074,6 +5242,7 @@ const ITEMS = [
     "name": "Anneau du Piou Rouge",
     "imageUrl": "html/img/anneau_du_piou_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -5088,6 +5257,7 @@ const ITEMS = [
     "name": "Anneau Forcesque",
     "imageUrl": "html/img/anneau_forcesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -5102,6 +5272,7 @@ const ITEMS = [
     "name": "Petit Anneau Magique",
     "imageUrl": "html/img/petit_anneau_magique.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -5116,6 +5287,7 @@ const ITEMS = [
     "name": "Petit Anneau de Sagesse",
     "imageUrl": "html/img/petit_anneau_de_sagesse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5130,6 +5302,7 @@ const ITEMS = [
     "name": "Petit Anneau d'Agilité",
     "imageUrl": "html/img/petit_anneau_dagilite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -5144,6 +5317,7 @@ const ITEMS = [
     "name": "Petit Anneau de Chance",
     "imageUrl": "html/img/petit_anneau_de_chance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5158,6 +5332,7 @@ const ITEMS = [
     "name": "Le Plussain",
     "imageUrl": "html/img/le_plussain.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -5172,6 +5347,7 @@ const ITEMS = [
     "name": "Petit Anneau du Chanceux",
     "imageUrl": "html/img/petit_anneau_du_chanceux.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5186,6 +5362,7 @@ const ITEMS = [
     "name": "Camaïneux",
     "imageUrl": "html/img/camaineux.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -5205,6 +5382,7 @@ const ITEMS = [
     "name": "Gantie Royal",
     "imageUrl": "html/img/gantie_royal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -5224,6 +5402,7 @@ const ITEMS = [
     "name": "Anneau Vitalesque",
     "imageUrl": "html/img/anneau_vitalesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -5238,6 +5417,7 @@ const ITEMS = [
     "name": "Anneau Rexik",
     "imageUrl": "html/img/anneau_rexik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -5257,6 +5437,7 @@ const ITEMS = [
     "name": "Anneau d'Agilité",
     "imageUrl": "html/img/anneau_dagilite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -5271,6 +5452,7 @@ const ITEMS = [
     "name": "Anneau de Sagesse",
     "imageUrl": "html/img/anneau_de_sagesse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5285,6 +5467,7 @@ const ITEMS = [
     "name": "Anneau de Chance",
     "imageUrl": "html/img/anneau_de_chance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5299,6 +5482,7 @@ const ITEMS = [
     "name": "Alliance Du Champ Champ",
     "imageUrl": "html/img/alliance_du_champ_champ.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre",
@@ -5328,6 +5512,7 @@ const ITEMS = [
     "name": "Anneau du Champ Champ",
     "imageUrl": "html/img/anneau_du_champ_champ.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -5362,6 +5547,7 @@ const ITEMS = [
     "name": "Anneau Thé",
     "imageUrl": "html/img/anneau_the.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -5370,6 +5556,7 @@ const ITEMS = [
     "name": "Araknoton",
     "imageUrl": "html/img/araknoton.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -5384,6 +5571,7 @@ const ITEMS = [
     "name": "Abranneau",
     "imageUrl": "html/img/abranneau.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -5423,6 +5611,7 @@ const ITEMS = [
     "name": "Grand Anneau d'Agilité",
     "imageUrl": "html/img/grand_anneau_dagilite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -5437,6 +5626,7 @@ const ITEMS = [
     "name": "Grand Anneau de Chance",
     "imageUrl": "html/img/grand_anneau_de_chance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5451,6 +5641,7 @@ const ITEMS = [
     "name": "Grand Anneau de Sagesse",
     "imageUrl": "html/img/grand_anneau_de_sagesse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5465,6 +5656,7 @@ const ITEMS = [
     "name": "Puissant Anneau d'Agilité",
     "imageUrl": "html/img/puissant_anneau_dagilite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -5479,6 +5671,7 @@ const ITEMS = [
     "name": "Anneau de Satisfaction",
     "imageUrl": "html/img/anneau_de_satisfaction.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -5513,6 +5706,7 @@ const ITEMS = [
     "name": "Puissant Anneau de Chance",
     "imageUrl": "html/img/puissant_anneau_de_chance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5527,6 +5721,7 @@ const ITEMS = [
     "name": "Puissant Anneau de Sagesse",
     "imageUrl": "html/img/puissant_anneau_de_sagesse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5541,6 +5736,7 @@ const ITEMS = [
     "name": "Anneau de Bouze le Clerc",
     "imageUrl": "html/img/anneau_de_bouze_le_clerc.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -5555,6 +5751,7 @@ const ITEMS = [
     "name": "Anneau Champêtre",
     "imageUrl": "html/img/anneau_champetre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -5574,6 +5771,7 @@ const ITEMS = [
     "name": "Anneau en Mousse",
     "imageUrl": "html/img/anneau_en_mousse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -5588,6 +5786,7 @@ const ITEMS = [
     "name": "Anneau Fortifiant",
     "imageUrl": "html/img/anneau_fortifiant.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -5602,6 +5801,7 @@ const ITEMS = [
     "name": "Mitaines Mitées du Paysan",
     "imageUrl": "html/img/mitaines_mitees_du_paysan.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -5626,6 +5826,7 @@ const ITEMS = [
     "name": "L'Anneau de Valeur",
     "imageUrl": "html/img/lanneau_de_valeur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -5645,6 +5846,7 @@ const ITEMS = [
     "name": "Anneau du Mental",
     "imageUrl": "html/img/anneau_du_mental.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -5659,6 +5861,7 @@ const ITEMS = [
     "name": "Blessure du Sacrieur",
     "imageUrl": "html/img/blessure_du_sacrieur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -5678,6 +5881,7 @@ const ITEMS = [
     "name": "Anneau des Rocheuses",
     "imageUrl": "html/img/anneau_des_rocheuses.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -5697,6 +5901,7 @@ const ITEMS = [
     "name": "Le Bagueur",
     "imageUrl": "html/img/le_bagueur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -5716,6 +5921,7 @@ const ITEMS = [
     "name": "Anneau Rak",
     "imageUrl": "html/img/anneau_rak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -5735,6 +5941,7 @@ const ITEMS = [
     "name": "Anneau du Bandit",
     "imageUrl": "html/img/anneau_du_bandit.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -5754,6 +5961,7 @@ const ITEMS = [
     "name": "Anneau Vice",
     "imageUrl": "html/img/anneau_vice.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -5773,6 +5981,7 @@ const ITEMS = [
     "name": "Anneau du Sanglier",
     "imageUrl": "html/img/anneau_du_sanglier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5787,6 +5996,7 @@ const ITEMS = [
     "name": "Chance d'Ecaflip",
     "imageUrl": "html/img/chance_decaflip.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5806,6 +6016,7 @@ const ITEMS = [
     "name": "Anneau Zest",
     "imageUrl": "html/img/anneau_zest.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5825,6 +6036,7 @@ const ITEMS = [
     "name": "Alliance de l'Homme Ours",
     "imageUrl": "html/img/alliance_de_lhomme_ours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -5844,6 +6056,7 @@ const ITEMS = [
     "name": "Anneau du Tofu",
     "imageUrl": "html/img/anneau_du_tofu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5863,6 +6076,7 @@ const ITEMS = [
     "name": "Mos Kitano",
     "imageUrl": "html/img/mos_kitano.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5882,6 +6096,7 @@ const ITEMS = [
     "name": "Anneau Mèr",
     "imageUrl": "html/img/anneau_mer.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5901,6 +6116,7 @@ const ITEMS = [
     "name": "Alliance de Silimelle",
     "imageUrl": "html/img/alliance_de_silimelle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -5925,6 +6141,7 @@ const ITEMS = [
     "name": "Fécaliseur du Magicien",
     "imageUrl": "html/img/fecaliseur_du_magicien.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -5949,6 +6166,7 @@ const ITEMS = [
     "name": "Fécaliseur du Guerrier",
     "imageUrl": "html/img/fecaliseur_du_guerrier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre",
@@ -5968,6 +6186,7 @@ const ITEMS = [
     "name": "L'Ecaliseur",
     "imageUrl": "html/img/lecaliseur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -5992,6 +6211,7 @@ const ITEMS = [
     "name": "Passé de Xélor",
     "imageUrl": "html/img/passe_de_xelor.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -6011,6 +6231,7 @@ const ITEMS = [
     "name": "Anneau Royal du Bouftou",
     "imageUrl": "html/img/anneau_royal_du_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6025,6 +6246,7 @@ const ITEMS = [
     "name": "Souvenir d'Enutrof",
     "imageUrl": "html/img/souvenir_denutrof.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -6044,6 +6266,7 @@ const ITEMS = [
     "name": "Anneau Solo",
     "imageUrl": "html/img/anneau_solo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -6078,6 +6301,7 @@ const ITEMS = [
     "name": "Fourballiance",
     "imageUrl": "html/img/fourballiance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6102,6 +6326,7 @@ const ITEMS = [
     "name": "Anneau de la mort",
     "imageUrl": "html/img/anneau_de_la_mort.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -6126,6 +6351,7 @@ const ITEMS = [
     "name": "L'Anneau Dhyn",
     "imageUrl": "html/img/lanneau_dhyn.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -6160,6 +6386,7 @@ const ITEMS = [
     "name": "Alliance Akwadala",
     "imageUrl": "html/img/alliance_akwadala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -6179,6 +6406,7 @@ const ITEMS = [
     "name": "Anneau du Boufcoul",
     "imageUrl": "html/img/anneau_du_boufcoul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6203,6 +6431,7 @@ const ITEMS = [
     "name": "Anneau du Prespic",
     "imageUrl": "html/img/anneau_du_prespic.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Renvois de dommages",
@@ -6217,6 +6446,7 @@ const ITEMS = [
     "name": "Force de Crocoburio",
     "imageUrl": "html/img/force_de_crocoburio.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -6231,6 +6461,7 @@ const ITEMS = [
     "name": "Grosse Bagouze du Parrain",
     "imageUrl": "html/img/grosse_bagouze_du_parrain.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -6255,6 +6486,7 @@ const ITEMS = [
     "name": "Anneau de l'Invocateur Satisfait",
     "imageUrl": "html/img/anneau_de_linvocateur_satisfait.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -6294,6 +6526,7 @@ const ITEMS = [
     "name": "Anobra",
     "imageUrl": "html/img/anobra.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -6308,6 +6541,7 @@ const ITEMS = [
     "name": "Jambanneau",
     "imageUrl": "html/img/jambanneau.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -6322,6 +6556,7 @@ const ITEMS = [
     "name": "Kwakanneau de Glace",
     "imageUrl": "html/img/kwakanneau_de_glace.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau (%)",
@@ -6346,6 +6581,7 @@ const ITEMS = [
     "name": "Kwakanneau de Flammes",
     "imageUrl": "html/img/kwakanneau_de_flammes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance feu (%)",
@@ -6370,6 +6606,7 @@ const ITEMS = [
     "name": "Kwakanneau de Vent",
     "imageUrl": "html/img/kwakanneau_de_vent.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance air (%)",
@@ -6394,6 +6631,7 @@ const ITEMS = [
     "name": "Kwakanneau de Terre",
     "imageUrl": "html/img/kwakanneau_de_terre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre (%)",
@@ -6418,6 +6656,7 @@ const ITEMS = [
     "name": "Scaranneau Rouge",
     "imageUrl": "html/img/scaranneau_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -6452,6 +6691,7 @@ const ITEMS = [
     "name": "Scaranneau Bleu",
     "imageUrl": "html/img/scaranneau_bleu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -6486,6 +6726,7 @@ const ITEMS = [
     "name": "Scaranneau Vert",
     "imageUrl": "html/img/scaranneau_vert.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -6520,6 +6761,7 @@ const ITEMS = [
     "name": "Anneau du Scarabosse Doré",
     "imageUrl": "html/img/anneau_du_scarabosse_dore.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -6539,6 +6781,7 @@ const ITEMS = [
     "name": "Scaranneau Blanc",
     "imageUrl": "html/img/scaranneau_blanc.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -6573,6 +6816,7 @@ const ITEMS = [
     "name": "Anneau de Slait",
     "imageUrl": "html/img/anneau_de_slait.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6597,6 +6841,7 @@ const ITEMS = [
     "name": "Anneau Forain",
     "imageUrl": "html/img/anneau_forain.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -6641,6 +6886,7 @@ const ITEMS = [
     "name": "Anneau Hé",
     "imageUrl": "html/img/anneau_he.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6665,6 +6911,7 @@ const ITEMS = [
     "name": "Anneau Paupayahn",
     "imageUrl": "html/img/anneau_paupayahn.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6704,6 +6951,7 @@ const ITEMS = [
     "name": "Bracelet du Tétounik",
     "imageUrl": "html/img/bracelet_du_tetounik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6728,6 +6976,7 @@ const ITEMS = [
     "name": "Palmano",
     "imageUrl": "html/img/palmano.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -6752,6 +7001,7 @@ const ITEMS = [
     "name": "Abranneau Mou",
     "imageUrl": "html/img/abranneau_mou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -6776,6 +7026,7 @@ const ITEMS = [
     "name": "Scaranneau Noir",
     "imageUrl": "html/img/scaranneau_noir.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6805,6 +7056,7 @@ const ITEMS = [
     "name": "Anneau Stradamus",
     "imageUrl": "html/img/anneau_stradamus.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6829,6 +7081,7 @@ const ITEMS = [
     "name": "Abranneau Sombre",
     "imageUrl": "html/img/abranneau_sombre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -6868,6 +7121,7 @@ const ITEMS = [
     "name": "Anneau Rigami",
     "imageUrl": "html/img/anneau_rigami.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6902,6 +7156,7 @@ const ITEMS = [
     "name": "Blopanneau Coco",
     "imageUrl": "html/img/blopanneau_coco.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -6931,6 +7186,7 @@ const ITEMS = [
     "name": "Anodindo",
     "imageUrl": "html/img/anodindo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -6965,6 +7221,7 @@ const ITEMS = [
     "name": "Anneau Zocomial",
     "imageUrl": "html/img/anneau_zocomial.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -6999,6 +7256,7 @@ const ITEMS = [
     "name": "Blopanneau Griotte",
     "imageUrl": "html/img/blopanneau_griotte.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -7028,6 +7286,7 @@ const ITEMS = [
     "name": "Blopanneau Indigo",
     "imageUrl": "html/img/blopanneau_indigo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -7057,6 +7316,7 @@ const ITEMS = [
     "name": "Blopanneau Reinette",
     "imageUrl": "html/img/blopanneau_reinette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -7086,6 +7346,7 @@ const ITEMS = [
     "name": "Anneau Tribal",
     "imageUrl": "html/img/anneau_tribal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7125,6 +7386,7 @@ const ITEMS = [
     "name": "Anneau du Mulou",
     "imageUrl": "html/img/anneau_du_mulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -7159,6 +7421,7 @@ const ITEMS = [
     "name": "Alliance Ethnique",
     "imageUrl": "html/img/alliance_ethnique.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -7193,6 +7456,7 @@ const ITEMS = [
     "name": "Anneau du Koalak",
     "imageUrl": "html/img/anneau_du_koalak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7222,6 +7486,7 @@ const ITEMS = [
     "name": "Anneau Karina",
     "imageUrl": "html/img/anneau_karina.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -7256,6 +7521,7 @@ const ITEMS = [
     "name": "Anneau du Kitsou",
     "imageUrl": "html/img/anneau_du_kitsou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7285,6 +7551,7 @@ const ITEMS = [
     "name": "Alliance Aerdala",
     "imageUrl": "html/img/alliance_aerdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -7314,6 +7581,7 @@ const ITEMS = [
     "name": "Anneau Piaume",
     "imageUrl": "html/img/anneau_piaume.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -7338,6 +7606,7 @@ const ITEMS = [
     "name": "Anneau Ha",
     "imageUrl": "html/img/anneau_ha.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7372,6 +7641,7 @@ const ITEMS = [
     "name": "Anneau Merta",
     "imageUrl": "html/img/anneau_merta.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -7411,6 +7681,7 @@ const ITEMS = [
     "name": "L'Enutrofion",
     "imageUrl": "html/img/lenutrofion.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -7430,6 +7701,7 @@ const ITEMS = [
     "name": "Anneau du Jeune Vald",
     "imageUrl": "html/img/anneau_du_jeune_vald.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -7479,6 +7751,7 @@ const ITEMS = [
     "name": "Alliance de Corail",
     "imageUrl": "html/img/alliance_de_corail.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -7523,6 +7796,7 @@ const ITEMS = [
     "name": "Gelano",
     "imageUrl": "html/img/gelano.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -7537,6 +7811,7 @@ const ITEMS = [
     "name": "Anneau Poli",
     "imageUrl": "html/img/anneau_poli.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -7616,6 +7891,7 @@ const ITEMS = [
     "name": "Anneau Fioutioure",
     "imageUrl": "html/img/anneau_fioutioure.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -7645,6 +7921,7 @@ const ITEMS = [
     "name": "Anneau Bsène",
     "imageUrl": "html/img/anneau_bsene.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7684,6 +7961,7 @@ const ITEMS = [
     "name": "Bracelet du Chef Crocodaille",
     "imageUrl": "html/img/bracelet_du_chef_crocodaille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -7723,6 +8001,7 @@ const ITEMS = [
     "name": "Anneau Nime",
     "imageUrl": "html/img/anneau_nime.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7787,6 +8066,7 @@ const ITEMS = [
     "name": "Alliance Terrdala",
     "imageUrl": "html/img/alliance_terrdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7821,6 +8101,7 @@ const ITEMS = [
     "name": "Blopanneau Coco Royal",
     "imageUrl": "html/img/blopanneau_coco_royal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7860,6 +8141,7 @@ const ITEMS = [
     "name": "Anneau de Loopine",
     "imageUrl": "html/img/anneau_de_loopine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7909,6 +8191,7 @@ const ITEMS = [
     "name": "Blopanneau Griotte Royal",
     "imageUrl": "html/img/blopanneau_griotte_royal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7948,6 +8231,7 @@ const ITEMS = [
     "name": "Blopanneau Indigo Royal",
     "imageUrl": "html/img/blopanneau_indigo_royal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -7987,6 +8271,7 @@ const ITEMS = [
     "name": "Craquanneau Légendaire",
     "imageUrl": "html/img/craquanneau_legendaire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -8026,6 +8311,7 @@ const ITEMS = [
     "name": "Bracelet Magique de Shika",
     "imageUrl": "html/img/bracelet_magique_de_shika.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -8075,6 +8361,7 @@ const ITEMS = [
     "name": "Blopanneau Reinette Royal",
     "imageUrl": "html/img/blopanneau_reinette_royal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -8114,6 +8401,7 @@ const ITEMS = [
     "name": "Bracelet Magique de Farle",
     "imageUrl": "html/img/bracelet_magique_de_farle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -8163,6 +8451,7 @@ const ITEMS = [
     "name": "Alliance Feudala",
     "imageUrl": "html/img/alliance_feudala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -8197,6 +8486,7 @@ const ITEMS = [
     "name": "Anneau du Mineur Gogorifiant",
     "imageUrl": "html/img/anneau_du_mineur_gogorifiant.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -8246,6 +8536,7 @@ const ITEMS = [
     "name": "Alliance de Farle",
     "imageUrl": "html/img/alliance_de_farle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -8290,6 +8581,7 @@ const ITEMS = [
     "name": "Anneau K'Tuelle",
     "imageUrl": "html/img/anneau_ktuelle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -8334,6 +8626,7 @@ const ITEMS = [
     "name": "Blopanneau Multicolore Royal",
     "imageUrl": "html/img/blopanneau_multicolore_royal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -8373,6 +8666,7 @@ const ITEMS = [
     "name": "Anneau du Rat Noir",
     "imageUrl": "html/img/anneau_du_rat_noir.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -8427,6 +8721,7 @@ const ITEMS = [
     "name": "Bracelet du Chef Bwork",
     "imageUrl": "html/img/bracelet_du_chef_bwork.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -8501,6 +8796,7 @@ const ITEMS = [
     "name": "Gantelet du Rat Blanc",
     "imageUrl": "html/img/gantelet_du_rat_blanc.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -8560,6 +8856,7 @@ const ITEMS = [
     "name": "Anneau du Minotoror",
     "imageUrl": "html/img/anneau_du_minotoror.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -8604,6 +8901,7 @@ const ITEMS = [
     "name": "Anneau du Dragon Cochon",
     "imageUrl": "html/img/anneau_du_dragon_cochon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -8663,6 +8961,7 @@ const ITEMS = [
     "name": "Anneau Ancestral",
     "imageUrl": "html/img/anneau_ancestral.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -8707,6 +9006,7 @@ const ITEMS = [
     "name": "Alliance d'Elya Wood",
     "imageUrl": "html/img/alliance_delya_wood.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -8756,6 +9056,7 @@ const ITEMS = [
     "name": "Anneau Skargo",
     "imageUrl": "html/img/anneau_skargo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -8800,6 +9101,7 @@ const ITEMS = [
     "name": "Anneau du Meulou",
     "imageUrl": "html/img/anneau_du_meulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -8854,6 +9156,7 @@ const ITEMS = [
     "name": "Anneau du Dragoeuf",
     "imageUrl": "html/img/anneau_du_dragoeuf.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -8898,6 +9201,7 @@ const ITEMS = [
     "name": "Anneau Cérémonial du Seigneur des Rats",
     "imageUrl": "html/img/anneau_ceremonial_du_seigneur_des_rats.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -8952,6 +9256,7 @@ const ITEMS = [
     "name": "Anneau du Chêne Mou",
     "imageUrl": "html/img/anneau_du_chene_mou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -9011,6 +9316,7 @@ const ITEMS = [
     "name": "Anneau Stalgik",
     "imageUrl": "html/img/anneau_stalgik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Maladresse de 1",
@@ -9040,6 +9346,7 @@ const ITEMS = [
     "name": "Anneau Raille",
     "imageUrl": "html/img/anneau_raille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -9069,6 +9376,7 @@ const ITEMS = [
     "name": "Anneau Pwal",
     "imageUrl": "html/img/anneau_pwal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive le lancer en ligne du sort 0",
@@ -9098,6 +9406,7 @@ const ITEMS = [
     "name": "Anneau Pitale",
     "imageUrl": "html/img/anneau_pitale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Ch&acirc",
@@ -9127,6 +9436,7 @@ const ITEMS = [
     "name": "Anneau Bhli",
     "imageUrl": "html/img/anneau_bhli.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+30 aux CC sur le sort Flèche Explosive",
@@ -9156,6 +9466,7 @@ const ITEMS = [
     "name": "Anneau Hell",
     "imageUrl": "html/img/anneau_hell.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Piège Empoisonné",
@@ -9185,6 +9496,7 @@ const ITEMS = [
     "name": "Anneau Tassion",
     "imageUrl": "html/img/anneau_tassion.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+30 aux CC sur le sort Armure Aqueuse",
@@ -9214,6 +9526,7 @@ const ITEMS = [
     "name": "Bague Houx",
     "imageUrl": "html/img/bague_houx.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+20 aux CC sur le sort Griffe de Ceangal",
@@ -9243,6 +9556,7 @@ const ITEMS = [
     "name": "Bague Héra",
     "imageUrl": "html/img/bague_hera.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Invocation de Craqueleur de 1",
@@ -9272,6 +9586,7 @@ const ITEMS = [
     "name": "Bague Harre",
     "imageUrl": "html/img/bague_harre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -9301,6 +9616,7 @@ const ITEMS = [
     "name": "Anneau Zamour",
     "imageUrl": "html/img/anneau_zamour.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive le lancer en ligne du sort 0",
@@ -9330,6 +9646,7 @@ const ITEMS = [
     "name": "Anneau Tilus",
     "imageUrl": "html/img/anneau_tilus.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le délai de relance du sort Dévouement",
@@ -9359,6 +9676,7 @@ const ITEMS = [
     "name": "Bracelet du Minotot",
     "imageUrl": "html/img/bracelet_du_minotot.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -9423,6 +9741,7 @@ const ITEMS = [
     "name": "Sceau Souverain du Roissingue",
     "imageUrl": "html/img/sceau_souverain_du_roissingue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -9482,6 +9801,7 @@ const ITEMS = [
     "name": "Bracelet Ventré",
     "imageUrl": "html/img/bracelet_ventre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -9541,6 +9861,7 @@ const ITEMS = [
     "name": "Anneau Bliteré",
     "imageUrl": "html/img/anneau_blitere.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -9600,6 +9921,7 @@ const ITEMS = [
     "name": "Anneau Chevelu",
     "imageUrl": "html/img/anneau_chevelu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -9659,6 +9981,7 @@ const ITEMS = [
     "name": "Alliance Boletée",
     "imageUrl": "html/img/alliance_boletee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -9718,6 +10041,7 @@ const ITEMS = [
     "name": "Anneau Colerette",
     "imageUrl": "html/img/anneau_colerette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -9782,6 +10106,7 @@ const ITEMS = [
     "name": "Annolamour",
     "imageUrl": "html/img/annolamour.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -9841,6 +10166,7 @@ const ITEMS = [
     "name": "Kralano",
     "imageUrl": "html/img/kralano.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -9905,6 +10231,7 @@ const ITEMS = [
     "name": "Bottes de l'Aventurier",
     "imageUrl": "html/img/bottes_de_laventurier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -9939,6 +10266,7 @@ const ITEMS = [
     "name": "Bottes du Bouftou",
     "imageUrl": "html/img/bottes_du_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -9953,6 +10281,7 @@ const ITEMS = [
     "name": "Les Incrustes",
     "imageUrl": "html/img/les_incrustes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance neutre",
@@ -9967,6 +10296,7 @@ const ITEMS = [
     "name": "Sandales Tofuesques",
     "imageUrl": "html/img/sandales_tofuesques.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -9981,6 +10311,7 @@ const ITEMS = [
     "name": "Bottananas",
     "imageUrl": "html/img/bottananas.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -9989,6 +10320,7 @@ const ITEMS = [
     "name": "Bottes du Petit Bouftou",
     "imageUrl": "html/img/bottes_du_petit_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10003,6 +10335,7 @@ const ITEMS = [
     "name": "Bottes Usées d'Hogmeiser",
     "imageUrl": "html/img/bottes_usees_dhogmeiser.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM perdu à la cible",
@@ -10022,6 +10355,7 @@ const ITEMS = [
     "name": "Sandales du Piou Rouge",
     "imageUrl": "html/img/sandales_du_piou_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -10036,6 +10370,7 @@ const ITEMS = [
     "name": "Sandales du Piou Violet",
     "imageUrl": "html/img/sandales_du_piou_violet.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -10050,6 +10385,7 @@ const ITEMS = [
     "name": "Sandales du Piou Rose",
     "imageUrl": "html/img/sandales_du_piou_rose.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10064,6 +10400,7 @@ const ITEMS = [
     "name": "Sandales du Piou Vert",
     "imageUrl": "html/img/sandales_du_piou_vert.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10078,6 +10415,7 @@ const ITEMS = [
     "name": "Sandales du Piou Bleu",
     "imageUrl": "html/img/sandales_du_piou_bleu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -10092,6 +10430,7 @@ const ITEMS = [
     "name": "Sandales du Piou Jaune",
     "imageUrl": "html/img/sandales_du_piou_jaune.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -10106,6 +10445,7 @@ const ITEMS = [
     "name": "Bottes du Chat Buté",
     "imageUrl": "html/img/bottes_du_chat_bute.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -10125,6 +10465,7 @@ const ITEMS = [
     "name": "Petites Bottes de Force",
     "imageUrl": "html/img/petites_bottes_de_force.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -10144,6 +10485,7 @@ const ITEMS = [
     "name": "Einekeineux",
     "imageUrl": "html/img/einekeineux.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -10163,6 +10505,7 @@ const ITEMS = [
     "name": "Fecaflip",
     "imageUrl": "html/img/fecaflip.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -10182,6 +10525,7 @@ const ITEMS = [
     "name": "Bottes du Grand Bouftou",
     "imageUrl": "html/img/bottes_du_grand_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10196,6 +10540,7 @@ const ITEMS = [
     "name": "Bottes du Puissant Bouftou",
     "imageUrl": "html/img/bottes_du_puissant_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10210,6 +10555,7 @@ const ITEMS = [
     "name": "Bottes de Chance",
     "imageUrl": "html/img/bottes_de_chance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -10224,6 +10570,7 @@ const ITEMS = [
     "name": "Bottes Agilesques",
     "imageUrl": "html/img/bottes_agilesques.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10238,6 +10585,7 @@ const ITEMS = [
     "name": "Bottes de Kluh",
     "imageUrl": "html/img/bottes_de_kluh.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -10257,6 +10605,7 @@ const ITEMS = [
     "name": "Sandales d'Intelligence",
     "imageUrl": "html/img/sandales_dintelligence.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -10271,6 +10620,7 @@ const ITEMS = [
     "name": "Boufbottes",
     "imageUrl": "html/img/boufbottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -10290,6 +10640,7 @@ const ITEMS = [
     "name": "Bottes Champêtres",
     "imageUrl": "html/img/bottes_champetres.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10309,6 +10660,7 @@ const ITEMS = [
     "name": "Bottes en Mousse",
     "imageUrl": "html/img/bottes_en_mousse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10323,6 +10675,7 @@ const ITEMS = [
     "name": "Petites Bottes de Klime",
     "imageUrl": "html/img/petites_bottes_de_klime.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10347,6 +10700,7 @@ const ITEMS = [
     "name": "Gobtroteur",
     "imageUrl": "html/img/gobtroteur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10371,6 +10725,7 @@ const ITEMS = [
     "name": "Bottes de Nexus",
     "imageUrl": "html/img/bottes_de_nexus.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10385,6 +10740,7 @@ const ITEMS = [
     "name": "Bottes de Klime",
     "imageUrl": "html/img/bottes_de_klime.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10409,6 +10765,7 @@ const ITEMS = [
     "name": "Bottes de Satisfaction",
     "imageUrl": "html/img/bottes_de_satisfaction.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -10443,6 +10800,7 @@ const ITEMS = [
     "name": "Grandes Bottes de Klime",
     "imageUrl": "html/img/grandes_bottes_de_klime.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10467,6 +10825,7 @@ const ITEMS = [
     "name": "Bottes Paysannes",
     "imageUrl": "html/img/bottes_paysannes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10486,6 +10845,7 @@ const ITEMS = [
     "name": "Puissantes Bottes de Klime",
     "imageUrl": "html/img/puissantes_bottes_de_klime.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10510,6 +10870,7 @@ const ITEMS = [
     "name": "Bottes de l'Homme Ours",
     "imageUrl": "html/img/bottes_de_lhomme_ours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10529,6 +10890,7 @@ const ITEMS = [
     "name": "Bottes de Maîtrise",
     "imageUrl": "html/img/bottes_de_maitrise.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10558,6 +10920,7 @@ const ITEMS = [
     "name": "Bottes d'Anticipation",
     "imageUrl": "html/img/bottes_danticipation.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -10587,6 +10950,7 @@ const ITEMS = [
     "name": "Bottes de Puissance",
     "imageUrl": "html/img/bottes_de_puissance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -10616,6 +10980,7 @@ const ITEMS = [
     "name": "Pieds du Sanglier",
     "imageUrl": "html/img/pieds_du_sanglier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -10635,6 +11000,7 @@ const ITEMS = [
     "name": "Petites Bottes de Concentration",
     "imageUrl": "html/img/petites_bottes_de_concentration.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -10654,6 +11020,7 @@ const ITEMS = [
     "name": "Pantoufles du Tofu",
     "imageUrl": "html/img/pantoufles_du_tofu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10678,6 +11045,7 @@ const ITEMS = [
     "name": "Bottes de Concentration",
     "imageUrl": "html/img/bottes_de_concentration.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -10697,6 +11065,7 @@ const ITEMS = [
     "name": "Bottes de Faillete",
     "imageUrl": "html/img/bottes_de_faillete.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -10711,6 +11080,7 @@ const ITEMS = [
     "name": "Grandes Bottes de Concentration",
     "imageUrl": "html/img/grandes_bottes_de_concentration.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -10730,6 +11100,7 @@ const ITEMS = [
     "name": "L'Ecrabouilleur de Iop",
     "imageUrl": "html/img/lecrabouilleur_de_iop.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -10754,6 +11125,7 @@ const ITEMS = [
     "name": "Puissantes Bottes de Concentration",
     "imageUrl": "html/img/puissantes_bottes_de_concentration.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -10773,6 +11145,7 @@ const ITEMS = [
     "name": "Souliers Vernis de Porkass",
     "imageUrl": "html/img/souliers_vernis_de_porkass.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -10807,6 +11180,7 @@ const ITEMS = [
     "name": "Sandales Macien",
     "imageUrl": "html/img/sandales_macien.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10831,6 +11205,7 @@ const ITEMS = [
     "name": "Bottes du bois de l'est",
     "imageUrl": "html/img/bottes_du_bois_de_lest.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -10865,6 +11240,7 @@ const ITEMS = [
     "name": "Petites Bottes de Poursuite",
     "imageUrl": "html/img/petites_bottes_de_poursuite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -10889,6 +11265,7 @@ const ITEMS = [
     "name": "Larvabottes",
     "imageUrl": "html/img/larvabottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -10908,6 +11285,7 @@ const ITEMS = [
     "name": "Pantoufrelons",
     "imageUrl": "html/img/pantoufrelons.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10932,6 +11310,7 @@ const ITEMS = [
     "name": "Fourbabottes",
     "imageUrl": "html/img/fourbabottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -10956,6 +11335,7 @@ const ITEMS = [
     "name": "Bottes de Poursuite",
     "imageUrl": "html/img/bottes_de_poursuite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -10980,6 +11360,7 @@ const ITEMS = [
     "name": "Geta Akwadala",
     "imageUrl": "html/img/geta_akwadala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -11004,6 +11385,7 @@ const ITEMS = [
     "name": "Grandes Bottes de Poursuite",
     "imageUrl": "html/img/grandes_bottes_de_poursuite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -11028,6 +11410,7 @@ const ITEMS = [
     "name": "Bottes Tarsy",
     "imageUrl": "html/img/bottes_tarsy.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -11072,6 +11455,7 @@ const ITEMS = [
     "name": "Bottes du Boufcoul",
     "imageUrl": "html/img/bottes_du_boufcoul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -11096,6 +11480,7 @@ const ITEMS = [
     "name": "Puissantes Bottes de Poursuite",
     "imageUrl": "html/img/puissantes_bottes_de_poursuite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -11120,6 +11505,7 @@ const ITEMS = [
     "name": "Bottes de Lymphe a Tik",
     "imageUrl": "html/img/bottes_de_lymphe_a_tik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau (%)",
@@ -11159,6 +11545,7 @@ const ITEMS = [
     "name": "Kwakobottes de Flammes",
     "imageUrl": "html/img/kwakobottes_de_flammes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11183,6 +11570,7 @@ const ITEMS = [
     "name": "Chaussures du Tétounik",
     "imageUrl": "html/img/chaussures_du_tetounik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -11207,6 +11595,7 @@ const ITEMS = [
     "name": "Kwakobottes du Vent",
     "imageUrl": "html/img/kwakobottes_du_vent.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11231,6 +11620,7 @@ const ITEMS = [
     "name": "Souliers laqués du Parrain",
     "imageUrl": "html/img/souliers_laques_du_parrain.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11260,6 +11650,7 @@ const ITEMS = [
     "name": "Kwakobottes de Terre",
     "imageUrl": "html/img/kwakobottes_de_terre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11284,6 +11675,7 @@ const ITEMS = [
     "name": "Kwakobottes de Glace",
     "imageUrl": "html/img/kwakobottes_de_glace.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11308,6 +11700,7 @@ const ITEMS = [
     "name": "Bottes Volatiles",
     "imageUrl": "html/img/bottes_volatiles.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance air (%)",
@@ -11337,6 +11730,7 @@ const ITEMS = [
     "name": "Surpuissantes Bottes de Klime",
     "imageUrl": "html/img/surpuissantes_bottes_de_klime.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11361,6 +11755,7 @@ const ITEMS = [
     "name": "Esprit de Crocoburio",
     "imageUrl": "html/img/esprit_de_crocoburio.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -11380,6 +11775,7 @@ const ITEMS = [
     "name": "Bottes Siks Won Naïne",
     "imageUrl": "html/img/bottes_siks_won_naine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -11409,6 +11805,7 @@ const ITEMS = [
     "name": "Les Chaplures",
     "imageUrl": "html/img/les_chaplures.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -11433,6 +11830,7 @@ const ITEMS = [
     "name": "Bottes Paupayahn",
     "imageUrl": "html/img/bottes_paupayahn.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11467,6 +11865,7 @@ const ITEMS = [
     "name": "Bottes Vioutifoule",
     "imageUrl": "html/img/bottes_vioutifoule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -11501,6 +11900,7 @@ const ITEMS = [
     "name": "Les Sleumpettes",
     "imageUrl": "html/img/les_sleumpettes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11530,6 +11930,7 @@ const ITEMS = [
     "name": "Bottes de Slait",
     "imageUrl": "html/img/bottes_de_slait.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -11554,6 +11955,7 @@ const ITEMS = [
     "name": "Mégabottes",
     "imageUrl": "html/img/megabottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -11588,6 +11990,7 @@ const ITEMS = [
     "name": "Corbottes",
     "imageUrl": "html/img/corbottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -11612,6 +12015,7 @@ const ITEMS = [
     "name": "L'Eni Kère",
     "imageUrl": "html/img/leni_kere.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -11641,6 +12045,7 @@ const ITEMS = [
     "name": "Abrabottes",
     "imageUrl": "html/img/abrabottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -11655,6 +12060,7 @@ const ITEMS = [
     "name": "Bottines du Black Wab",
     "imageUrl": "html/img/bottines_du_black_wab.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -11684,6 +12090,7 @@ const ITEMS = [
     "name": "Bottes du Craqueleur",
     "imageUrl": "html/img/bottes_du_craqueleur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11718,6 +12125,7 @@ const ITEMS = [
     "name": "Bottes de Ragalde",
     "imageUrl": "html/img/bottes_de_ragalde.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -11757,6 +12165,7 @@ const ITEMS = [
     "name": "Sandales Papayou",
     "imageUrl": "html/img/sandales_papayou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -11781,6 +12190,7 @@ const ITEMS = [
     "name": "Bloptes Indigo",
     "imageUrl": "html/img/bloptes_indigo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11820,6 +12230,7 @@ const ITEMS = [
     "name": "Bloptes Coco",
     "imageUrl": "html/img/bloptes_coco.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11859,6 +12270,7 @@ const ITEMS = [
     "name": "Bloptes Griottes",
     "imageUrl": "html/img/bloptes_griottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11898,6 +12310,7 @@ const ITEMS = [
     "name": "Bloptes Reinette",
     "imageUrl": "html/img/bloptes_reinette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11937,6 +12350,7 @@ const ITEMS = [
     "name": "Bottes d'Apprentissage",
     "imageUrl": "html/img/bottes_dapprentissage.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -11966,6 +12380,7 @@ const ITEMS = [
     "name": "Boufbottes Royales",
     "imageUrl": "html/img/boufbottes_royales.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -11985,6 +12400,7 @@ const ITEMS = [
     "name": "Botodindo",
     "imageUrl": "html/img/botodindo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -12014,6 +12430,7 @@ const ITEMS = [
     "name": "Bottes de Bowisse",
     "imageUrl": "html/img/bottes_de_bowisse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -12043,6 +12460,7 @@ const ITEMS = [
     "name": "Bottes de l'Apprenti Invocateur",
     "imageUrl": "html/img/bottes_de_lapprenti_invocateur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -12097,6 +12515,7 @@ const ITEMS = [
     "name": "Bottes de Céleri-Thé",
     "imageUrl": "html/img/bottes_de_celeri-the.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -12126,6 +12545,7 @@ const ITEMS = [
     "name": "Scarabottes Dorées",
     "imageUrl": "html/img/scarabottes_dorees.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -12165,6 +12585,7 @@ const ITEMS = [
     "name": "Sandales Ailuya",
     "imageUrl": "html/img/sandales_ailuya.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -12204,6 +12625,7 @@ const ITEMS = [
     "name": "Geta Aerdala",
     "imageUrl": "html/img/geta_aerdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -12233,6 +12655,7 @@ const ITEMS = [
     "name": "Sandales Koliques",
     "imageUrl": "html/img/sandales_koliques.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -12257,6 +12680,7 @@ const ITEMS = [
     "name": "Bottes du Koalak",
     "imageUrl": "html/img/bottes_du_koalak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -12281,6 +12705,7 @@ const ITEMS = [
     "name": "Carabottes",
     "imageUrl": "html/img/carabottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -12300,6 +12725,7 @@ const ITEMS = [
     "name": "Gelobottes",
     "imageUrl": "html/img/gelobottes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -12319,6 +12745,7 @@ const ITEMS = [
     "name": "Tongues Wabbits",
     "imageUrl": "html/img/tongues_wabbits.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -12348,6 +12775,7 @@ const ITEMS = [
     "name": "Bottines du Mulou",
     "imageUrl": "html/img/bottines_du_mulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12387,6 +12815,7 @@ const ITEMS = [
     "name": "Moon Boots",
     "imageUrl": "html/img/moon_boots.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -12421,6 +12850,7 @@ const ITEMS = [
     "name": "Tongues Baques",
     "imageUrl": "html/img/tongues_baques.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -12450,6 +12880,7 @@ const ITEMS = [
     "name": "Bottes de l'Eleveur de Bouftous",
     "imageUrl": "html/img/bottes_de_leleveur_de_bouftous.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12484,6 +12915,7 @@ const ITEMS = [
     "name": "Geta Feudala",
     "imageUrl": "html/img/geta_feudala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -12518,6 +12950,7 @@ const ITEMS = [
     "name": "Pantoufles Crochues du Chef Crocodaille",
     "imageUrl": "html/img/pantoufles_crochues_du_chef_crocodaille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -12547,6 +12980,7 @@ const ITEMS = [
     "name": "Bottes du Koulosse",
     "imageUrl": "html/img/bottes_du_koulosse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12601,6 +13035,7 @@ const ITEMS = [
     "name": "Sandales Adin",
     "imageUrl": "html/img/sandales_adin.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12630,6 +13065,7 @@ const ITEMS = [
     "name": "Geta Terrdala",
     "imageUrl": "html/img/geta_terrdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -12664,6 +13100,7 @@ const ITEMS = [
     "name": "Bottes d'Hogmeiser",
     "imageUrl": "html/img/bottes_dhogmeiser.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -12703,6 +13140,7 @@ const ITEMS = [
     "name": "Bottes Orino",
     "imageUrl": "html/img/bottes_orino.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12747,6 +13185,7 @@ const ITEMS = [
     "name": "Bloptes Coco Royales",
     "imageUrl": "html/img/bloptes_coco_royales.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12791,6 +13230,7 @@ const ITEMS = [
     "name": "Bloptes Griotte Royales",
     "imageUrl": "html/img/bloptes_griotte_royales.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12835,6 +13275,7 @@ const ITEMS = [
     "name": "Bloptes Reinette Royales",
     "imageUrl": "html/img/bloptes_reinette_royales.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12879,6 +13320,7 @@ const ITEMS = [
     "name": "Sabots de Shika",
     "imageUrl": "html/img/sabots_de_shika.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -12938,6 +13380,7 @@ const ITEMS = [
     "name": "Bloptes Indigo Royales",
     "imageUrl": "html/img/bloptes_indigo_royales.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -12982,6 +13425,7 @@ const ITEMS = [
     "name": "Sabots de Farle",
     "imageUrl": "html/img/sabots_de_farle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -13041,6 +13485,7 @@ const ITEMS = [
     "name": "Bottes du Gardien des Egoûts",
     "imageUrl": "html/img/bottes_du_gardien_des_egouts.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -13080,6 +13525,7 @@ const ITEMS = [
     "name": "Bottes Du Craqueleur Légendaire",
     "imageUrl": "html/img/bottes_du_craqueleur_legendaire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -13124,6 +13570,7 @@ const ITEMS = [
     "name": "Bloptes Multicolores Royales",
     "imageUrl": "html/img/bloptes_multicolores_royales.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -13178,6 +13625,7 @@ const ITEMS = [
     "name": "Mules du Dragon Cochon",
     "imageUrl": "html/img/mules_du_dragon_cochon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -13237,6 +13685,7 @@ const ITEMS = [
     "name": "Bottes Animales",
     "imageUrl": "html/img/bottes_animales.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -13281,6 +13730,7 @@ const ITEMS = [
     "name": "Bottes du Rat Blanc",
     "imageUrl": "html/img/bottes_du_rat_blanc.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -13325,6 +13775,7 @@ const ITEMS = [
     "name": "Bottes Dorées d'Hogmeiser",
     "imageUrl": "html/img/bottes_dorees_dhogmeiser.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -13379,6 +13830,7 @@ const ITEMS = [
     "name": "Bottes Horchons",
     "imageUrl": "html/img/bottes_horchons.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -13428,6 +13880,7 @@ const ITEMS = [
     "name": "Bottes Antrin",
     "imageUrl": "html/img/bottes_antrin.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -13462,6 +13915,7 @@ const ITEMS = [
     "name": "Bottes Antouche",
     "imageUrl": "html/img/bottes_antouche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+30 aux CC sur le sort Armure Venteuse",
@@ -13496,6 +13950,7 @@ const ITEMS = [
     "name": "Botte Hairo",
     "imageUrl": "html/img/botte_hairo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+25 aux CC sur le sort Horloge",
@@ -13530,6 +13985,7 @@ const ITEMS = [
     "name": "Botte Ulisme",
     "imageUrl": "html/img/botte_ulisme.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Mot d'Envol de 4",
@@ -13564,6 +14020,7 @@ const ITEMS = [
     "name": "Charentaises à poils",
     "imageUrl": "html/img/charentaises_a_poils.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Roue de la Fortune de 4",
@@ -13598,6 +14055,7 @@ const ITEMS = [
     "name": "Bottes Deuradi",
     "imageUrl": "html/img/bottes_deuradi.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Flèche Punitive",
@@ -13632,6 +14090,7 @@ const ITEMS = [
     "name": "Chaussures Lepon-Davignon",
     "imageUrl": "html/img/chaussures_lepon-davignon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -13666,6 +14125,7 @@ const ITEMS = [
     "name": "Bottes Hox",
     "imageUrl": "html/img/bottes_hox.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Attaque Mortelle de 1",
@@ -13700,6 +14160,7 @@ const ITEMS = [
     "name": "Bottes Hanik",
     "imageUrl": "html/img/bottes_hanik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente de 1 le nombre de lancer maximal par tour du sort Ronces Multiples",
@@ -13734,6 +14195,7 @@ const ITEMS = [
     "name": "Bottes Swana",
     "imageUrl": "html/img/bottes_swana.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Frappe du Craqueleur de 1",
@@ -13768,6 +14230,7 @@ const ITEMS = [
     "name": "Tong Aclou",
     "imageUrl": "html/img/tong_aclou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Ch&acirc",
@@ -13802,6 +14265,7 @@ const ITEMS = [
     "name": "Bottes du Chef Bwork",
     "imageUrl": "html/img/bottes_du_chef_bwork.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -13856,6 +14320,7 @@ const ITEMS = [
     "name": "Getas Bernacle",
     "imageUrl": "html/img/getas_bernacle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -13890,6 +14355,7 @@ const ITEMS = [
     "name": "Bottes du Rat Noir",
     "imageUrl": "html/img/bottes_du_rat_noir.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -13934,6 +14400,7 @@ const ITEMS = [
     "name": "Protège-Tibias Ancestraux",
     "imageUrl": "html/img/protege-tibias_ancestraux.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -13983,6 +14450,7 @@ const ITEMS = [
     "name": "Bottes du Minotoror",
     "imageUrl": "html/img/bottes_du_minotoror.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -14037,6 +14505,7 @@ const ITEMS = [
     "name": "Sandales Humeuses",
     "imageUrl": "html/img/sandales_humeuses.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -14091,6 +14560,7 @@ const ITEMS = [
     "name": "Bottes Animales Sombres",
     "imageUrl": "html/img/bottes_animales_sombres.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -14145,6 +14615,7 @@ const ITEMS = [
     "name": "Sandales Titude",
     "imageUrl": "html/img/sandales_titude.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -14194,6 +14665,7 @@ const ITEMS = [
     "name": "Bottes Harry",
     "imageUrl": "html/img/bottes_harry.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -14248,6 +14720,7 @@ const ITEMS = [
     "name": "Bottes du Dragoeuf",
     "imageUrl": "html/img/bottes_du_dragoeuf.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -14312,6 +14785,7 @@ const ITEMS = [
     "name": "Bottes du Meulou",
     "imageUrl": "html/img/bottes_du_meulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -14411,6 +14885,7 @@ const ITEMS = [
     "name": "Bottes Cérémoniales du Seigneur des Rats",
     "imageUrl": "html/img/bottes_ceremoniales_du_seigneur_des_rats.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -14475,6 +14950,7 @@ const ITEMS = [
     "name": "Tongues du dimanche du Chêne Mou",
     "imageUrl": "html/img/tongues_du_dimanche_du_chene_mou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -14539,6 +15015,7 @@ const ITEMS = [
     "name": "Bottines en bois d'abrakleur",
     "imageUrl": "html/img/bottines_en_bois_dabrakleur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -14593,6 +15070,7 @@ const ITEMS = [
     "name": "Sandales Hambic",
     "imageUrl": "html/img/sandales_hambic.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -14647,6 +15125,7 @@ const ITEMS = [
     "name": "Sandales du Minotot",
     "imageUrl": "html/img/sandales_du_minotot.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -14706,6 +15185,7 @@ const ITEMS = [
     "name": "Bottines des sous-bois",
     "imageUrl": "html/img/bottines_des_sous-bois.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -14765,6 +15245,7 @@ const ITEMS = [
     "name": "Chaussons Pignons",
     "imageUrl": "html/img/chaussons_pignons.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -14819,6 +15300,7 @@ const ITEMS = [
     "name": "Bottes Répané",
     "imageUrl": "html/img/bottes_repane.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -14878,6 +15360,7 @@ const ITEMS = [
     "name": "Sandales Circulaires du Kimbo",
     "imageUrl": "html/img/sandales_circulaires_du_kimbo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -14932,6 +15415,7 @@ const ITEMS = [
     "name": "Cape Brâkmarienne",
     "imageUrl": "html/img/cape_brakmarienne.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -14940,6 +15424,7 @@ const ITEMS = [
     "name": "Cape Banale",
     "imageUrl": "html/img/cape_banale.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -14948,6 +15433,7 @@ const ITEMS = [
     "name": "Cape du Piou Bleu",
     "imageUrl": "html/img/cape_du_piou_bleu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -14962,6 +15448,7 @@ const ITEMS = [
     "name": "Cape de l'Aventurier",
     "imageUrl": "html/img/cape_de_laventurier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -14996,6 +15483,7 @@ const ITEMS = [
     "name": "Capananas",
     "imageUrl": "html/img/capananas.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -15004,6 +15492,7 @@ const ITEMS = [
     "name": "Cape Hivernale",
     "imageUrl": "html/img/cape_hivernale.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -15012,6 +15501,7 @@ const ITEMS = [
     "name": "Cape Bontarienne",
     "imageUrl": "html/img/cape_bontarienne.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -15020,6 +15510,7 @@ const ITEMS = [
     "name": "Cape du Piou Jaune",
     "imageUrl": "html/img/cape_du_piou_jaune.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -15034,6 +15525,7 @@ const ITEMS = [
     "name": "Cape du Pirate",
     "imageUrl": "html/img/cape_du_pirate.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM perdu à la cible",
@@ -15048,6 +15540,7 @@ const ITEMS = [
     "name": "Cape du Piou Rouge",
     "imageUrl": "html/img/cape_du_piou_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -15062,6 +15555,7 @@ const ITEMS = [
     "name": "Cape du Piou Vert",
     "imageUrl": "html/img/cape_du_piou_vert.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -15076,6 +15570,7 @@ const ITEMS = [
     "name": "Cape du Piou Rose",
     "imageUrl": "html/img/cape_du_piou_rose.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15090,6 +15585,7 @@ const ITEMS = [
     "name": "Petite Cape Bleutée",
     "imageUrl": "html/img/petite_cape_bleutee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -15104,6 +15600,7 @@ const ITEMS = [
     "name": "Cape du Piou Violet",
     "imageUrl": "html/img/cape_du_piou_violet.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -15118,6 +15615,7 @@ const ITEMS = [
     "name": "La Cape S'loque",
     "imageUrl": "html/img/la_cape_sloque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -15132,6 +15630,7 @@ const ITEMS = [
     "name": "Cape Bleutée",
     "imageUrl": "html/img/cape_bleutee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -15146,6 +15645,7 @@ const ITEMS = [
     "name": "Dofusteuse",
     "imageUrl": "html/img/dofusteuse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -15185,6 +15685,7 @@ const ITEMS = [
     "name": "Cape de Mori Arty",
     "imageUrl": "html/img/cape_de_mori_arty.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -15204,6 +15705,7 @@ const ITEMS = [
     "name": "Grande Cape Bleutée",
     "imageUrl": "html/img/grande_cape_bleutee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -15218,6 +15720,7 @@ const ITEMS = [
     "name": "Petite Cape Sombre",
     "imageUrl": "html/img/petite_cape_sombre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -15232,6 +15735,7 @@ const ITEMS = [
     "name": "Petite Cape de Rougeur",
     "imageUrl": "html/img/petite_cape_de_rougeur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15246,6 +15750,7 @@ const ITEMS = [
     "name": "Cape du Champ Champ",
     "imageUrl": "html/img/cape_du_champ_champ.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -15280,6 +15785,7 @@ const ITEMS = [
     "name": "Cape Bouffante",
     "imageUrl": "html/img/cape_bouffante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -15299,6 +15805,7 @@ const ITEMS = [
     "name": "Abracape",
     "imageUrl": "html/img/abracape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -15338,6 +15845,7 @@ const ITEMS = [
     "name": "Cape Pandawushu",
     "imageUrl": "html/img/cape_pandawushu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15352,6 +15860,7 @@ const ITEMS = [
     "name": "Cape en Mousse",
     "imageUrl": "html/img/cape_en_mousse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -15366,6 +15875,7 @@ const ITEMS = [
     "name": "Capouze des Champs",
     "imageUrl": "html/img/capouze_des_champs.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15385,6 +15895,7 @@ const ITEMS = [
     "name": "Cape Sombre",
     "imageUrl": "html/img/cape_sombre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -15399,6 +15910,7 @@ const ITEMS = [
     "name": "Cape de Rougeur",
     "imageUrl": "html/img/cape_de_rougeur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15413,6 +15925,7 @@ const ITEMS = [
     "name": "Cape du Lapino Blasé",
     "imageUrl": "html/img/cape_du_lapino_blase.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -15427,6 +15940,7 @@ const ITEMS = [
     "name": "Cape Sulcorpe",
     "imageUrl": "html/img/cape_sulcorpe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -15441,6 +15955,7 @@ const ITEMS = [
     "name": "Cape Ulais",
     "imageUrl": "html/img/cape_ulais.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15455,6 +15970,7 @@ const ITEMS = [
     "name": "Cape Ellinie",
     "imageUrl": "html/img/cape_ellinie.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -15469,6 +15985,7 @@ const ITEMS = [
     "name": "Grande Cape de Rougeur",
     "imageUrl": "html/img/grande_cape_de_rougeur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15483,6 +16000,7 @@ const ITEMS = [
     "name": "Cape Abilité",
     "imageUrl": "html/img/cape_abilite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -15497,6 +16015,7 @@ const ITEMS = [
     "name": "Grande Cape Sombre",
     "imageUrl": "html/img/grande_cape_sombre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -15511,6 +16030,7 @@ const ITEMS = [
     "name": "Cape de Bowisse",
     "imageUrl": "html/img/cape_de_bowisse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -15525,6 +16045,7 @@ const ITEMS = [
     "name": "Cape de l'Homme Ours",
     "imageUrl": "html/img/cape_de_lhomme_ours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15544,6 +16065,7 @@ const ITEMS = [
     "name": "Ailes en bois",
     "imageUrl": "html/img/ailes_en_bois.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -15563,6 +16085,7 @@ const ITEMS = [
     "name": "Cape Itou Lascione",
     "imageUrl": "html/img/cape_itou_lascione.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -15577,6 +16100,7 @@ const ITEMS = [
     "name": "La Samoulaille",
     "imageUrl": "html/img/la_samoulaille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -15591,6 +16115,7 @@ const ITEMS = [
     "name": "Cape Edépée",
     "imageUrl": "html/img/cape_edepee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre",
@@ -15610,6 +16135,7 @@ const ITEMS = [
     "name": "La Boufteuse",
     "imageUrl": "html/img/la_boufteuse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -15629,6 +16155,7 @@ const ITEMS = [
     "name": "Cape du Tofu",
     "imageUrl": "html/img/cape_du_tofu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -15643,6 +16170,7 @@ const ITEMS = [
     "name": "Cape du Vampire",
     "imageUrl": "html/img/cape_du_vampire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -15667,6 +16195,7 @@ const ITEMS = [
     "name": "Ailes en bois améliorées",
     "imageUrl": "html/img/ailes_en_bois_ameliorees.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -15686,6 +16215,7 @@ const ITEMS = [
     "name": "Cape Grume",
     "imageUrl": "html/img/cape_grume.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -15705,6 +16235,7 @@ const ITEMS = [
     "name": "Cape de Bonne Espérance",
     "imageUrl": "html/img/cape_de_bonne_esperance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -15724,6 +16255,7 @@ const ITEMS = [
     "name": "Cigalocape",
     "imageUrl": "html/img/cigalocape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -15743,6 +16275,7 @@ const ITEMS = [
     "name": "Cape du Wa Wabbit",
     "imageUrl": "html/img/cape_du_wa_wabbit.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15757,6 +16290,7 @@ const ITEMS = [
     "name": "Cape du Justicier",
     "imageUrl": "html/img/cape_du_justicier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -15776,6 +16310,7 @@ const ITEMS = [
     "name": "Cape Kifébzz",
     "imageUrl": "html/img/cape_kifebzz.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -15795,6 +16330,7 @@ const ITEMS = [
     "name": "Cape du Mulou Fou",
     "imageUrl": "html/img/cape_du_mulou_fou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15814,6 +16350,7 @@ const ITEMS = [
     "name": "Cape Rice",
     "imageUrl": "html/img/cape_rice.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -15828,6 +16365,7 @@ const ITEMS = [
     "name": "Poshocape",
     "imageUrl": "html/img/poshocape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -15842,6 +16380,7 @@ const ITEMS = [
     "name": "Cape du Poolay Chogrelotant",
     "imageUrl": "html/img/cape_du_poolay_chogrelotant.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre",
@@ -15881,6 +16420,7 @@ const ITEMS = [
     "name": "Fourbacapa",
     "imageUrl": "html/img/fourbacapa.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -15900,6 +16440,7 @@ const ITEMS = [
     "name": "Cape Maj'Hic",
     "imageUrl": "html/img/cape_majhic.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -15929,6 +16470,7 @@ const ITEMS = [
     "name": "Cape Hilère",
     "imageUrl": "html/img/cape_hilere.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -15943,6 +16485,7 @@ const ITEMS = [
     "name": "Cape du Tofu Fou",
     "imageUrl": "html/img/cape_du_tofu_fou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -15977,6 +16520,7 @@ const ITEMS = [
     "name": "Cape Maimpa",
     "imageUrl": "html/img/cape_maimpa.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -16001,6 +16545,7 @@ const ITEMS = [
     "name": "Cape du bois de l'est",
     "imageUrl": "html/img/cape_du_bois_de_lest.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -16025,6 +16570,7 @@ const ITEMS = [
     "name": "Cape du Prespic",
     "imageUrl": "html/img/cape_du_prespic.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -16044,6 +16590,7 @@ const ITEMS = [
     "name": "Cape Bouchon",
     "imageUrl": "html/img/cape_bouchon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -16063,6 +16610,7 @@ const ITEMS = [
     "name": "Kwape de Flammes",
     "imageUrl": "html/img/kwape_de_flammes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -16092,6 +16640,7 @@ const ITEMS = [
     "name": "Cape de Bou",
     "imageUrl": "html/img/cape_de_bou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -16121,6 +16670,7 @@ const ITEMS = [
     "name": "Kwape de Glace",
     "imageUrl": "html/img/kwape_de_glace.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -16150,6 +16700,7 @@ const ITEMS = [
     "name": "Kwape du Vent",
     "imageUrl": "html/img/kwape_du_vent.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -16179,6 +16730,7 @@ const ITEMS = [
     "name": "Cape Akwadala",
     "imageUrl": "html/img/cape_akwadala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16203,6 +16755,7 @@ const ITEMS = [
     "name": "Kwape de Terre",
     "imageUrl": "html/img/kwape_de_terre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -16232,6 +16785,7 @@ const ITEMS = [
     "name": "Cape Siks Won Naïne",
     "imageUrl": "html/img/cape_siks_won_naine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16256,6 +16810,7 @@ const ITEMS = [
     "name": "La Mokette",
     "imageUrl": "html/img/la_mokette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -16270,6 +16825,7 @@ const ITEMS = [
     "name": "Cape du Coq Hû",
     "imageUrl": "html/img/cape_du_coq_hu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -16289,6 +16845,7 @@ const ITEMS = [
     "name": "Cape Huccino",
     "imageUrl": "html/img/cape_huccino.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16313,6 +16870,7 @@ const ITEMS = [
     "name": "Corbacape",
     "imageUrl": "html/img/corbacape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -16342,6 +16900,7 @@ const ITEMS = [
     "name": "Scaracape Verte",
     "imageUrl": "html/img/scaracape_verte.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -16371,6 +16930,7 @@ const ITEMS = [
     "name": "Scaracape Blanche",
     "imageUrl": "html/img/scaracape_blanche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -16400,6 +16960,7 @@ const ITEMS = [
     "name": "Mégacape",
     "imageUrl": "html/img/megacape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -16429,6 +16990,7 @@ const ITEMS = [
     "name": "Scaracape Rouge",
     "imageUrl": "html/img/scaracape_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -16458,6 +17020,7 @@ const ITEMS = [
     "name": "Abracapa",
     "imageUrl": "html/img/abracapa.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16487,6 +17050,7 @@ const ITEMS = [
     "name": "Scaracape Bleue",
     "imageUrl": "html/img/scaracape_bleue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -16516,6 +17080,7 @@ const ITEMS = [
     "name": "Capogato",
     "imageUrl": "html/img/capogato.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -16545,6 +17110,7 @@ const ITEMS = [
     "name": "Cape Vioutifoule",
     "imageUrl": "html/img/cape_vioutifoule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -16574,6 +17140,7 @@ const ITEMS = [
     "name": "Cape Paupayahn",
     "imageUrl": "html/img/cape_paupayahn.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -16603,6 +17170,7 @@ const ITEMS = [
     "name": "Cape du Corbac",
     "imageUrl": "html/img/cape_du_corbac.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -16627,6 +17195,7 @@ const ITEMS = [
     "name": "Craquelocape",
     "imageUrl": "html/img/craquelocape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -16666,6 +17235,7 @@ const ITEMS = [
     "name": "Cape du Black Wab",
     "imageUrl": "html/img/cape_du_black_wab.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16695,6 +17265,7 @@ const ITEMS = [
     "name": "Cape Ricéfini",
     "imageUrl": "html/img/cape_ricefini.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16714,6 +17285,7 @@ const ITEMS = [
     "name": "Cape de Slait",
     "imageUrl": "html/img/cape_de_slait.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16748,6 +17320,7 @@ const ITEMS = [
     "name": "Cape Papayou",
     "imageUrl": "html/img/cape_papayou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -16777,6 +17350,7 @@ const ITEMS = [
     "name": "Cape du Parrain",
     "imageUrl": "html/img/cape_du_parrain.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16806,6 +17380,7 @@ const ITEMS = [
     "name": "Cape Sanguine",
     "imageUrl": "html/img/cape_sanguine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16840,6 +17415,7 @@ const ITEMS = [
     "name": "Cape Ouginak",
     "imageUrl": "html/img/cape_ouginak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -16864,6 +17440,7 @@ const ITEMS = [
     "name": "Cape Bouffante Royale",
     "imageUrl": "html/img/cape_bouffante_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -16883,6 +17460,7 @@ const ITEMS = [
     "name": "Capodindo",
     "imageUrl": "html/img/capodindo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -16897,6 +17475,7 @@ const ITEMS = [
     "name": "Scaracape Noire",
     "imageUrl": "html/img/scaracape_noire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -16926,6 +17505,7 @@ const ITEMS = [
     "name": "La Guenille",
     "imageUrl": "html/img/la_guenille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -16950,6 +17530,7 @@ const ITEMS = [
     "name": "Cape de Jules Yanos",
     "imageUrl": "html/img/cape_de_jules_yanos.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -16989,6 +17570,7 @@ const ITEMS = [
     "name": "Cape Fulgurante",
     "imageUrl": "html/img/cape_fulgurante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -17018,6 +17600,7 @@ const ITEMS = [
     "name": "Cape du Boufcoul",
     "imageUrl": "html/img/cape_du_boufcoul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17042,6 +17625,7 @@ const ITEMS = [
     "name": "Vegacape",
     "imageUrl": "html/img/vegacape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -17061,6 +17645,7 @@ const ITEMS = [
     "name": "Scaracape Dorée",
     "imageUrl": "html/img/scaracape_doree.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17095,6 +17680,7 @@ const ITEMS = [
     "name": "Cape Hôte",
     "imageUrl": "html/img/cape_hote.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17124,6 +17710,7 @@ const ITEMS = [
     "name": "Gelocape",
     "imageUrl": "html/img/gelocape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Prospection",
@@ -17143,6 +17730,7 @@ const ITEMS = [
     "name": "Caracape",
     "imageUrl": "html/img/caracape.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -17172,6 +17760,7 @@ const ITEMS = [
     "name": "Cape de la Meupette",
     "imageUrl": "html/img/cape_de_la_meupette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17216,6 +17805,7 @@ const ITEMS = [
     "name": "Cape Flotteuse",
     "imageUrl": "html/img/cape_flotteuse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17245,6 +17835,7 @@ const ITEMS = [
     "name": "Cape du Koalak",
     "imageUrl": "html/img/cape_du_koalak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17274,6 +17865,7 @@ const ITEMS = [
     "name": "Cape du Kitsou",
     "imageUrl": "html/img/cape_du_kitsou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17298,6 +17890,7 @@ const ITEMS = [
     "name": "Cape Terrdala",
     "imageUrl": "html/img/cape_terrdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -17337,6 +17930,7 @@ const ITEMS = [
     "name": "La Poilue",
     "imageUrl": "html/img/la_poilue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -17366,6 +17960,7 @@ const ITEMS = [
     "name": "Cape du Mulou",
     "imageUrl": "html/img/cape_du_mulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17400,6 +17995,7 @@ const ITEMS = [
     "name": "Cape Aerdala",
     "imageUrl": "html/img/cape_aerdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -17439,6 +18035,7 @@ const ITEMS = [
     "name": "Cape du Désir O'Boul",
     "imageUrl": "html/img/cape_du_desir_oboul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17468,6 +18065,7 @@ const ITEMS = [
     "name": "Cape Hucine",
     "imageUrl": "html/img/cape_hucine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17527,6 +18125,7 @@ const ITEMS = [
     "name": "Cape Hitton",
     "imageUrl": "html/img/cape_hitton.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Rend la portée du sort 0 modifiable",
@@ -17556,6 +18155,7 @@ const ITEMS = [
     "name": "Cape Hulco",
     "imageUrl": "html/img/cape_hulco.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Flèche Enflammée",
@@ -17585,6 +18185,7 @@ const ITEMS = [
     "name": "Cape Huchon",
     "imageUrl": "html/img/cape_huchon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente de 1 le nombre de lancer maximal par cible du sort Gelure",
@@ -17614,6 +18215,7 @@ const ITEMS = [
     "name": "Cape Haharnum",
     "imageUrl": "html/img/cape_haharnum.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+30 aux CC sur le sort Accélération",
@@ -17643,6 +18245,7 @@ const ITEMS = [
     "name": "Cape Routh",
     "imageUrl": "html/img/cape_routh.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le délai de relance du sort Invisibilité",
@@ -17672,6 +18275,7 @@ const ITEMS = [
     "name": "Cape Aurale",
     "imageUrl": "html/img/cape_aurale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Bond de 1",
@@ -17701,6 +18305,7 @@ const ITEMS = [
     "name": "Cape Ytale",
     "imageUrl": "html/img/cape_ytale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Ch&acirc",
@@ -17730,6 +18335,7 @@ const ITEMS = [
     "name": "Cape Sulhit",
     "imageUrl": "html/img/cape_sulhit.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -17759,6 +18365,7 @@ const ITEMS = [
     "name": "Cape Lyne",
     "imageUrl": "html/img/cape_lyne.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente de 1 le nombre de lancer maximal par tour du sort Fouet",
@@ -17788,6 +18395,7 @@ const ITEMS = [
     "name": "Cape d'Elya Wood",
     "imageUrl": "html/img/cape_delya_wood.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -17827,6 +18435,7 @@ const ITEMS = [
     "name": "Cape Wéra",
     "imageUrl": "html/img/cape_wera.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -17856,6 +18465,7 @@ const ITEMS = [
     "name": "Cape Aillé",
     "imageUrl": "html/img/cape_aille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Trèfle de 4",
@@ -17885,6 +18495,7 @@ const ITEMS = [
     "name": "Cape de Shika",
     "imageUrl": "html/img/cape_de_shika.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -17954,6 +18565,7 @@ const ITEMS = [
     "name": "Cape de Farle",
     "imageUrl": "html/img/cape_de_farle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -18023,6 +18635,7 @@ const ITEMS = [
     "name": "Cape Hadosse",
     "imageUrl": "html/img/cape_hadosse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+30 aux CC sur le sort Armure Terrestre",
@@ -18052,6 +18665,7 @@ const ITEMS = [
     "name": "Craquelocape Légendaire",
     "imageUrl": "html/img/craquelocape_legendaire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -18096,6 +18710,7 @@ const ITEMS = [
     "name": "La Brouteuse",
     "imageUrl": "html/img/la_brouteuse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -18135,6 +18750,7 @@ const ITEMS = [
     "name": "Cape Feudala",
     "imageUrl": "html/img/cape_feudala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -18179,6 +18795,7 @@ const ITEMS = [
     "name": "Cape de la Ouassingue",
     "imageUrl": "html/img/cape_de_la_ouassingue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -18238,6 +18855,7 @@ const ITEMS = [
     "name": "Cape du Chef Bwork",
     "imageUrl": "html/img/cape_du_chef_bwork.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -18312,6 +18930,7 @@ const ITEMS = [
     "name": "Cape du Rat Blanc",
     "imageUrl": "html/img/cape_du_rat_blanc.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -18361,6 +18980,7 @@ const ITEMS = [
     "name": "Cape du Dragon Cochon",
     "imageUrl": "html/img/cape_du_dragon_cochon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -18430,6 +19050,7 @@ const ITEMS = [
     "name": "Cape du Rat Noir",
     "imageUrl": "html/img/cape_du_rat_noir.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -18474,6 +19095,7 @@ const ITEMS = [
     "name": "Cape Houte",
     "imageUrl": "html/img/cape_houte.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -18518,6 +19140,7 @@ const ITEMS = [
     "name": "Cape du Minotoror",
     "imageUrl": "html/img/cape_du_minotoror.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -18557,6 +19180,7 @@ const ITEMS = [
     "name": "Puissante Cape Fulgurante",
     "imageUrl": "html/img/puissante_cape_fulgurante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -18586,6 +19210,7 @@ const ITEMS = [
     "name": "Abracapa Ancestrale",
     "imageUrl": "html/img/abracapa_ancestrale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -18645,6 +19270,7 @@ const ITEMS = [
     "name": "Caracape Minotoris",
     "imageUrl": "html/img/caracape_minotoris.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance air (%)",
@@ -18709,6 +19335,7 @@ const ITEMS = [
     "name": "Ortiz",
     "imageUrl": "html/img/ortiz.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -18753,6 +19380,7 @@ const ITEMS = [
     "name": "Cape Dragoeuf",
     "imageUrl": "html/img/cape_dragoeuf.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Prospection",
@@ -18797,6 +19425,7 @@ const ITEMS = [
     "name": "Corbacape Mastralis",
     "imageUrl": "html/img/corbacape_mastralis.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -18846,6 +19475,7 @@ const ITEMS = [
     "name": "Cape Cérémoniale du Seigneur des Rats",
     "imageUrl": "html/img/cape_ceremoniale_du_seigneur_des_rats.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -18915,6 +19545,7 @@ const ITEMS = [
     "name": "Cape du Meulou",
     "imageUrl": "html/img/cape_du_meulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -18974,6 +19605,7 @@ const ITEMS = [
     "name": "Cape Usée du Chêne Mou",
     "imageUrl": "html/img/cape_usee_du_chene_mou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -19038,6 +19670,7 @@ const ITEMS = [
     "name": "Cape Itaineflam",
     "imageUrl": "html/img/cape_itaineflam.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -19112,6 +19745,7 @@ const ITEMS = [
     "name": "Cape Souveraine du Roissingue",
     "imageUrl": "html/img/cape_souveraine_du_roissingue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19176,6 +19810,7 @@ const ITEMS = [
     "name": "Cape du Minotot",
     "imageUrl": "html/img/cape_du_minotot.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -19220,6 +19855,7 @@ const ITEMS = [
     "name": "Cape du Petit Chapon Rouge",
     "imageUrl": "html/img/cape_du_petit_chapon_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -19269,6 +19905,7 @@ const ITEMS = [
     "name": "Caprin",
     "imageUrl": "html/img/caprin.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19323,6 +19960,7 @@ const ITEMS = [
     "name": "Cape Erforée",
     "imageUrl": "html/img/cape_erforee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -19382,6 +20020,7 @@ const ITEMS = [
     "name": "Capignon",
     "imageUrl": "html/img/capignon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -19441,6 +20080,7 @@ const ITEMS = [
     "name": "Voile d'encre",
     "imageUrl": "html/img/voile_dencre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19500,6 +20140,7 @@ const ITEMS = [
     "name": "Ceinture du Kobeer",
     "imageUrl": "html/img/ceinture_du_kobeer.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -19519,6 +20160,7 @@ const ITEMS = [
     "name": "Ceinture du Piou Bleu",
     "imageUrl": "html/img/ceinture_du_piou_bleu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -19533,6 +20175,7 @@ const ITEMS = [
     "name": "Ceinture de l'aventurier",
     "imageUrl": "html/img/ceinture_de_laventurier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -19567,6 +20210,7 @@ const ITEMS = [
     "name": "Ceinture de Chance",
     "imageUrl": "html/img/ceinture_de_chance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -19581,6 +20225,7 @@ const ITEMS = [
     "name": "Ceinture d'Agilité",
     "imageUrl": "html/img/ceinture_dagilite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -19595,6 +20240,7 @@ const ITEMS = [
     "name": "Ceinture du Piou Rose",
     "imageUrl": "html/img/ceinture_du_piou_rose.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19609,6 +20255,7 @@ const ITEMS = [
     "name": "Ceinture du Piou Jaune",
     "imageUrl": "html/img/ceinture_du_piou_jaune.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -19623,6 +20270,7 @@ const ITEMS = [
     "name": "Ceinture du Piou Rouge",
     "imageUrl": "html/img/ceinture_du_piou_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -19637,6 +20285,7 @@ const ITEMS = [
     "name": "Petite Ceinture Forcesque",
     "imageUrl": "html/img/petite_ceinture_forcesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -19651,6 +20300,7 @@ const ITEMS = [
     "name": "Petite Ceinture Vitalesque",
     "imageUrl": "html/img/petite_ceinture_vitalesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19665,6 +20315,7 @@ const ITEMS = [
     "name": "La Spamette",
     "imageUrl": "html/img/la_spamette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -19679,6 +20330,7 @@ const ITEMS = [
     "name": "Petite Ceinture Agilesque",
     "imageUrl": "html/img/petite_ceinture_agilesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -19693,6 +20345,7 @@ const ITEMS = [
     "name": "Ceinture du Piou Vert",
     "imageUrl": "html/img/ceinture_du_piou_vert.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -19707,6 +20360,7 @@ const ITEMS = [
     "name": "Ceinture du Piou Violet",
     "imageUrl": "html/img/ceinture_du_piou_violet.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -19721,6 +20375,7 @@ const ITEMS = [
     "name": "Ceinture Forcesque",
     "imageUrl": "html/img/ceinture_forcesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -19735,6 +20390,7 @@ const ITEMS = [
     "name": "Ceinture Vitalesque",
     "imageUrl": "html/img/ceinture_vitalesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19749,6 +20405,7 @@ const ITEMS = [
     "name": "Ceinture Agilesque",
     "imageUrl": "html/img/ceinture_agilesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -19763,6 +20420,7 @@ const ITEMS = [
     "name": "Araknoture",
     "imageUrl": "html/img/araknoture.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -19777,6 +20435,7 @@ const ITEMS = [
     "name": "Grande Ceinture Agilesque",
     "imageUrl": "html/img/grande_ceinture_agilesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -19791,6 +20450,7 @@ const ITEMS = [
     "name": "Grande Ceinture Vitalesque",
     "imageUrl": "html/img/grande_ceinture_vitalesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19805,6 +20465,7 @@ const ITEMS = [
     "name": "Grande Ceinture Forcesque",
     "imageUrl": "html/img/grande_ceinture_forcesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -19819,6 +20480,7 @@ const ITEMS = [
     "name": "Ceinture du Kwabe",
     "imageUrl": "html/img/ceinture_du_kwabe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau (%)",
@@ -19838,6 +20500,7 @@ const ITEMS = [
     "name": "Imposante Ceinture Agilesque",
     "imageUrl": "html/img/imposante_ceinture_agilesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -19852,6 +20515,7 @@ const ITEMS = [
     "name": "Imposante Ceinture Forcesque",
     "imageUrl": "html/img/imposante_ceinture_forcesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -19866,6 +20530,7 @@ const ITEMS = [
     "name": "Imposante Ceinture Vitalesque",
     "imageUrl": "html/img/imposante_ceinture_vitalesque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19880,6 +20545,7 @@ const ITEMS = [
     "name": "Ceinture Fleurie",
     "imageUrl": "html/img/ceinture_fleurie.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19899,6 +20565,7 @@ const ITEMS = [
     "name": "Ceinture en Mousse",
     "imageUrl": "html/img/ceinture_en_mousse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -19913,6 +20580,7 @@ const ITEMS = [
     "name": "Ceinture du Bandit",
     "imageUrl": "html/img/ceinture_du_bandit.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19947,6 +20615,7 @@ const ITEMS = [
     "name": "Ceinture de Sécurité",
     "imageUrl": "html/img/ceinture_de_securite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -19966,6 +20635,7 @@ const ITEMS = [
     "name": "Sanglature",
     "imageUrl": "html/img/sanglature.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -19985,6 +20655,7 @@ const ITEMS = [
     "name": "Ceinture de Poche",
     "imageUrl": "html/img/ceinture_de_poche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -20004,6 +20675,7 @@ const ITEMS = [
     "name": "Ceinture de l'Homme Ours",
     "imageUrl": "html/img/ceinture_de_lhomme_ours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -20033,6 +20705,7 @@ const ITEMS = [
     "name": "Ceinturemuda du Paysan",
     "imageUrl": "html/img/ceinturemuda_du_paysan.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20052,6 +20725,7 @@ const ITEMS = [
     "name": "Ceinture du Bouftou",
     "imageUrl": "html/img/ceinture_du_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -20066,6 +20740,7 @@ const ITEMS = [
     "name": "Ceinture du Tofu",
     "imageUrl": "html/img/ceinture_du_tofu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -20090,6 +20765,7 @@ const ITEMS = [
     "name": "Ceinture Piquante",
     "imageUrl": "html/img/ceinture_piquante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -20104,6 +20780,7 @@ const ITEMS = [
     "name": "Ceinture de Célérité",
     "imageUrl": "html/img/ceinture_de_celerite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -20128,6 +20805,7 @@ const ITEMS = [
     "name": "Ceinture d'Endurance",
     "imageUrl": "html/img/ceinture_dendurance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -20152,6 +20830,7 @@ const ITEMS = [
     "name": "La Mouthmou",
     "imageUrl": "html/img/la_mouthmou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20176,6 +20855,7 @@ const ITEMS = [
     "name": "La Croqueuse",
     "imageUrl": "html/img/la_croqueuse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -20200,6 +20880,7 @@ const ITEMS = [
     "name": "Ceinture Banisation",
     "imageUrl": "html/img/ceinture_banisation.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -20219,6 +20900,7 @@ const ITEMS = [
     "name": "Ceinture Fulgurante",
     "imageUrl": "html/img/ceinture_fulgurante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -20248,6 +20930,7 @@ const ITEMS = [
     "name": "Ceinture de Puissance",
     "imageUrl": "html/img/ceinture_de_puissance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -20277,6 +20960,7 @@ const ITEMS = [
     "name": "Ceinture Banisation Sauvage",
     "imageUrl": "html/img/ceinture_banisation_sauvage.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -20301,6 +20985,7 @@ const ITEMS = [
     "name": "Ceinture du bois de l'est",
     "imageUrl": "html/img/ceinture_du_bois_de_lest.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -20325,6 +21010,7 @@ const ITEMS = [
     "name": "Ceinture du Prespic",
     "imageUrl": "html/img/ceinture_du_prespic.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Renvois de dommages",
@@ -20339,6 +21025,7 @@ const ITEMS = [
     "name": "Ceinture Fourbissante",
     "imageUrl": "html/img/ceinture_fourbissante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20368,6 +21055,7 @@ const ITEMS = [
     "name": "Ceinture du Tot",
     "imageUrl": "html/img/ceinture_du_tot.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20392,6 +21080,7 @@ const ITEMS = [
     "name": "Puissance de Crocoburio",
     "imageUrl": "html/img/puissance_de_crocoburio.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20406,6 +21095,7 @@ const ITEMS = [
     "name": "Ceinture du Boufcoul",
     "imageUrl": "html/img/ceinture_du_boufcoul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -20435,6 +21125,7 @@ const ITEMS = [
     "name": "Ramoume l'Eternelle",
     "imageUrl": "html/img/ramoume_leternelle.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -20464,6 +21155,7 @@ const ITEMS = [
     "name": "L'Ami Léhunui",
     "imageUrl": "html/img/lami_lehunui.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -20493,6 +21185,7 @@ const ITEMS = [
     "name": "Ceinture du Tétounik",
     "imageUrl": "html/img/ceinture_du_tetounik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20517,6 +21210,7 @@ const ITEMS = [
     "name": "Krustoture",
     "imageUrl": "html/img/krustoture.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20551,6 +21245,7 @@ const ITEMS = [
     "name": "Ceinture Lardière",
     "imageUrl": "html/img/ceinture_lardiere.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20585,6 +21280,7 @@ const ITEMS = [
     "name": "Ceinture Siks Won Naïne",
     "imageUrl": "html/img/ceinture_siks_won_naine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20609,6 +21305,7 @@ const ITEMS = [
     "name": "Kwakture de Flammes",
     "imageUrl": "html/img/kwakture_de_flammes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -20633,6 +21330,7 @@ const ITEMS = [
     "name": "Ceinture Akwadala",
     "imageUrl": "html/img/ceinture_akwadala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -20657,6 +21355,7 @@ const ITEMS = [
     "name": "Kwakture de Glace",
     "imageUrl": "html/img/kwakture_de_glace.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -20681,6 +21380,7 @@ const ITEMS = [
     "name": "Kwakture de Vent",
     "imageUrl": "html/img/kwakture_de_vent.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -20705,6 +21405,7 @@ const ITEMS = [
     "name": "Kwakture de Terre",
     "imageUrl": "html/img/kwakture_de_terre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -20729,6 +21430,7 @@ const ITEMS = [
     "name": "La Végète Hâtif",
     "imageUrl": "html/img/la_vegete_hatif.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance air (%)",
@@ -20758,6 +21460,7 @@ const ITEMS = [
     "name": "Ceinture Kokokette",
     "imageUrl": "html/img/ceinture_kokokette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -20782,6 +21485,7 @@ const ITEMS = [
     "name": "Scarature Noire",
     "imageUrl": "html/img/scarature_noire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -20811,6 +21515,7 @@ const ITEMS = [
     "name": "Abrature",
     "imageUrl": "html/img/abrature.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -20835,6 +21540,7 @@ const ITEMS = [
     "name": "Beignature",
     "imageUrl": "html/img/beignature.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20869,6 +21575,7 @@ const ITEMS = [
     "name": "Mégature",
     "imageUrl": "html/img/megature.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20908,6 +21615,7 @@ const ITEMS = [
     "name": "Ceinture du Craqueleur",
     "imageUrl": "html/img/ceinture_du_craqueleur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -20942,6 +21650,7 @@ const ITEMS = [
     "name": "Ceinture du Black Wab",
     "imageUrl": "html/img/ceinture_du_black_wab.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -20966,6 +21675,7 @@ const ITEMS = [
     "name": "Scarature Blanche",
     "imageUrl": "html/img/scarature_blanche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21005,6 +21715,7 @@ const ITEMS = [
     "name": "Ceinture Vioutifoule",
     "imageUrl": "html/img/ceinture_vioutifoule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21044,6 +21755,7 @@ const ITEMS = [
     "name": "Scarature Verte",
     "imageUrl": "html/img/scarature_verte.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21083,6 +21795,7 @@ const ITEMS = [
     "name": "Scarature Bleue",
     "imageUrl": "html/img/scarature_bleue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21122,6 +21835,7 @@ const ITEMS = [
     "name": "Scarature Rouge",
     "imageUrl": "html/img/scarature_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21161,6 +21875,7 @@ const ITEMS = [
     "name": "Ceinture Noire de Frank Lee Bruce",
     "imageUrl": "html/img/ceinture_noire_de_frank_lee_bruce.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -21195,6 +21910,7 @@ const ITEMS = [
     "name": "Caleçon à bretelles du Parrain",
     "imageUrl": "html/img/calecon_a_bretelles_du_parrain.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -21224,6 +21940,7 @@ const ITEMS = [
     "name": "L'Adelus",
     "imageUrl": "html/img/ladelus.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -21243,6 +21960,7 @@ const ITEMS = [
     "name": "Ceinture de Flash Gorgone",
     "imageUrl": "html/img/ceinture_de_flash_gorgone.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -21262,6 +21980,7 @@ const ITEMS = [
     "name": "Tutu Rose",
     "imageUrl": "html/img/tutu_rose.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -21286,6 +22005,7 @@ const ITEMS = [
     "name": "String du Mulou",
     "imageUrl": "html/img/string_du_mulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -21320,6 +22040,7 @@ const ITEMS = [
     "name": "Chtévu",
     "imageUrl": "html/img/chtevu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Echec critique",
@@ -21349,6 +22070,7 @@ const ITEMS = [
     "name": "Ceinture Chafeuse",
     "imageUrl": "html/img/ceinture_chafeuse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -21373,6 +22095,7 @@ const ITEMS = [
     "name": "Ceinture Terrdala",
     "imageUrl": "html/img/ceinture_terrdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -21407,6 +22130,7 @@ const ITEMS = [
     "name": "Blopture Griotte",
     "imageUrl": "html/img/blopture_griotte.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21441,6 +22165,7 @@ const ITEMS = [
     "name": "Blopture Indigo",
     "imageUrl": "html/img/blopture_indigo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21475,6 +22200,7 @@ const ITEMS = [
     "name": "Blopture Coco",
     "imageUrl": "html/img/blopture_coco.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21509,6 +22235,7 @@ const ITEMS = [
     "name": "Blopture Reinette",
     "imageUrl": "html/img/blopture_reinette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21543,6 +22270,7 @@ const ITEMS = [
     "name": "Ceinture Luthuthu",
     "imageUrl": "html/img/ceinture_luthuthu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -21592,6 +22320,7 @@ const ITEMS = [
     "name": "Ceinture Kolante",
     "imageUrl": "html/img/ceinture_kolante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21626,6 +22355,7 @@ const ITEMS = [
     "name": "Scarature Dorée",
     "imageUrl": "html/img/scarature_doree.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21670,6 +22400,7 @@ const ITEMS = [
     "name": "Ceinture Royale du Bouftou",
     "imageUrl": "html/img/ceinture_royale_du_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -21699,6 +22430,7 @@ const ITEMS = [
     "name": "Ceinture Bontarienne",
     "imageUrl": "html/img/ceinture_bontarienne.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -21738,6 +22470,7 @@ const ITEMS = [
     "name": "Ceinture Brâkmarienne",
     "imageUrl": "html/img/ceinture_brakmarienne.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -21772,6 +22505,7 @@ const ITEMS = [
     "name": "Ceinture du Rat",
     "imageUrl": "html/img/ceinture_du_rat.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -21801,6 +22535,7 @@ const ITEMS = [
     "name": "Ceinture du Dodu Trembleur",
     "imageUrl": "html/img/ceinture_du_dodu_trembleur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -21850,6 +22585,7 @@ const ITEMS = [
     "name": "Ceinture Tortue Rouge",
     "imageUrl": "html/img/ceinture_tortue_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21884,6 +22620,7 @@ const ITEMS = [
     "name": "Ceinture Tortue Bleue",
     "imageUrl": "html/img/ceinture_tortue_bleue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21918,6 +22655,7 @@ const ITEMS = [
     "name": "Ceinture Tortue Jaune",
     "imageUrl": "html/img/ceinture_tortue_jaune.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21952,6 +22690,7 @@ const ITEMS = [
     "name": "Ceinture Tortue Verte",
     "imageUrl": "html/img/ceinture_tortue_verte.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -21986,6 +22725,7 @@ const ITEMS = [
     "name": "Ceinture du Koalak",
     "imageUrl": "html/img/ceinture_du_koalak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Pods",
@@ -22010,6 +22750,7 @@ const ITEMS = [
     "name": "Slip Kangouwou du Wabbit GM",
     "imageUrl": "html/img/slip_kangouwou_du_wabbit_gm.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22039,6 +22780,7 @@ const ITEMS = [
     "name": "Geloture",
     "imageUrl": "html/img/geloture.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -22053,6 +22795,7 @@ const ITEMS = [
     "name": "Ceinture Ouginakale",
     "imageUrl": "html/img/ceinture_ouginakale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -22092,6 +22835,7 @@ const ITEMS = [
     "name": "La Xerbo",
     "imageUrl": "html/img/la_xerbo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -22141,6 +22885,7 @@ const ITEMS = [
     "name": "Ceinture Aerdala",
     "imageUrl": "html/img/ceinture_aerdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22175,6 +22920,7 @@ const ITEMS = [
     "name": "Ceinture du Chef Crocodaille",
     "imageUrl": "html/img/ceinture_du_chef_crocodaille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -22214,6 +22960,7 @@ const ITEMS = [
     "name": "Ceinture d'une Femme en Or",
     "imageUrl": "html/img/ceinture_dune_femme_en_or.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22243,6 +22990,7 @@ const ITEMS = [
     "name": "Ceinture Dracochoune",
     "imageUrl": "html/img/ceinture_dracochoune.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -22282,6 +23030,7 @@ const ITEMS = [
     "name": "Blopture Indigo Royale",
     "imageUrl": "html/img/blopture_indigo_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22326,6 +23075,7 @@ const ITEMS = [
     "name": "Blopture Griotte Royale",
     "imageUrl": "html/img/blopture_griotte_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22370,6 +23120,7 @@ const ITEMS = [
     "name": "Blopture Reinette Royale",
     "imageUrl": "html/img/blopture_reinette_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22414,6 +23165,7 @@ const ITEMS = [
     "name": "Blopture Coco Royale",
     "imageUrl": "html/img/blopture_coco_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22458,6 +23210,7 @@ const ITEMS = [
     "name": "Shikature",
     "imageUrl": "html/img/shikature.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -22517,6 +23270,7 @@ const ITEMS = [
     "name": "Ceinture du Craqueleur Légendaire",
     "imageUrl": "html/img/ceinture_du_craqueleur_legendaire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22561,6 +23315,7 @@ const ITEMS = [
     "name": "Puissante Ceinture Fulgurante",
     "imageUrl": "html/img/puissante_ceinture_fulgurante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -22590,6 +23345,7 @@ const ITEMS = [
     "name": "Farlature",
     "imageUrl": "html/img/farlature.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -22649,6 +23405,7 @@ const ITEMS = [
     "name": "Ceinture Feudala",
     "imageUrl": "html/img/ceinture_feudala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22693,6 +23450,7 @@ const ITEMS = [
     "name": "Ceinture Mulante",
     "imageUrl": "html/img/ceinture_mulante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -22737,6 +23495,7 @@ const ITEMS = [
     "name": "Ceinture des Vents",
     "imageUrl": "html/img/ceinture_des_vents.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -22776,6 +23535,7 @@ const ITEMS = [
     "name": "Blopture Multicolore Royale",
     "imageUrl": "html/img/blopture_multicolore_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22810,6 +23570,7 @@ const ITEMS = [
     "name": "Ceinture sombre en Abrakleur",
     "imageUrl": "html/img/ceinture_sombre_en_abrakleur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -22859,6 +23620,7 @@ const ITEMS = [
     "name": "Ceinture Chouqueuse",
     "imageUrl": "html/img/ceinture_chouqueuse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -22903,6 +23665,7 @@ const ITEMS = [
     "name": "Slip du Chef Bwork",
     "imageUrl": "html/img/slip_du_chef_bwork.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -22962,6 +23725,7 @@ const ITEMS = [
     "name": "Ceinture du Rat Noir",
     "imageUrl": "html/img/ceinture_du_rat_noir.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -23016,6 +23780,7 @@ const ITEMS = [
     "name": "Ceinture du Rat Blanc",
     "imageUrl": "html/img/ceinture_du_rat_blanc.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -23060,6 +23825,7 @@ const ITEMS = [
     "name": "Abrature Ancestrale",
     "imageUrl": "html/img/abrature_ancestrale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -23129,6 +23895,7 @@ const ITEMS = [
     "name": "Ceinture du Minotoror",
     "imageUrl": "html/img/ceinture_du_minotoror.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -23173,6 +23940,7 @@ const ITEMS = [
     "name": "Ceinture Corbaquiale",
     "imageUrl": "html/img/ceinture_corbaquiale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -23217,6 +23985,7 @@ const ITEMS = [
     "name": "Ceinture de l'Amant d'Ha",
     "imageUrl": "html/img/ceinture_de_lamant_dha.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -23276,6 +24045,7 @@ const ITEMS = [
     "name": "Ceinture du Dragoeuf",
     "imageUrl": "html/img/ceinture_du_dragoeuf.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -23360,6 +24130,7 @@ const ITEMS = [
     "name": "Ceinture Sula",
     "imageUrl": "html/img/ceinture_sula.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -23414,6 +24185,7 @@ const ITEMS = [
     "name": "Ceinture du Meulou",
     "imageUrl": "html/img/ceinture_du_meulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -23468,6 +24240,7 @@ const ITEMS = [
     "name": "Xénature",
     "imageUrl": "html/img/xenature.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -23522,6 +24295,7 @@ const ITEMS = [
     "name": "Ceinture Claire en Abrakleur",
     "imageUrl": "html/img/ceinture_claire_en_abrakleur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -23576,6 +24350,7 @@ const ITEMS = [
     "name": "Ceinture Meulante",
     "imageUrl": "html/img/ceinture_meulante.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -23625,6 +24400,7 @@ const ITEMS = [
     "name": "Ceinture Lupine",
     "imageUrl": "html/img/ceinture_lupine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive le lancer en ligne du sort 0",
@@ -23654,6 +24430,7 @@ const ITEMS = [
     "name": "Gaine Hage",
     "imageUrl": "html/img/gaine_hage.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+30 aux CC sur le sort Armure Incandescente",
@@ -23683,6 +24460,7 @@ const ITEMS = [
     "name": "Ceinture Luthe",
     "imageUrl": "html/img/ceinture_luthe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le délai de relance du sort Ronce Insolente",
@@ -23712,6 +24490,7 @@ const ITEMS = [
     "name": "Ceinture Bodiézèle",
     "imageUrl": "html/img/ceinture_bodiezele.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Invocation de Dragonnet Rouge",
@@ -23741,6 +24520,7 @@ const ITEMS = [
     "name": "Ceinture Buhlent",
     "imageUrl": "html/img/ceinture_buhlent.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -23770,6 +24550,7 @@ const ITEMS = [
     "name": "Ceinture Gessant",
     "imageUrl": "html/img/ceinture_gessant.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Corruption",
@@ -23799,6 +24580,7 @@ const ITEMS = [
     "name": "Sangle Hans",
     "imageUrl": "html/img/sangle_hans.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Ch&acirc",
@@ -23828,6 +24610,7 @@ const ITEMS = [
     "name": "Sangle Hynère",
     "imageUrl": "html/img/sangle_hynere.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Colère de Iop",
@@ -23857,6 +24640,7 @@ const ITEMS = [
     "name": "Sangle Cible",
     "imageUrl": "html/img/sangle_cible.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive le lancer en ligne du sort 0",
@@ -23886,6 +24670,7 @@ const ITEMS = [
     "name": "Sangle Huée",
     "imageUrl": "html/img/sangle_huee.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -23915,6 +24700,7 @@ const ITEMS = [
     "name": "Sangle Holon",
     "imageUrl": "html/img/sangle_holon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+35 aux CC sur le sort Mot Stimulant",
@@ -23944,6 +24730,7 @@ const ITEMS = [
     "name": "Sangle Glinglin",
     "imageUrl": "html/img/sangle_glinglin.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Augmente la portée du sort Peur de 1",
@@ -23973,6 +24760,7 @@ const ITEMS = [
     "name": "Ceinture Cérémoniale du Seigneur des Rats",
     "imageUrl": "html/img/ceinture_ceremoniale_du_seigneur_des_rats.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -24042,6 +24830,7 @@ const ITEMS = [
     "name": "String Automnal du Chêne Mou",
     "imageUrl": "html/img/string_automnal_du_chene_mou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -24116,6 +24905,7 @@ const ITEMS = [
     "name": "Ceinture Bitoufale de Prosper Youpla",
     "imageUrl": "html/img/ceinture_bitoufale_de_prosper_youpla.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -24180,6 +24970,7 @@ const ITEMS = [
     "name": "Ceinture du Minotot",
     "imageUrl": "html/img/ceinture_du_minotot.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -24249,6 +25040,7 @@ const ITEMS = [
     "name": "Goldoture",
     "imageUrl": "html/img/goldoture.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -24298,6 +25090,7 @@ const ITEMS = [
     "name": "Ceinture Mycosine",
     "imageUrl": "html/img/ceinture_mycosine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -24362,6 +25155,7 @@ const ITEMS = [
     "name": "Tranche des Sous-bois",
     "imageUrl": "html/img/tranche_des_sous-bois.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -24411,6 +25205,7 @@ const ITEMS = [
     "name": "Ceinture Toré",
     "imageUrl": "html/img/ceinture_tore.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -24480,6 +25275,7 @@ const ITEMS = [
     "name": "Ceinture Rasboulaire du Rasboul",
     "imageUrl": "html/img/ceinture_rasboulaire_du_rasboul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -24539,6 +25335,7 @@ const ITEMS = [
     "name": "Ougature",
     "imageUrl": "html/img/ougature.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -24588,6 +25385,7 @@ const ITEMS = [
     "name": "String Tue-Mouche",
     "imageUrl": "html/img/string_tue-mouche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -24647,6 +25445,7 @@ const ITEMS = [
     "name": "Chapeau de la Mariée",
     "imageUrl": "html/img/chapeau_de_la_mariee.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -24655,6 +25454,7 @@ const ITEMS = [
     "name": "Casque amélioré",
     "imageUrl": "html/img/casque_ameliore.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -24663,6 +25463,7 @@ const ITEMS = [
     "name": "Chapeau de l'Aventurier",
     "imageUrl": "html/img/chapeau_de_laventurier.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -24697,6 +25498,7 @@ const ITEMS = [
     "name": "Cache Oreilles",
     "imageUrl": "html/img/cache_oreilles.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -24705,6 +25507,7 @@ const ITEMS = [
     "name": "Bandeau Komintot",
     "imageUrl": "html/img/bandeau_komintot.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -24719,6 +25522,7 @@ const ITEMS = [
     "name": "Bandeau de Vitalité",
     "imageUrl": "html/img/bandeau_de_vitalite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -24733,6 +25537,7 @@ const ITEMS = [
     "name": "Chapeau du Piou Rose",
     "imageUrl": "html/img/chapeau_du_piou_rose.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -24747,6 +25552,7 @@ const ITEMS = [
     "name": "Tête de Citwouille",
     "imageUrl": "html/img/tete_de_citwouille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -24766,6 +25572,7 @@ const ITEMS = [
     "name": "Chapeau du Piou Bleu",
     "imageUrl": "html/img/chapeau_du_piou_bleu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -24780,6 +25587,7 @@ const ITEMS = [
     "name": "Chapeau du Marié",
     "imageUrl": "html/img/chapeau_du_marie.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -24788,6 +25596,7 @@ const ITEMS = [
     "name": "Lisseur",
     "imageUrl": "html/img/lisseur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -24812,6 +25621,7 @@ const ITEMS = [
     "name": "Chapeau du Piou Vert",
     "imageUrl": "html/img/chapeau_du_piou_vert.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -24826,6 +25636,7 @@ const ITEMS = [
     "name": "Petit Bandeau de Vitalité",
     "imageUrl": "html/img/petit_bandeau_de_vitalite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -24840,6 +25651,7 @@ const ITEMS = [
     "name": "Louffeur",
     "imageUrl": "html/img/louffeur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre",
@@ -24859,6 +25671,7 @@ const ITEMS = [
     "name": "Chapeau du Piou Violet",
     "imageUrl": "html/img/chapeau_du_piou_violet.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -24873,6 +25686,7 @@ const ITEMS = [
     "name": "Maskananas",
     "imageUrl": "html/img/maskananas.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -24881,6 +25695,7 @@ const ITEMS = [
     "name": "Le Floude",
     "imageUrl": "html/img/le_floude.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -24895,6 +25710,7 @@ const ITEMS = [
     "name": "Chapeau du Piou Rouge",
     "imageUrl": "html/img/chapeau_du_piou_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -24909,6 +25725,7 @@ const ITEMS = [
     "name": "Coiffe du Champion",
     "imageUrl": "html/img/coiffe_du_champion.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -24917,6 +25734,7 @@ const ITEMS = [
     "name": "Grand Bandeau de Vitalité",
     "imageUrl": "html/img/grand_bandeau_de_vitalite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -24931,6 +25749,7 @@ const ITEMS = [
     "name": "Chapeau du Lapino",
     "imageUrl": "html/img/chapeau_du_lapino.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -24945,6 +25764,7 @@ const ITEMS = [
     "name": "L'Araknacoiffe",
     "imageUrl": "html/img/laraknacoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -24974,6 +25794,7 @@ const ITEMS = [
     "name": "Makroute",
     "imageUrl": "html/img/makroute.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -24993,6 +25814,7 @@ const ITEMS = [
     "name": "Pandawa",
     "imageUrl": "html/img/pandawa.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -25007,6 +25829,7 @@ const ITEMS = [
     "name": "Champcoiffe",
     "imageUrl": "html/img/champcoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25031,6 +25854,7 @@ const ITEMS = [
     "name": "Coiffe Champêtre",
     "imageUrl": "html/img/coiffe_champetre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -25045,6 +25869,7 @@ const ITEMS = [
     "name": "Coiffe du Bouftou",
     "imageUrl": "html/img/coiffe_du_bouftou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -25064,6 +25889,7 @@ const ITEMS = [
     "name": "Coiffe en Mousse",
     "imageUrl": "html/img/coiffe_en_mousse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25108,6 +25934,7 @@ const ITEMS = [
     "name": "Moskitogalurette",
     "imageUrl": "html/img/moskitogalurette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25137,6 +25964,7 @@ const ITEMS = [
     "name": "Korko Klako",
     "imageUrl": "html/img/korko_klako.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -25151,6 +25979,7 @@ const ITEMS = [
     "name": "Bob du Paysan",
     "imageUrl": "html/img/bob_du_paysan.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25165,6 +25994,7 @@ const ITEMS = [
     "name": "Casque",
     "imageUrl": "html/img/casque.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25184,6 +26014,7 @@ const ITEMS = [
     "name": "Astrocoiffe",
     "imageUrl": "html/img/astrocoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -25198,6 +26029,7 @@ const ITEMS = [
     "name": "Citwouille",
     "imageUrl": "html/img/citwouille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance eau",
@@ -25232,6 +26064,7 @@ const ITEMS = [
     "name": "Coiffe de l'Homme Ours",
     "imageUrl": "html/img/coiffe_de_lhomme_ours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25246,6 +26079,7 @@ const ITEMS = [
     "name": "La Coiffe du Ploukosse",
     "imageUrl": "html/img/la_coiffe_du_ploukosse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -25260,6 +26094,7 @@ const ITEMS = [
     "name": "Cornes de XVII",
     "imageUrl": "html/img/cornes_de_xvii.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -25274,6 +26109,7 @@ const ITEMS = [
     "name": "Chapeau Pointu",
     "imageUrl": "html/img/chapeau_pointu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25288,6 +26124,7 @@ const ITEMS = [
     "name": "Coquille Emeraude",
     "imageUrl": "html/img/coquille_emeraude.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25302,6 +26139,7 @@ const ITEMS = [
     "name": "Le Oiram",
     "imageUrl": "html/img/le_oiram.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -25316,6 +26154,7 @@ const ITEMS = [
     "name": "Le Troma",
     "imageUrl": "html/img/le_troma.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25330,6 +26169,7 @@ const ITEMS = [
     "name": "Géniallissime Coiffe de Torte Hou",
     "imageUrl": "html/img/geniallissime_coiffe_de_torte_hou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -25344,6 +26184,7 @@ const ITEMS = [
     "name": "Kaskofu",
     "imageUrl": "html/img/kaskofu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25358,6 +26199,7 @@ const ITEMS = [
     "name": "Crystal O'Boul",
     "imageUrl": "html/img/crystal_oboul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25372,6 +26214,7 @@ const ITEMS = [
     "name": "Jouik Krampe",
     "imageUrl": "html/img/jouik_krampe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -25391,6 +26234,7 @@ const ITEMS = [
     "name": "Houde",
     "imageUrl": "html/img/houde.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -25410,6 +26254,7 @@ const ITEMS = [
     "name": "Couronne du Wa Wabbit",
     "imageUrl": "html/img/couronne_du_wa_wabbit.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25424,6 +26269,7 @@ const ITEMS = [
     "name": "Borsitrono",
     "imageUrl": "html/img/borsitrono.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -25438,6 +26284,7 @@ const ITEMS = [
     "name": "Toady",
     "imageUrl": "html/img/toady.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -25452,6 +26299,7 @@ const ITEMS = [
     "name": "Oreilles de Lapineupe",
     "imageUrl": "html/img/oreilles_de_lapineupe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -25466,6 +26314,7 @@ const ITEMS = [
     "name": "Kritter",
     "imageUrl": "html/img/kritter.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -25480,6 +26329,7 @@ const ITEMS = [
     "name": "Coiffe de Goultard",
     "imageUrl": "html/img/coiffe_de_goultard.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -25494,6 +26344,7 @@ const ITEMS = [
     "name": "Fourbacoiffe",
     "imageUrl": "html/img/fourbacoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -25513,6 +26364,7 @@ const ITEMS = [
     "name": "Casque de Galgarion",
     "imageUrl": "html/img/casque_de_galgarion.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -25527,6 +26379,7 @@ const ITEMS = [
     "name": "Gulliver",
     "imageUrl": "html/img/gulliver.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25541,6 +26394,7 @@ const ITEMS = [
     "name": "Cigalocoiffe",
     "imageUrl": "html/img/cigalocoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25555,6 +26409,7 @@ const ITEMS = [
     "name": "Lapinocoiffe",
     "imageUrl": "html/img/lapinocoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -25569,6 +26424,7 @@ const ITEMS = [
     "name": "Choipo Podlard",
     "imageUrl": "html/img/choipo_podlard.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -25583,6 +26439,7 @@ const ITEMS = [
     "name": "Minotokorno",
     "imageUrl": "html/img/minotokorno.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -25602,6 +26459,7 @@ const ITEMS = [
     "name": "Coiffe de Maître Noir Jack",
     "imageUrl": "html/img/coiffe_de_maitre_noir_jack.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25616,6 +26474,7 @@ const ITEMS = [
     "name": "Larvacoiffe",
     "imageUrl": "html/img/larvacoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25645,6 +26504,7 @@ const ITEMS = [
     "name": "Shako",
     "imageUrl": "html/img/shako.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -25669,6 +26529,7 @@ const ITEMS = [
     "name": "Coiffe de Crâ Cramé",
     "imageUrl": "html/img/coiffe_de_cra_crame.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -25693,6 +26554,7 @@ const ITEMS = [
     "name": "Le Ours",
     "imageUrl": "html/img/le_ours.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -25717,6 +26579,7 @@ const ITEMS = [
     "name": "Coiffe du Prespic",
     "imageUrl": "html/img/coiffe_du_prespic.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25736,6 +26599,7 @@ const ITEMS = [
     "name": "Dora",
     "imageUrl": "html/img/dora.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -25755,6 +26619,7 @@ const ITEMS = [
     "name": "Chapeau de Satanusse",
     "imageUrl": "html/img/chapeau_de_satanusse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -25774,6 +26639,7 @@ const ITEMS = [
     "name": "Cochobits",
     "imageUrl": "html/img/cochobits.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -25793,6 +26659,7 @@ const ITEMS = [
     "name": "Dantgoule",
     "imageUrl": "html/img/dantgoule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -25812,6 +26679,7 @@ const ITEMS = [
     "name": "Caskabeille",
     "imageUrl": "html/img/caskabeille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -25836,6 +26704,7 @@ const ITEMS = [
     "name": "Caskostar",
     "imageUrl": "html/img/caskostar.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -25860,6 +26729,7 @@ const ITEMS = [
     "name": "Le Chapleau",
     "imageUrl": "html/img/le_chapleau.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25884,6 +26754,7 @@ const ITEMS = [
     "name": "Lorko Kasko",
     "imageUrl": "html/img/lorko_kasko.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -25908,6 +26779,7 @@ const ITEMS = [
     "name": "Dora Sombre de Brave",
     "imageUrl": "html/img/dora_sombre_de_brave.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -25927,6 +26799,7 @@ const ITEMS = [
     "name": "Masque Siks Won Naïne",
     "imageUrl": "html/img/masque_siks_won_naine.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -25956,6 +26829,7 @@ const ITEMS = [
     "name": "Coiffe Mulet du Tétounik",
     "imageUrl": "html/img/coiffe_mulet_du_tetounik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -25980,6 +26854,7 @@ const ITEMS = [
     "name": "Dragocoiffe Blanche",
     "imageUrl": "html/img/dragocoiffe_blanche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance neutre (%)",
@@ -25994,6 +26869,7 @@ const ITEMS = [
     "name": "Bonnet Toual",
     "imageUrl": "html/img/bonnet_toual.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Renvoi de Sort",
@@ -26023,6 +26899,7 @@ const ITEMS = [
     "name": "Casque Keutumedi",
     "imageUrl": "html/img/casque_keutumedi.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+25 aux CC sur le sort Epée Divine",
@@ -26052,6 +26929,7 @@ const ITEMS = [
     "name": "Chapeau Leufère",
     "imageUrl": "html/img/chapeau_leufere.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+25 aux CC sur le sort Bluff",
@@ -26081,6 +26959,7 @@ const ITEMS = [
     "name": "Bonnet Nufar",
     "imageUrl": "html/img/bonnet_nufar.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Flou",
@@ -26110,6 +26989,7 @@ const ITEMS = [
     "name": "Chapeau Lithique",
     "imageUrl": "html/img/chapeau_lithique.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "+30 aux CC sur le sort Picole",
@@ -26139,6 +27019,7 @@ const ITEMS = [
     "name": "Bonnet Spairance",
     "imageUrl": "html/img/bonnet_spairance.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Ch&acirc",
@@ -26168,6 +27049,7 @@ const ITEMS = [
     "name": "Chapeau Grave",
     "imageUrl": "html/img/chapeau_grave.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -26197,6 +27079,7 @@ const ITEMS = [
     "name": "Capuche Apin",
     "imageUrl": "html/img/capuche_apin.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Invocation de Tofu",
@@ -26226,6 +27109,7 @@ const ITEMS = [
     "name": "Végacoiffe",
     "imageUrl": "html/img/vegacoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Prospection",
@@ -26250,6 +27134,7 @@ const ITEMS = [
     "name": "Chapeau Taufeu",
     "imageUrl": "html/img/chapeau_taufeu.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 2 le délai de relance du sort Chance",
@@ -26279,6 +27164,7 @@ const ITEMS = [
     "name": "Masque Kanniboule",
     "imageUrl": "html/img/masque_kanniboule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -26293,6 +27179,7 @@ const ITEMS = [
     "name": "Coiffe de Robbie Capuche",
     "imageUrl": "html/img/coiffe_de_robbie_capuche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Réduit de 1 le coût en PA du sort Tir Eloigné",
@@ -26322,6 +27209,7 @@ const ITEMS = [
     "name": "Chapeau Tyron",
     "imageUrl": "html/img/chapeau_tyron.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -26351,6 +27239,7 @@ const ITEMS = [
     "name": "Sombrero de Pépitox",
     "imageUrl": "html/img/sombrero_de_pepitox.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages",
@@ -26365,6 +27254,7 @@ const ITEMS = [
     "name": "Chapeau du bois de l'est",
     "imageUrl": "html/img/chapeau_du_bois_de_lest.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Prospection",
@@ -26389,6 +27279,7 @@ const ITEMS = [
     "name": "Coiffe Fère",
     "imageUrl": "html/img/coiffe_fere.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Désactive la ligne de vue du sort 0",
@@ -26418,6 +27309,7 @@ const ITEMS = [
     "name": "Kwakoiffe de Flammes",
     "imageUrl": "html/img/kwakoiffe_de_flammes.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -26442,6 +27334,7 @@ const ITEMS = [
     "name": "Kwakoiffe de Glace",
     "imageUrl": "html/img/kwakoiffe_de_glace.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -26466,6 +27359,7 @@ const ITEMS = [
     "name": "Kwakoiffe de Terre",
     "imageUrl": "html/img/kwakoiffe_de_terre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -26490,6 +27384,7 @@ const ITEMS = [
     "name": "Kwakoiffe du Vent",
     "imageUrl": "html/img/kwakoiffe_du_vent.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -26514,6 +27409,7 @@ const ITEMS = [
     "name": "Kaskwette",
     "imageUrl": "html/img/kaskwette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -26543,6 +27439,7 @@ const ITEMS = [
     "name": "La HmmMmmMmmm",
     "imageUrl": "html/img/la_hmmmmmmmmm.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -26567,6 +27464,7 @@ const ITEMS = [
     "name": "Borsalino du Parrain",
     "imageUrl": "html/img/borsalino_du_parrain.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -26591,6 +27489,7 @@ const ITEMS = [
     "name": "Chapeau Akwadala",
     "imageUrl": "html/img/chapeau_akwadala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -26615,6 +27514,7 @@ const ITEMS = [
     "name": "Champo",
     "imageUrl": "html/img/champo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -26639,6 +27539,7 @@ const ITEMS = [
     "name": "Scaracoiffe Rouge",
     "imageUrl": "html/img/scaracoiffe_rouge.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -26668,6 +27569,7 @@ const ITEMS = [
     "name": "Scaracoiffe Blanche",
     "imageUrl": "html/img/scaracoiffe_blanche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -26697,6 +27599,7 @@ const ITEMS = [
     "name": "Caskogato",
     "imageUrl": "html/img/caskogato.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -26726,6 +27629,7 @@ const ITEMS = [
     "name": "Scaracoiffe Bleue",
     "imageUrl": "html/img/scaracoiffe_bleue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -26755,6 +27659,7 @@ const ITEMS = [
     "name": "Chapeau Paupayahn",
     "imageUrl": "html/img/chapeau_paupayahn.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -26784,6 +27689,7 @@ const ITEMS = [
     "name": "Scaracoiffe Verte",
     "imageUrl": "html/img/scaracoiffe_verte.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -26813,6 +27719,7 @@ const ITEMS = [
     "name": "Casque Vioutifoule",
     "imageUrl": "html/img/casque_vioutifoule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -26842,6 +27749,7 @@ const ITEMS = [
     "name": "Casque du Craqueleur",
     "imageUrl": "html/img/casque_du_craqueleur.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -26871,6 +27779,7 @@ const ITEMS = [
     "name": "Mégacoiffe",
     "imageUrl": "html/img/megacoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -26900,6 +27809,7 @@ const ITEMS = [
     "name": "Corbacoiffe",
     "imageUrl": "html/img/corbacoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -26919,6 +27829,7 @@ const ITEMS = [
     "name": "Abracaska",
     "imageUrl": "html/img/abracaska.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -26943,6 +27854,7 @@ const ITEMS = [
     "name": "Poshocoiffe",
     "imageUrl": "html/img/poshocoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -26962,6 +27874,7 @@ const ITEMS = [
     "name": "Goyave",
     "imageUrl": "html/img/goyave.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -26986,6 +27899,7 @@ const ITEMS = [
     "name": "Coiffe du Boufcoul",
     "imageUrl": "html/img/coiffe_du_boufcoul.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -27015,6 +27929,7 @@ const ITEMS = [
     "name": "Masque Tromatisant",
     "imageUrl": "html/img/masque_tromatisant.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -27034,6 +27949,7 @@ const ITEMS = [
     "name": "Bandeau Papayou",
     "imageUrl": "html/img/bandeau_papayou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27058,6 +27974,7 @@ const ITEMS = [
     "name": "Kraignosse",
     "imageUrl": "html/img/kraignosse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27082,6 +27999,7 @@ const ITEMS = [
     "name": "Coiffe du Black Wab",
     "imageUrl": "html/img/coiffe_du_black_wab.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27111,6 +28029,7 @@ const ITEMS = [
     "name": "Noreilles de Slait",
     "imageUrl": "html/img/noreilles_de_slait.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27140,6 +28059,7 @@ const ITEMS = [
     "name": "Casque du Chafer",
     "imageUrl": "html/img/casque_du_chafer.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -27174,6 +28094,7 @@ const ITEMS = [
     "name": "Boufcoiffe Royale",
     "imageUrl": "html/img/boufcoiffe_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -27193,6 +28114,7 @@ const ITEMS = [
     "name": "Clint",
     "imageUrl": "html/img/clint.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Portée",
@@ -27222,6 +28144,7 @@ const ITEMS = [
     "name": "Makroute Sombre",
     "imageUrl": "html/img/makroute_sombre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre",
@@ -27261,6 +28184,7 @@ const ITEMS = [
     "name": "Chapodindo",
     "imageUrl": "html/img/chapodindo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -27290,6 +28214,7 @@ const ITEMS = [
     "name": "Scaracoiffe Noire",
     "imageUrl": "html/img/scaracoiffe_noire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27319,6 +28244,7 @@ const ITEMS = [
     "name": "Kannipiou",
     "imageUrl": "html/img/kannipiou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -27338,6 +28264,7 @@ const ITEMS = [
     "name": "Dragocoiffe Dorée",
     "imageUrl": "html/img/dragocoiffe_doree.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27377,6 +28304,7 @@ const ITEMS = [
     "name": "Scaracoiffe Dorée",
     "imageUrl": "html/img/scaracoiffe_doree.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -27416,6 +28344,7 @@ const ITEMS = [
     "name": "Coiffe du Koalak",
     "imageUrl": "html/img/coiffe_du_koalak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27445,6 +28374,7 @@ const ITEMS = [
     "name": "Caracoiffe",
     "imageUrl": "html/img/caracoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -27464,6 +28394,7 @@ const ITEMS = [
     "name": "Oreilles de Wabbits",
     "imageUrl": "html/img/oreilles_de_wabbits.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -27493,6 +28424,7 @@ const ITEMS = [
     "name": "Gelocoiffe",
     "imageUrl": "html/img/gelocoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Prospection",
@@ -27517,6 +28449,7 @@ const ITEMS = [
     "name": "Coiffe du Kitsou",
     "imageUrl": "html/img/coiffe_du_kitsou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27531,6 +28464,7 @@ const ITEMS = [
     "name": "Coiffe du Mulou",
     "imageUrl": "html/img/coiffe_du_mulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27570,6 +28504,7 @@ const ITEMS = [
     "name": "Chapeau Aerdala",
     "imageUrl": "html/img/chapeau_aerdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -27604,6 +28539,7 @@ const ITEMS = [
     "name": "Coiffe du Chef Crocodaille",
     "imageUrl": "html/img/coiffe_du_chef_crocodaille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27648,6 +28584,7 @@ const ITEMS = [
     "name": "Dragocoiffe de Saphire",
     "imageUrl": "html/img/dragocoiffe_de_saphire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27692,6 +28629,7 @@ const ITEMS = [
     "name": "Coiffe du Dragoeuf volant",
     "imageUrl": "html/img/coiffe_du_dragoeuf_volant.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -27731,6 +28669,7 @@ const ITEMS = [
     "name": "Korko Kousto",
     "imageUrl": "html/img/korko_kousto.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27770,6 +28709,7 @@ const ITEMS = [
     "name": "Chapeau Terrdala",
     "imageUrl": "html/img/chapeau_terrdala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -27814,6 +28754,7 @@ const ITEMS = [
     "name": "Octovius",
     "imageUrl": "html/img/octovius.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27838,6 +28779,7 @@ const ITEMS = [
     "name": "Couronne du Roi Gelax",
     "imageUrl": "html/img/couronne_du_roi_gelax.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27862,6 +28804,7 @@ const ITEMS = [
     "name": "Chapeau de Barbroussa",
     "imageUrl": "html/img/chapeau_de_barbroussa.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -27906,6 +28849,7 @@ const ITEMS = [
     "name": "Casque du Craqueleur Légendaire",
     "imageUrl": "html/img/casque_du_craqueleur_legendaire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27960,6 +28904,7 @@ const ITEMS = [
     "name": "Shikacoiffe",
     "imageUrl": "html/img/shikacoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -27999,6 +28944,7 @@ const ITEMS = [
     "name": "Farlacoiffe",
     "imageUrl": "html/img/farlacoiffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28038,6 +28984,7 @@ const ITEMS = [
     "name": "La Bertheuze",
     "imageUrl": "html/img/la_bertheuze.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28077,6 +29024,7 @@ const ITEMS = [
     "name": "Coiffe du Koulosse",
     "imageUrl": "html/img/coiffe_du_koulosse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28131,6 +29079,7 @@ const ITEMS = [
     "name": "Dragocoiffe noire",
     "imageUrl": "html/img/dragocoiffe_noire.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28180,6 +29129,7 @@ const ITEMS = [
     "name": "Coiffe de la Dragueuse",
     "imageUrl": "html/img/coiffe_de_la_dragueuse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -28229,6 +29179,7 @@ const ITEMS = [
     "name": "Masque de l'Abrakleur sombre",
     "imageUrl": "html/img/masque_de_labrakleur_sombre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -28273,6 +29224,7 @@ const ITEMS = [
     "name": "Chapeau Feudala",
     "imageUrl": "html/img/chapeau_feudala.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28312,6 +29264,7 @@ const ITEMS = [
     "name": "Coiffe du Dragon Cochon",
     "imageUrl": "html/img/coiffe_du_dragon_cochon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -28381,6 +29334,7 @@ const ITEMS = [
     "name": "Billréole",
     "imageUrl": "html/img/billreole.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -28415,6 +29369,7 @@ const ITEMS = [
     "name": "Casque du Chef Bwork",
     "imageUrl": "html/img/casque_du_chef_bwork.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -28474,6 +29429,7 @@ const ITEMS = [
     "name": "Kabuto",
     "imageUrl": "html/img/kabuto.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -28523,6 +29479,7 @@ const ITEMS = [
     "name": "Masque du Rat Noir",
     "imageUrl": "html/img/masque_du_rat_noir.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -28577,6 +29534,7 @@ const ITEMS = [
     "name": "Chapeau du Mineur Sombre",
     "imageUrl": "html/img/chapeau_du_mineur_sombre.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -28626,6 +29584,7 @@ const ITEMS = [
     "name": "Capuche de la Ouassingue",
     "imageUrl": "html/img/capuche_de_la_ouassingue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28670,6 +29629,7 @@ const ITEMS = [
     "name": "Coiffe du Rat Blanc",
     "imageUrl": "html/img/coiffe_du_rat_blanc.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -28724,6 +29684,7 @@ const ITEMS = [
     "name": "Coiffe du Gaddie",
     "imageUrl": "html/img/coiffe_du_gaddie.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28758,6 +29719,7 @@ const ITEMS = [
     "name": "Blémiche",
     "imageUrl": "html/img/blemiche.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28792,6 +29754,7 @@ const ITEMS = [
     "name": "Coiffe du Bimd'Oule",
     "imageUrl": "html/img/coiffe_du_bimdoule.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -28851,6 +29814,7 @@ const ITEMS = [
     "name": "La Bekille",
     "imageUrl": "html/img/la_bekille.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28895,6 +29859,7 @@ const ITEMS = [
     "name": "Phalène",
     "imageUrl": "html/img/phalene.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -28934,6 +29899,7 @@ const ITEMS = [
     "name": "Abracaska Ancestral",
     "imageUrl": "html/img/abracaska_ancestral.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -28983,6 +29949,7 @@ const ITEMS = [
     "name": "Dora Bora",
     "imageUrl": "html/img/dora_bora.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -29032,6 +29999,7 @@ const ITEMS = [
     "name": "Kanistère",
     "imageUrl": "html/img/kanistere.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -29061,6 +30029,7 @@ const ITEMS = [
     "name": "Solomonk",
     "imageUrl": "html/img/solomonk.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -29110,6 +30079,7 @@ const ITEMS = [
     "name": "Krokop",
     "imageUrl": "html/img/krokop.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -29154,6 +30124,7 @@ const ITEMS = [
     "name": "Koloss",
     "imageUrl": "html/img/koloss.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -29203,6 +30174,7 @@ const ITEMS = [
     "name": "Holoune",
     "imageUrl": "html/img/holoune.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -29247,6 +30219,7 @@ const ITEMS = [
     "name": "Kaskargo",
     "imageUrl": "html/img/kaskargo.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -29301,6 +30274,7 @@ const ITEMS = [
     "name": "Chapeau de la Gamine Zoth",
     "imageUrl": "html/img/chapeau_de_la_gamine_zoth.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -29350,6 +30324,7 @@ const ITEMS = [
     "name": "Casque Dragoeuf",
     "imageUrl": "html/img/casque_dragoeuf.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -29389,6 +30364,7 @@ const ITEMS = [
     "name": "Coiffe du Disciple Zoth",
     "imageUrl": "html/img/coiffe_du_disciple_zoth.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -29448,6 +30424,7 @@ const ITEMS = [
     "name": "Couronne du Tofu Royal",
     "imageUrl": "html/img/couronne_du_tofu_royal.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -29492,6 +30469,7 @@ const ITEMS = [
     "name": "Doro le Blak",
     "imageUrl": "html/img/doro_le_blak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -29531,6 +30509,7 @@ const ITEMS = [
     "name": "Bandeau Kaliptus",
     "imageUrl": "html/img/bandeau_kaliptus.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -29600,6 +30579,7 @@ const ITEMS = [
     "name": "Masque du Sergent Zoth",
     "imageUrl": "html/img/masque_du_sergent_zoth.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -29659,6 +30639,7 @@ const ITEMS = [
     "name": "Coiffe Cérémoniale du Seigneur des Rats",
     "imageUrl": "html/img/coiffe_ceremoniale_du_seigneur_des_rats.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -29728,6 +30709,7 @@ const ITEMS = [
     "name": "Casque du Guerrier Zoth",
     "imageUrl": "html/img/casque_du_guerrier_zoth.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -29772,6 +30754,7 @@ const ITEMS = [
     "name": "Masque de l'Abrakleur clair",
     "imageUrl": "html/img/masque_de_labrakleur_clair.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -29826,6 +30809,7 @@ const ITEMS = [
     "name": "Coiffe du Meulou",
     "imageUrl": "html/img/coiffe_du_meulou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -29885,6 +30869,7 @@ const ITEMS = [
     "name": "Casque du Bwork de Bronze",
     "imageUrl": "html/img/casque_du_bwork_de_bronze.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -29934,6 +30919,7 @@ const ITEMS = [
     "name": "Coiffe du Chêne Mou",
     "imageUrl": "html/img/coiffe_du_chene_mou.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -29998,6 +30984,7 @@ const ITEMS = [
     "name": "Piruk",
     "imageUrl": "html/img/piruk.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -30052,6 +31039,7 @@ const ITEMS = [
     "name": "Krépite",
     "imageUrl": "html/img/krepite.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -30096,6 +31084,7 @@ const ITEMS = [
     "name": "Ruskauffe",
     "imageUrl": "html/img/ruskauffe.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -30150,6 +31139,7 @@ const ITEMS = [
     "name": "Chapblopignon",
     "imageUrl": "html/img/chapblopignon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -30204,6 +31194,7 @@ const ITEMS = [
     "name": "Casque du Bitouf Aérien",
     "imageUrl": "html/img/casque_du_bitouf_aerien.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PM",
@@ -30268,6 +31259,7 @@ const ITEMS = [
     "name": "Coiffe du Maître Zoth",
     "imageUrl": "html/img/coiffe_du_maitre_zoth.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -30317,6 +31309,7 @@ const ITEMS = [
     "name": "Coiffe du Minotot",
     "imageUrl": "html/img/coiffe_du_minotot.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -30376,6 +31369,7 @@ const ITEMS = [
     "name": "Masque Vaudou Jav",
     "imageUrl": "html/img/masque_vaudou_jav.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -30440,6 +31434,7 @@ const ITEMS = [
     "name": "Masque Vaudou Archer",
     "imageUrl": "html/img/masque_vaudou_archer.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Intelligence",
@@ -30504,6 +31499,7 @@ const ITEMS = [
     "name": "Masque Vaudou Sarbak",
     "imageUrl": "html/img/masque_vaudou_sarbak.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -30568,6 +31564,7 @@ const ITEMS = [
     "name": "Masque Vaudou Thierry",
     "imageUrl": "html/img/masque_vaudou_thierry.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -30632,6 +31629,7 @@ const ITEMS = [
     "name": "Le Nahitse",
     "imageUrl": "html/img/le_nahitse.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -30691,6 +31689,7 @@ const ITEMS = [
     "name": "Blopronne Royale",
     "imageUrl": "html/img/blopronne_royale.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -30750,6 +31749,7 @@ const ITEMS = [
     "name": "Coiffe du Tynril",
     "imageUrl": "html/img/coiffe_du_tynril.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA",
@@ -30824,6 +31824,7 @@ const ITEMS = [
     "name": "Capuche Souveraine du Roissingue",
     "imageUrl": "html/img/capuche_souveraine_du_roissingue.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -30883,6 +31884,7 @@ const ITEMS = [
     "name": "Sulik",
     "imageUrl": "html/img/sulik.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -30912,6 +31914,7 @@ const ITEMS = [
     "name": "Ougalurette",
     "imageUrl": "html/img/ougalurette.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -30951,6 +31954,7 @@ const ITEMS = [
     "name": "Chapeau de Crocodaille Dandi",
     "imageUrl": "html/img/chapeau_de_crocodaille_dandi.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -31015,6 +32019,7 @@ const ITEMS = [
     "name": "Chapignon",
     "imageUrl": "html/img/chapignon.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -31079,6 +32084,7 @@ const ITEMS = [
     "name": "Casque Harnage",
     "imageUrl": "html/img/casque_harnage.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -31138,6 +32144,7 @@ const ITEMS = [
     "name": "Le Kim",
     "imageUrl": "html/img/le_kim.png",
     "damages": [],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -31199,6 +32206,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 4 (neutre)"
     ],
+    "conditions": [
+      "Force > 1"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -31215,6 +32225,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -31230,6 +32241,9 @@ const ITEMS = [
     "imageUrl": "html/img/arc_de_boisaille.png",
     "damages": [
       "Dommages : 2 à 4 (neutre)"
+    ],
+    "conditions": [
+      "Force > 2"
     ],
     "effects": [
       {
@@ -31247,6 +32261,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 5 (neutre)"
     ],
+    "conditions": [
+      "Force > 3"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -31262,6 +32279,9 @@ const ITEMS = [
     "imageUrl": "html/img/puissant_arc_de_boisaille.png",
     "damages": [
       "Dommages : 3 à 5 (neutre)"
+    ],
+    "conditions": [
+      "Force > 4"
     ],
     "effects": [
       {
@@ -31279,6 +32299,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 5 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 8"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -31295,6 +32318,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 31 à 50 (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -31310,6 +32334,9 @@ const ITEMS = [
     "imageUrl": "html/img/arc_de_mech_riorraw.png",
     "damages": [
       "Dommages : 31 à 50 (air)"
+    ],
+    "conditions": [
+      "Alignement doit etre Bonta"
     ],
     "effects": [
       {
@@ -31327,6 +32354,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 5 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 11",
+      "Force > 5"
+    ],
     "effects": [
       {
         "stat": "Initiative",
@@ -31342,6 +32373,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_arc_deroutant.png",
     "damages": [
       "Dommages : 3 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 14",
+      "Force > 4"
     ],
     "effects": [
       {
@@ -31359,6 +32394,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 14 (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -31374,6 +32410,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_arc_buse.png",
     "damages": [
       "Dommages : 4 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 15",
+      "Force > 20"
     ],
     "effects": [
       {
@@ -31401,6 +32441,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 7 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 16",
+      "Force > 6"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -31416,6 +32460,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_buse.png",
     "damages": [
       "Dommages : 5 à 8 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 17",
+      "Force > 28"
     ],
     "effects": [
       {
@@ -31443,6 +32491,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 7 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 18",
+      "Force > 8"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -31458,6 +32510,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_arc_ecologique.png",
     "damages": [
       "Dommages : 4 à 6 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 20",
+      "Agilité > 15"
     ],
     "effects": [
       {
@@ -31485,6 +32541,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 7 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 19",
+      "Force > 9"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -31500,6 +32560,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_du_bwork_archer.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 20",
+      "Agilité > 20"
     ],
     "effects": [
       {
@@ -31521,6 +32585,10 @@ const ITEMS = [
     "imageUrl": "html/img/grand_arc_buse.png",
     "damages": [
       "Dommages : 6 à 9 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 20",
+      "Force > 31"
     ],
     "effects": [
       {
@@ -31548,6 +32616,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 6 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 22",
+      "Chance > 15"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -31563,6 +32635,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_ecologique.png",
     "damages": [
       "Dommages : 5 à 8 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 25",
+      "Agilité > 17"
     ],
     "effects": [
       {
@@ -31590,6 +32666,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 23",
+      "Force > 33"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -31615,6 +32695,10 @@ const ITEMS = [
     "imageUrl": "html/img/nomoon.png",
     "damages": [
       "Dommages : 4 à 8 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 28",
+      "Vitalité > 5"
     ],
     "effects": [
       {
@@ -31642,6 +32726,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 7 (neutre)"
     ],
+    "conditions": [
+      "Force > 10",
+      "Agilité > 28"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -31667,6 +32755,10 @@ const ITEMS = [
     "imageUrl": "html/img/grand_arc_ecologique.png",
     "damages": [
       "Dommages : 7 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 30",
+      "Agilité > 20"
     ],
     "effects": [
       {
@@ -31694,6 +32786,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 45",
+      "Agilité > 5"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -31720,6 +32816,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 30 (eau)"
     ],
+    "conditions": [
+      "Chance > 30"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -31735,6 +32834,11 @@ const ITEMS = [
     "imageUrl": "html/img/arc_de_triomphe.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 30",
+      "Chance > 5",
+      "Force > 10"
     ],
     "effects": [
       {
@@ -31772,6 +32876,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 12 (air)"
     ],
+    "conditions": [
+      "Agilité > 30",
+      "Vitalité > 30"
+    ],
     "effects": []
   },
   {
@@ -31781,6 +32889,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_de_jeanne.png",
     "damages": [
       "Dommages : 2 à 16 (neutre)"
+    ],
+    "conditions": [
+      "Force > 10",
+      "Agilité > 30"
     ],
     "effects": [
       {
@@ -31802,6 +32914,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_en_corne_de_bouftou.png",
     "damages": [
       "Dommages : 7 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Force > 44",
+      "Agilité > 8"
     ],
     "effects": [
       {
@@ -31829,6 +32945,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 14 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 35",
+      "Agilité > 23"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -31854,6 +32974,10 @@ const ITEMS = [
     "imageUrl": "html/img/la_corde_de_yamato.png",
     "damages": [
       "Dommages : 1 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 33",
+      "Force > 10"
     ],
     "effects": [
       {
@@ -31881,6 +33005,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 12 (neutre)"
     ],
+    "conditions": [
+      "Force > 47",
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -31906,6 +33034,11 @@ const ITEMS = [
     "imageUrl": "html/img/arc_dit_keha,_version_soldee.png",
     "damages": [
       "Dommages : 3 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 40",
+      "Force > 2",
+      "Intelligence > 2"
     ],
     "effects": [
       {
@@ -31938,6 +33071,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 4 à 8 (neutre)"
     ],
+    "conditions": [
+      "Force > 30",
+      "Agilité > 36"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -31968,6 +33105,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_de_cristal_opaque.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 35",
+      "Agilité > 10"
     ],
     "effects": [
       {
@@ -32015,6 +33156,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 13 (neutre)"
     ],
+    "conditions": [
+      "Force > 50",
+      "Agilité > 12"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -32040,6 +33185,11 @@ const ITEMS = [
     "imageUrl": "html/img/arc_dit_keha,_version_standard.png",
     "damages": [
       "Dommages : 3 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 40",
+      "Force > 4",
+      "Intelligence > 4"
     ],
     "effects": [
       {
@@ -32072,6 +33222,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -32093,6 +33244,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 15 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 40",
+      "Vitalité > 40"
+    ],
     "effects": []
   },
   {
@@ -32104,6 +33259,7 @@ const ITEMS = [
       "Dommages : 12 à 42 (air)",
       "PV rendus : 12 à 42"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -32124,6 +33280,12 @@ const ITEMS = [
     "imageUrl": "html/img/arc_a_poulie_sciee.png",
     "damages": [
       "Dommages : 9 à 18 (feu)"
+    ],
+    "conditions": [
+      "Alignement doit etre Bonta",
+      "Intelligence > 10",
+      "Intelligence > 30",
+      "Sagesse > 30"
     ],
     "effects": [
       {
@@ -32150,6 +33312,11 @@ const ITEMS = [
     "imageUrl": "html/img/arc_dit_keha,_version_speciale.png",
     "damages": [
       "Dommages : 3 à 16 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 40",
+      "Force > 9",
+      "Intelligence > 9"
     ],
     "effects": [
       {
@@ -32181,6 +33348,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_de_cristal.png",
     "damages": [
       "Dommages : 9 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 40",
+      "Agilité > 10"
     ],
     "effects": [
       {
@@ -32228,6 +33399,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 15 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 46"
+    ],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -32248,6 +33422,11 @@ const ITEMS = [
     "imageUrl": "html/img/arc_dit_keha,_nouvelle_version.png",
     "damages": [
       "Dommages : 4 à 19 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 40",
+      "Force > 11",
+      "Intelligence > 11"
     ],
     "effects": [
       {
@@ -32279,6 +33458,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_de_cristal_translucide.png",
     "damages": [
       "Dommages : 10 à 16 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 45",
+      "Agilité > 15"
     ],
     "effects": [
       {
@@ -32326,6 +33509,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 15 (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Résistance terre",
@@ -32358,6 +33542,7 @@ const ITEMS = [
       "Dommages : 3 à 10 (eau)",
       "Dommages : 3 à 10 (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -32394,6 +33579,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 21 (eau)"
     ],
+    "conditions": [
+      "Chance > 50",
+      "Vitalité > 50"
+    ],
     "effects": []
   },
   {
@@ -32403,6 +33592,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_arc_du_roi_des_borins.png",
     "damages": [
       "Dommages : 11 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Force > 80",
+      "Agilité > 40"
     ],
     "effects": [
       {
@@ -32444,6 +33637,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_de_cristal_pur.png",
     "damages": [
       "Dommages : 11 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 50",
+      "Agilité > 18"
     ],
     "effects": [
       {
@@ -32492,6 +33689,7 @@ const ITEMS = [
       "Dommages : 1 à 30 (feu)",
       "PV rendus : 1 à 10"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -32518,6 +33716,7 @@ const ITEMS = [
     "damages": [
       "Vole 2 à 4 PV (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -32543,6 +33742,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_du_roi_des_borins.png",
     "damages": [
       "Dommages : 12 à 21 (neutre)"
+    ],
+    "conditions": [
+      "Force > 80",
+      "Agilité > 50"
     ],
     "effects": [
       {
@@ -32585,6 +33788,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 25 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 60",
+      "Vitalité > 15"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -32616,6 +33823,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 20 (terre)"
     ],
+    "conditions": [
+      "Force > 60",
+      "Vitalité > 60"
+    ],
     "effects": []
   },
   {
@@ -32627,6 +33838,7 @@ const ITEMS = [
       "Dommages : 6 à 15 (neutre)",
       "Vole 4 à 5 PV (air)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -32647,6 +33859,10 @@ const ITEMS = [
     "imageUrl": "html/img/elegant_arc_du_roi_des_borins.png",
     "damages": [
       "Dommages : 13 à 23 (neutre)"
+    ],
+    "conditions": [
+      "Force > 85",
+      "Agilité > 52"
     ],
     "effects": [
       {
@@ -32689,6 +33905,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 22 (neutre)"
     ],
+    "conditions": [
+      "Force > 70",
+      "Agilité > 70"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -32728,6 +33948,13 @@ const ITEMS = [
       "Dommages : 1 à 4 (feu)",
       "Dommages : 1 à 4 (terre)"
     ],
+    "conditions": [
+      "Chance > 35",
+      "Agilité > 35",
+      "Force > 35",
+      "Intelligence > 35",
+      "Vitalité > 70"
+    ],
     "effects": []
   },
   {
@@ -32737,6 +33964,10 @@ const ITEMS = [
     "imageUrl": "html/img/surpuissant_arc_du_roi_des_borins.png",
     "damages": [
       "Dommages : 14 à 25 (neutre)"
+    ],
+    "conditions": [
+      "Force > 90",
+      "Agilité > 55"
     ],
     "effects": [
       {
@@ -32780,6 +34011,10 @@ const ITEMS = [
       "Dommages : 7 à 12 (feu)",
       "Dommages : 7 à 12 (eau)"
     ],
+    "conditions": [
+      "Intelligence > 150",
+      "Chance > 150"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -32810,6 +34045,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_boutant.png",
     "damages": [
       "Dommages : 20 à 29 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 70",
+      "Chance > 50"
     ],
     "effects": [
       {
@@ -32848,6 +34087,9 @@ const ITEMS = [
       "Dommages : 5 à 12 (neutre)",
       "Dommages : 5 à 12 (air)"
     ],
+    "conditions": [
+      "Agilité > 200"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -32878,6 +34120,10 @@ const ITEMS = [
     "imageUrl": "html/img/arc_ange.png",
     "damages": [
       "Dommages : 17 à 31 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 80",
+      "Force > 50"
     ],
     "effects": [
       {
@@ -32930,6 +34176,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 17 à 31 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 50",
+      "Agilité > 80"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -32962,6 +34212,11 @@ const ITEMS = [
       "Dommages : 16 à 23 (neutre)",
       "Vole 2 à 3 PV (air)"
     ],
+    "conditions": [
+      "Force > 90",
+      "Agilité > 90",
+      "Sagesse > 50"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -32993,6 +34248,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 15 (feu)",
       "Dommages : 6 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 200",
+      "Agilité > 60",
+      "Classe doit etre Cra"
     ],
     "effects": [
       {
@@ -33036,6 +34296,10 @@ const ITEMS = [
       "Dommages : 6 à 13 (feu)",
       "Dommages : 6 à 13 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 250",
+      "Agilité > 150"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -33076,6 +34340,11 @@ const ITEMS = [
     "imageUrl": "html/img/arc_chitecte.png",
     "damages": [
       "Dommages : 19 à 33 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 200",
+      "Force > 100",
+      "Intelligence > 30"
     ],
     "effects": [
       {
@@ -33124,6 +34393,11 @@ const ITEMS = [
       "Dommages : 7 à 14 (air)",
       "Dommages : 7 à 14 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 150",
+      "Chance > 100",
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -33165,6 +34439,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 25 (neutre)",
       "Vole 2 à 3 PV (feu)"
+    ],
+    "conditions": [
+      "Agilité > 150",
+      "Intelligence > 400",
+      "Classe doit etre Cra"
     ],
     "effects": [
       {
@@ -33212,6 +34491,13 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 21 (neutre)",
       "Dommages : 2 à 21 (neutre)"
+    ],
+    "conditions": [
+      "Force > 100",
+      "Agilité > 100",
+      "Intelligence > 100",
+      "Chance > 100",
+      "Vitalité > 200"
     ],
     "effects": [
       {
@@ -33264,6 +34550,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 18 à 33 (terre)"
     ],
+    "conditions": [
+      "Force > 300",
+      "Vitalité > 250"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -33315,6 +34605,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 30 (neutre)",
       "Vole 2 à 3 PV (eau)"
+    ],
+    "conditions": [
+      "Chance > 250"
     ],
     "effects": [
       {
@@ -33373,6 +34666,11 @@ const ITEMS = [
       "Vole 5 à 6 PV (eau)",
       "Vole de 1 à 5000 kamas"
     ],
+    "conditions": [
+      "Agilité > 100",
+      "Chance > 100",
+      "Classe doit etre Cra"
+    ],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -33404,6 +34702,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 25 (neutre)",
       "Vole 3 à 4 PV (air)"
+    ],
+    "conditions": [
+      "Classe doit etre Cra",
+      "Agilité > 250"
     ],
     "effects": [
       {
@@ -33441,6 +34743,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 27 (neutre)",
       "Dommages : 5 à 7 (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 300",
+      "Vitalité > 300",
+      "Agilité > 100"
     ],
     "effects": [
       {
@@ -33494,6 +34801,11 @@ const ITEMS = [
       "Vole 6 à 20 PV (eau)",
       "Vole 6 à 20 PV (air)"
     ],
+    "conditions": [
+      "Agilité > 200",
+      "Chance > 70",
+      "Classe doit etre Cra"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -33521,6 +34833,12 @@ const ITEMS = [
       "Dommages : 6 à 13 (neutre)",
       "Dommages : 6 à 13 (feu)",
       "Dommages : 6 à 13 (air)"
+    ],
+    "conditions": [
+      "Agilité > 120",
+      "Intelligence > 120",
+      "Chance > 120",
+      "Vitalité > 300"
     ],
     "effects": [
       {
@@ -33567,6 +34885,9 @@ const ITEMS = [
     "imageUrl": "html/img/arc_a_chon.png",
     "damages": [
       "Dommages : 9 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 200"
     ],
     "effects": [
       {
@@ -33619,6 +34940,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 19 (air)",
       "Dommages : 6 à 19 (feu)"
+    ],
+    "conditions": [
+      "Agilité > 300",
+      "Intelligence > 300"
     ],
     "effects": [
       {
@@ -33682,6 +35007,10 @@ const ITEMS = [
       "Dommages : 10 à 21 (terre)",
       "Dommages : 10 à 21 (feu)"
     ],
+    "conditions": [
+      "Force > 300",
+      "Intelligence > 300"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -33733,6 +35062,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -33748,6 +35078,9 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_de_boisaille.png",
     "damages": [
       "Dommages : 2 à 6 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 4"
     ],
     "effects": [
       {
@@ -33765,6 +35098,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 7 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 8"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -33780,6 +35116,9 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_baguette_de_boisaille.png",
     "damages": [
       "Dommages : 4 à 8 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 10"
     ],
     "effects": [
       {
@@ -33797,6 +35136,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 6 (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -33818,6 +35158,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 16 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 26"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -33833,6 +35176,9 @@ const ITEMS = [
     "imageUrl": "html/img/petite_baguette_de_glace.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 26"
     ],
     "effects": [
       {
@@ -33850,6 +35196,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 17 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 28"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -33865,6 +35214,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_baguette_heure.png",
     "damages": [
       "Dommages : 6 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 25",
+      "Force > 1"
     ],
     "effects": [
       {
@@ -33887,6 +35240,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 18 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 30"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -33902,6 +35258,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_baguette_de_sagesse.png",
     "damages": [
       "Dommages : 10 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 20",
+      "Sagesse > 5"
     ],
     "effects": [
       {
@@ -33924,6 +35284,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 20"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -33944,6 +35307,9 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_de_liriel.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 40"
     ],
     "effects": [
       {
@@ -33966,6 +35332,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 8 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 30"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -33986,6 +35355,10 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_heure.png",
     "damages": [
       "Dommages : 6 à 8 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 27",
+      "Force > 2"
     ],
     "effects": [
       {
@@ -34008,6 +35381,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 16 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 23",
+      "Sagesse > 7"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -34028,6 +35405,9 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_dintelligence.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 24"
     ],
     "effects": [
       {
@@ -34051,6 +35431,7 @@ const ITEMS = [
       "Vole 3 à 4 PV (air)",
       "Vole 3 à 4 PV (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -34071,6 +35452,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_baguette_heure.png",
     "damages": [
       "Dommages : 6 à 9 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 29",
+      "Force > 3"
     ],
     "effects": [
       {
@@ -34093,6 +35478,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 18 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 25",
+      "Sagesse > 9"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -34114,6 +35503,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 7 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 50"
+    ],
     "effects": [
       {
         "stat": "Soins",
@@ -34129,6 +35521,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_baguette_de_sagesse.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 27",
+      "Sagesse > 11"
     ],
     "effects": [
       {
@@ -34151,6 +35547,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 14 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 27"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -34172,6 +35571,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 16 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 29"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -34192,6 +35594,9 @@ const ITEMS = [
     "imageUrl": "html/img/petite_baguette_a_pans.png",
     "damages": [
       "Dommages : 7 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 50"
     ],
     "effects": [
       {
@@ -34219,6 +35624,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 12 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 30",
+      "Vitalité > 30"
+    ],
     "effects": []
   },
   {
@@ -34228,6 +35637,10 @@ const ITEMS = [
     "imageUrl": "html/img/terrifiante_baguette_heure.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 31",
+      "Force > 4"
     ],
     "effects": [
       {
@@ -34250,6 +35663,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 33",
+      "Sagesse > 10"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -34270,6 +35687,9 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_a_pans.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 55"
     ],
     "effects": [
       {
@@ -34296,6 +35716,9 @@ const ITEMS = [
     "imageUrl": "html/img/daguette.png",
     "damages": [
       "Dommages : 6 à 15 (air)"
+    ],
+    "conditions": [
+      "Intelligence > 25"
     ],
     "effects": [
       {
@@ -34328,6 +35751,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 8 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 36",
+      "Force > 25"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -34354,6 +35781,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 16 (eau)"
     ],
+    "conditions": [
+      "Chance > 40",
+      "Vitalité > 40"
+    ],
     "effects": []
   },
   {
@@ -34364,6 +35795,7 @@ const ITEMS = [
     "damages": [
       "PV rendus : 8 à 12"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -34379,6 +35811,10 @@ const ITEMS = [
     "imageUrl": "html/img/discrete_baguette_dhouvette.png",
     "damages": [
       "Dommages : 5 à 8 (neutre)"
+    ],
+    "conditions": [
+      "Sagesse > 10",
+      "Intelligence > 45"
     ],
     "effects": [
       {
@@ -34411,6 +35847,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 14 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 60"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -34436,6 +35875,10 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_deglise.png",
     "damages": [
       "Dommages : 5 à 9 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 40",
+      "Force > 25"
     ],
     "effects": [
       {
@@ -34463,6 +35906,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 17 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 60"
+    ],
     "effects": [
       {
         "stat": "Soins",
@@ -34478,6 +35924,9 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_sylvien.png",
     "damages": [
       "Dommages : 8 à 14 (air)"
+    ],
+    "conditions": [
+      "Agilité > 80"
     ],
     "effects": [
       {
@@ -34510,6 +35959,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 8 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 12",
+      "Intelligence > 48"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -34541,6 +35994,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 16 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 65"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -34566,6 +36022,10 @@ const ITEMS = [
     "imageUrl": "html/img/lourde_baguette_deglise.png",
     "damages": [
       "Dommages : 5 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 45",
+      "Force > 25"
     ],
     "effects": [
       {
@@ -34593,6 +36053,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 23 (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -34623,6 +36084,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_baguette_dhouvette.png",
     "damages": [
       "Dommages : 5 à 9 (neutre)"
+    ],
+    "conditions": [
+      "Sagesse > 15",
+      "Intelligence > 50"
     ],
     "effects": [
       {
@@ -34655,6 +36120,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 19 (terre)"
     ],
+    "conditions": [
+      "Force > 50",
+      "Vitalité > 50"
+    ],
     "effects": []
   },
   {
@@ -34664,6 +36133,10 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_nininnin.png",
     "damages": [
       "Vole 1 à 10 PV (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 99",
+      "Sagesse > 20"
     ],
     "effects": [
       {
@@ -34696,6 +36169,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 40",
+      "Intelligence > 100"
+    ],
     "effects": [
       {
         "stat": "Portée",
@@ -34726,6 +36203,11 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_des_cieux.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 104",
+      "Vitalité > 20",
+      "Agilité > 10"
     ],
     "effects": [
       {
@@ -34763,6 +36245,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 11 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 51",
+      "Force > 25"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -34788,6 +36274,10 @@ const ITEMS = [
     "imageUrl": "html/img/traumatisante_baguette_dhouvette.png",
     "damages": [
       "Dommages : 5 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Sagesse > 17",
+      "Intelligence > 53"
     ],
     "effects": [
       {
@@ -34819,6 +36309,9 @@ const ITEMS = [
     "imageUrl": "html/img/petite_baguette_meneuse.png",
     "damages": [
       "Dommages : 9 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 80"
     ],
     "effects": [
       {
@@ -34866,6 +36359,7 @@ const ITEMS = [
     "damages": [
       "PV rendus : 11 à 30"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Soins",
@@ -34886,6 +36380,10 @@ const ITEMS = [
     "imageUrl": "html/img/le_tison_fute.png",
     "damages": [
       "Dommages : 9 à 16 (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 70",
+      "Force > 30"
     ],
     "effects": [
       {
@@ -34923,6 +36421,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 21 (air)"
     ],
+    "conditions": [
+      "Agilité > 60",
+      "Vitalité > 60"
+    ],
     "effects": []
   },
   {
@@ -34932,6 +36434,9 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_meneuse.png",
     "damages": [
       "Dommages : 11 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 85"
     ],
     "effects": [
       {
@@ -34979,6 +36484,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 20 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 63",
+      "Sagesse > 30"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -35001,6 +36510,9 @@ const ITEMS = [
       "Dommages : 5 à 8 (neutre)",
       "Dommages : 5 à 8 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 150"
+    ],
     "effects": [
       {
         "stat": "Soins",
@@ -35021,6 +36533,10 @@ const ITEMS = [
     "imageUrl": "html/img/pieu_vampirique.png",
     "damages": [
       "Vole 6 à 15 PV (feu)"
+    ],
+    "conditions": [
+      "Agilité > 30",
+      "Sagesse < 60"
     ],
     "effects": [
       {
@@ -35047,6 +36563,9 @@ const ITEMS = [
     "imageUrl": "html/img/grande_baguette_meneuse.png",
     "damages": [
       "Dommages : 12 à 21 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 90"
     ],
     "effects": [
       {
@@ -35094,6 +36613,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 16 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 70",
+      "Sagesse > 70"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -35133,6 +36656,13 @@ const ITEMS = [
       "Dommages : 3 à 7 (feu)",
       "Dommages : 3 à 7 (terre)"
     ],
+    "conditions": [
+      "Chance > 35",
+      "Force > 35",
+      "Intelligence > 35",
+      "Agilité > 35",
+      "Vitalité > 70"
+    ],
     "effects": []
   },
   {
@@ -35142,6 +36672,9 @@ const ITEMS = [
     "imageUrl": "html/img/excellente_baguette_meneuse.png",
     "damages": [
       "Dommages : 13 à 23 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 100"
     ],
     "effects": [
       {
@@ -35190,6 +36723,10 @@ const ITEMS = [
       "Dommages : 5 à 8 (eau)",
       "Dommages : 5 à 8 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 100",
+      "Chance > 100"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -35226,6 +36763,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 14 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 50",
+      "Sagesse > 30"
+    ],
     "effects": [
       {
         "stat": "Résistance neutre (%)",
@@ -35256,6 +36797,9 @@ const ITEMS = [
     "imageUrl": "html/img/la_bidjiz.png",
     "damages": [
       "Dommages : 13 à 22 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 150"
     ],
     "effects": [
       {
@@ -35292,6 +36836,10 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_affeulante.png",
     "damages": [
       "Dommages : 11 à 14 (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 60",
+      "Vitalité > 40"
     ],
     "effects": [
       {
@@ -35335,6 +36883,10 @@ const ITEMS = [
       "Dommages : 13 à 27 (neutre)",
       "PV rendus : 9 à 23"
     ],
+    "conditions": [
+      "Intelligence > 120",
+      "Sagesse > 40"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -35372,6 +36924,9 @@ const ITEMS = [
       "Dommages : 11 à 20 (neutre)",
       "Vole 3 à 4 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 200"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -35397,6 +36952,9 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_molle.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 85"
     ],
     "effects": [
       {
@@ -35433,6 +36991,10 @@ const ITEMS = [
     "imageUrl": "html/img/la_migraine.png",
     "damages": [
       "Dommages : 11 à 19 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 150",
+      "Vitalité > 100"
     ],
     "effects": [
       {
@@ -35474,6 +37036,10 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_irreelle.png",
     "damages": [
       "Dommages : 1 à 40 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 90",
+      "Sagesse > 30"
     ],
     "effects": [
       {
@@ -35521,6 +37087,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 21 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 40",
+      "Intelligence > 40"
+    ],
     "effects": [
       {
         "stat": "Résistance air (%)",
@@ -35552,6 +37122,10 @@ const ITEMS = [
     "damages": [
       "Vole 1 à 6 PV (terre)",
       "Dommages : 6 à 30 (feu)"
+    ],
+    "conditions": [
+      "Force > 100",
+      "Intelligence > 100"
     ],
     "effects": [
       {
@@ -35596,6 +37170,10 @@ const ITEMS = [
       "Vole 1 à 10 PV (feu)",
       "PV rendus : 1 à 100"
     ],
+    "conditions": [
+      "Intelligence > 200",
+      "Sagesse > 50"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -35622,6 +37200,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (neutre)",
       "Vole 4 à 5 PV (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 300"
     ],
     "effects": [
       {
@@ -35653,6 +37234,10 @@ const ITEMS = [
     "imageUrl": "html/img/la_baguette_des_limbes.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 200",
+      "Sagesse > 100"
     ],
     "effects": [
       {
@@ -35696,6 +37281,10 @@ const ITEMS = [
       "Dommages : 1 à 5 (neutre)",
       "Vole 2 à 3 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 350",
+      "Vitalité > 200"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -35737,6 +37326,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 23 (neutre)",
       "Vole 5 à 9 PV (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 300",
+      "Vitalité > 100"
     ],
     "effects": [
       {
@@ -35780,6 +37373,10 @@ const ITEMS = [
       "Dommages : 7 à 11 (feu)",
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 300",
+      "Sagesse > 100"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -35820,6 +37417,10 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_du_dragoeuf.png",
     "damages": [
       "Dommages : 16 à 22 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 100",
+      "Agilité > 200"
     ],
     "effects": [
       {
@@ -35866,6 +37467,11 @@ const ITEMS = [
     "imageUrl": "html/img/baguette_houalle.png",
     "damages": [
       "Dommages : 15 à 24 (neutre)"
+    ],
+    "conditions": [
+      "Force > 100",
+      "Vitalité > 150",
+      "Intelligence > 300"
     ],
     "effects": [
       {
@@ -35914,6 +37520,10 @@ const ITEMS = [
       "Dommages : 6 à 14 (neutre)",
       "Dommages : 6 à 14 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 300",
+      "Vitalité > 300"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -35961,6 +37571,9 @@ const ITEMS = [
       "Dommages : 4 à 6 (feu)",
       "Dommages : 26 à 33 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 250"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -36003,6 +37616,10 @@ const ITEMS = [
       "Vole 4 à 6 PV (terre)",
       "Dommages : 7 à 16 (air)",
       "Dommages : 7 à 16 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 200",
+      "Force > 200"
     ],
     "effects": [
       {
@@ -36052,6 +37669,12 @@ const ITEMS = [
       "Vole 1 à 2 PV (terre)",
       "Vole 1 à 2 PV (eau)",
       "Vole 1 à 2 PV (air)"
+    ],
+    "conditions": [
+      "Intelligence > 150",
+      "Agilité > 100",
+      "Chance > 100",
+      "Force > 100"
     ],
     "effects": [
       {
@@ -36116,6 +37739,10 @@ const ITEMS = [
       "Dommages : 9 à 13 (neutre)",
       "Vole 4 à 5 PV (air)"
     ],
+    "conditions": [
+      "Intelligence > 450",
+      "Vitalité > 200"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -36152,6 +37779,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 25 (feu)",
       "Vole 1 à 15 PV (eau)"
+    ],
+    "conditions": [
+      "Intelligence > 400",
+      "Chance > 250",
+      "Sagesse > 150"
     ],
     "effects": [
       {
@@ -36216,6 +37848,10 @@ const ITEMS = [
       "Dommages : 9 à 16 (air)",
       "Vole 1 à 7 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 300",
+      "Agilité > 300"
+    ],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -36272,6 +37908,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -36287,6 +37924,9 @@ const ITEMS = [
     "imageUrl": "html/img/baton_de_boisaille.png",
     "damages": [
       "Dommages : 3 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 4"
     ],
     "effects": [
       {
@@ -36304,6 +37944,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 9 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 7"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -36319,6 +37962,9 @@ const ITEMS = [
     "imageUrl": "html/img/puissant_baton_de_boisaille.png",
     "damages": [
       "Dommages : 7 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 9"
     ],
     "effects": [
       {
@@ -36336,6 +37982,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 20"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -36352,6 +38001,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -36378,6 +38028,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 16 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 13"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -36393,6 +38046,9 @@ const ITEMS = [
     "imageUrl": "html/img/baton_kouyu.png",
     "damages": [
       "Dommages : 2 à 4 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 14"
     ],
     "effects": [
       {
@@ -36410,6 +38066,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 17 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 14"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -36425,6 +38084,9 @@ const ITEMS = [
     "imageUrl": "html/img/puissant_baton_feuillu.png",
     "damages": [
       "Dommages : 15 à 19 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 15"
     ],
     "effects": [
       {
@@ -36442,6 +38104,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 18 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 15"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -36458,6 +38123,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 16"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -36473,6 +38141,9 @@ const ITEMS = [
     "imageUrl": "html/img/petit_baton_de_fausse_magie.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 30"
     ],
     "effects": [
       {
@@ -36500,6 +38171,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 13 (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -36516,6 +38188,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 12 (air)"
     ],
+    "conditions": [
+      "Agilité > 50",
+      "Vitalité > 50"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -36531,6 +38207,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_baton_dakn.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 25",
+      "Agilité > 5"
     ],
     "effects": [
       {
@@ -36553,6 +38233,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 30 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -36568,6 +38249,9 @@ const ITEMS = [
     "imageUrl": "html/img/baton_de_fausse_magie.png",
     "damages": [
       "Dommages : 7 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 35"
     ],
     "effects": [
       {
@@ -36595,6 +38279,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 12 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 10",
+      "Agilité > 20"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -36620,6 +38308,9 @@ const ITEMS = [
     "imageUrl": "html/img/la_lance_a_un_\" 110\".png",
     "damages": [
       "Dommages : 8 à 12 (eau)"
+    ],
+    "conditions": [
+      "Chance > 10"
     ],
     "effects": [
       {
@@ -36647,6 +38338,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 17 (neutre)"
     ],
+    "conditions": [
+      "Force > 30",
+      "Agilité > 5"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -36667,6 +38362,10 @@ const ITEMS = [
     "imageUrl": "html/img/baton_cornu.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 20",
+      "Intelligence > 30"
     ],
     "effects": [
       {
@@ -36694,6 +38393,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 12 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 40"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -36720,6 +38422,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 20"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -36740,6 +38445,10 @@ const ITEMS = [
     "imageUrl": "html/img/baton_en_racine_dabraknyde.png",
     "damages": [
       "Dommages : 2 à 4 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 30",
+      "Chance > 5"
     ],
     "effects": [
       {
@@ -36762,6 +38471,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 15 (terre)"
     ],
+    "conditions": [
+      "Force > 30",
+      "Vitalité > 30"
+    ],
     "effects": []
   },
   {
@@ -36772,6 +38485,7 @@ const ITEMS = [
     "damages": [
       "Vole 4 à 9 PV (air)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -36787,6 +38501,9 @@ const ITEMS = [
     "imageUrl": "html/img/baton_doubli.png",
     "damages": [
       "Dommages : 6 à 15 (air)"
+    ],
+    "conditions": [
+      "Sagesse > 50"
     ],
     "effects": [
       {
@@ -36819,6 +38536,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 6 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 32",
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -36835,6 +38556,7 @@ const ITEMS = [
     "damages": [
       "Vole 2 à 3 PV (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -36861,6 +38583,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 6 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 32",
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -36876,6 +38602,10 @@ const ITEMS = [
     "imageUrl": "html/img/gros_baton_dakn.png",
     "damages": [
       "Dommages : 15 à 19 (neutre)"
+    ],
+    "conditions": [
+      "Force > 35",
+      "Agilité > 5"
     ],
     "effects": [
       {
@@ -36898,6 +38628,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 20"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -36918,6 +38651,10 @@ const ITEMS = [
     "imageUrl": "html/img/baton_du_maitre_des_tabis.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 20",
+      "Sagesse > 5"
     ],
     "effects": [
       {
@@ -36944,6 +38681,11 @@ const ITEMS = [
     "imageUrl": "html/img/abraknydi_vivitus.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 30",
+      "Intelligence > 34",
+      "Sagesse > 15"
     ],
     "effects": [
       {
@@ -36976,6 +38718,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 14 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 45"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -37001,6 +38746,10 @@ const ITEMS = [
     "imageUrl": "html/img/baton-boule_de_voyante.png",
     "damages": [
       "Dommages : 9 à 13 (neutre)"
+    ],
+    "conditions": [
+      "Sagesse > 10",
+      "Agilité > 30"
     ],
     "effects": [
       {
@@ -37028,6 +38777,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 17 à 21 (neutre)"
     ],
+    "conditions": [
+      "Force > 40",
+      "Agilité > 5"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -37048,6 +38801,9 @@ const ITEMS = [
     "imageUrl": "html/img/la_chaplanne.png",
     "damages": [
       "Dommages : 8 à 12 (eau)"
+    ],
+    "conditions": [
+      "Chance > 25"
     ],
     "effects": [
       {
@@ -37070,6 +38826,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 12 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 25"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -37091,6 +38850,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 30"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -37111,6 +38873,10 @@ const ITEMS = [
     "imageUrl": "html/img/baton_de_dina,_dit_le_mythe.png",
     "damages": [
       "Dommages : 6 à 10 (air)"
+    ],
+    "conditions": [
+      "Intelligence > 50",
+      "Agilité > 40"
     ],
     "effects": [
       {
@@ -37138,6 +38904,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 30 (terre)"
     ],
+    "conditions": [
+      "Intelligence < 100"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -37159,6 +38928,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 18 (air)"
     ],
+    "conditions": [
+      "Agilité > 40",
+      "Vitalité > 40"
+    ],
     "effects": []
   },
   {
@@ -37168,6 +38941,9 @@ const ITEMS = [
     "imageUrl": "html/img/simple_baton_des_rois.png",
     "damages": [
       "Dommages : 7 à 13 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 50"
     ],
     "effects": [
       {
@@ -37220,6 +38996,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 14 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 15",
+      "Agilité > 40"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -37246,6 +39026,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 12 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 60",
+      "Sagesse > 30"
+    ],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -37266,6 +39050,9 @@ const ITEMS = [
     "imageUrl": "html/img/baton_akwadala.png",
     "damages": [
       "Dommages : 5 à 13 (eau)"
+    ],
+    "conditions": [
+      "Chance > 50"
     ],
     "effects": [
       {
@@ -37293,6 +39080,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -37314,6 +39102,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 19 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 30",
+      "Sagesse > 10"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -37334,6 +39126,9 @@ const ITEMS = [
     "imageUrl": "html/img/baton_des_rois.png",
     "damages": [
       "Dommages : 8 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 60"
     ],
     "effects": [
       {
@@ -37386,6 +39181,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 16 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 18",
+      "Agilité > 50"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -37412,6 +39211,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 19 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 50",
+      "Vitalité > 50"
+    ],
     "effects": []
   },
   {
@@ -37421,6 +39224,9 @@ const ITEMS = [
     "imageUrl": "html/img/grand_baton_des_rois.png",
     "damages": [
       "Dommages : 9 à 16 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 70"
     ],
     "effects": [
       {
@@ -37474,6 +39280,9 @@ const ITEMS = [
       "Dommages : 3 à 4 (neutre)",
       "Vole 1 à 2 PV (neutre)"
     ],
+    "conditions": [
+      "Classe doit etre Sadida"
+    ],
     "effects": [
       {
         "stat": "Dommages",
@@ -37499,6 +39308,11 @@ const ITEMS = [
     "imageUrl": "html/img/baton_du_kanigrou.png",
     "damages": [
       "Dommages : 11 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Force > 50",
+      "Agilité > 40",
+      "Chance > 30"
     ],
     "effects": [
       {
@@ -37531,6 +39345,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 30",
+      "Chance > 10",
+      "Force > 10"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -37562,6 +39381,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 40",
+      "Sagesse > 10",
+      "Force > 30"
+    ],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -37587,6 +39411,10 @@ const ITEMS = [
     "imageUrl": "html/img/baton_du_bwork_mage.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 58",
+      "Agilité > 20"
     ],
     "effects": [
       {
@@ -37624,6 +39452,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 59",
+      "Agilité > 5"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -37659,6 +39491,10 @@ const ITEMS = [
     "imageUrl": "html/img/baton_du_wobot.png",
     "damages": [
       "Dommages : 14 à 23 (neutre)"
+    ],
+    "conditions": [
+      "Force > 60",
+      "Vitalité > 60"
     ],
     "effects": [
       {
@@ -37696,6 +39532,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 22 (eau)"
     ],
+    "conditions": [
+      "Chance > 60",
+      "Vitalité > 60"
+    ],
     "effects": []
   },
   {
@@ -37705,6 +39545,9 @@ const ITEMS = [
     "imageUrl": "html/img/excellent_baton_des_rois.png",
     "damages": [
       "Dommages : 10 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 80"
     ],
     "effects": [
       {
@@ -37757,6 +39600,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 20 (neutre)"
     ],
+    "conditions": [
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -37782,6 +39628,11 @@ const ITEMS = [
     "imageUrl": "html/img/god_rod.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 60",
+      "Vitalité > 10",
+      "Sagesse > 10"
     ],
     "effects": [
       {
@@ -37822,6 +39673,13 @@ const ITEMS = [
       "Dommages : 4 à 7 (feu)",
       "Dommages : 4 à 7 (terre)"
     ],
+    "conditions": [
+      "Agilité > 35",
+      "Force > 35",
+      "Chance > 35",
+      "Intelligence > 35",
+      "Vitalité > 70"
+    ],
     "effects": []
   },
   {
@@ -37832,6 +39690,7 @@ const ITEMS = [
     "damages": [
       "Vole 4 à 8 PV (air)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -37874,6 +39733,10 @@ const ITEMS = [
       "Dommages : 9 à 13 (air)",
       "Dommages : 9 à 13 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 100",
+      "Vitalité > 70"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -37910,6 +39773,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 15 à 26 (neutre)",
       "Vole 2 à 3 PV (neutre)"
+    ],
+    "conditions": [
+      "Force > 100",
+      "Vitalité > 100"
     ],
     "effects": [
       {
@@ -37953,6 +39820,7 @@ const ITEMS = [
       "Dommages : 15 à 26 (feu)",
       "Vole 2 à 3 PV (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -37994,6 +39862,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 27 (neutre)"
     ],
+    "conditions": [
+      "Force > 80",
+      "Vitalité > 50"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -38030,6 +39902,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 28 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 150",
+      "Vitalité > 200"
+    ],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -38065,6 +39941,11 @@ const ITEMS = [
     "imageUrl": "html/img/baton_du_maitre_des_bouftous.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 60",
+      "Sagesse > 20",
+      "Agilité > 40"
     ],
     "effects": [
       {
@@ -38103,6 +39984,9 @@ const ITEMS = [
       "Dommages : 2 à 11 (neutre)",
       "Vole 2 à 3 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -38134,6 +40018,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 30 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 100"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -38154,6 +40041,10 @@ const ITEMS = [
     "imageUrl": "html/img/abraton_sombre.png",
     "damages": [
       "Dommages : 15 à 29 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 150",
+      "Sagesse > 50"
     ],
     "effects": [
       {
@@ -38196,6 +40087,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 30 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 70"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -38227,6 +40121,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 18 à 27 (neutre)",
       "Vole 2 à 3 PV (terre)"
+    ],
+    "conditions": [
+      "Force > 250"
     ],
     "effects": [
       {
@@ -38263,6 +40160,9 @@ const ITEMS = [
     "imageUrl": "html/img/baton_du_feca.png",
     "damages": [
       "Dommages : 21 à 37 (neutre)"
+    ],
+    "conditions": [
+      "Classe doit etre Feca"
     ],
     "effects": [
       {
@@ -38306,6 +40206,10 @@ const ITEMS = [
       "Dommages : 1 à 40 (neutre)",
       "Vole 2 à 3 PV (neutre)"
     ],
+    "conditions": [
+      "Force > 100",
+      "Vitalité > 300"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -38336,6 +40240,10 @@ const ITEMS = [
     "imageUrl": "html/img/racine_hecure.png",
     "damages": [
       "Dommages : 14 à 31 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 200",
+      "Sagesse > 150"
     ],
     "effects": [
       {
@@ -38373,6 +40281,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 35 (neutre)",
       "PV rendus : 1 à 100"
+    ],
+    "conditions": [
+      "Vitalité > 200"
     ],
     "effects": [
       {
@@ -38417,6 +40328,10 @@ const ITEMS = [
       "Vole 3 à 5 PV (feu)",
       "Vole 3 à 5 PV (terre)"
     ],
+    "conditions": [
+      "Vitalité > 250",
+      "Sagesse > 60"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -38438,6 +40353,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (air)",
       "Dommages : 9 à 13 (feu)"
+    ],
+    "conditions": [
+      "Agilité > 150",
+      "Intelligence > 150"
     ],
     "effects": [
       {
@@ -38479,6 +40398,11 @@ const ITEMS = [
     "imageUrl": "html/img/baton_de_marie_aigue.png",
     "damages": [
       "Dommages : 16 à 30 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 250",
+      "Agilité > 100",
+      "Vitalité > 100"
     ],
     "effects": [
       {
@@ -38526,6 +40450,10 @@ const ITEMS = [
     "damages": [
       "Vole 9 à 20 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 200",
+      "Agilité > 150"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -38567,6 +40495,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 13 (air)",
       "Dommages : 7 à 13 (feu)"
+    ],
+    "conditions": [
+      "Agilité > 200",
+      "Intelligence > 200"
     ],
     "effects": [
       {
@@ -38613,6 +40545,10 @@ const ITEMS = [
     "imageUrl": "html/img/la_racine_hagogue.png",
     "damages": [
       "Dommages : 16 à 30 (neutre)"
+    ],
+    "conditions": [
+      "Force > 200",
+      "Vitalité > 150"
     ],
     "effects": [
       {
@@ -38661,6 +40597,11 @@ const ITEMS = [
       "Dommages : 6 à 15 (terre)",
       "Dommages : 6 à 15 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 200",
+      "Force > 200",
+      "Vitalité > 150"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -38702,6 +40643,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 13 (air)",
       "Dommages : 10 à 16 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 250",
+      "Vitalité > 300"
     ],
     "effects": [
       {
@@ -38748,6 +40693,11 @@ const ITEMS = [
     "imageUrl": "html/img/baton_du_dragoeuf.png",
     "damages": [
       "Dommages : 24 à 43 (terre)"
+    ],
+    "conditions": [
+      "Force > 300",
+      "Agilité > 150",
+      "Vitalité > 300"
     ],
     "effects": [
       {
@@ -38806,6 +40756,10 @@ const ITEMS = [
       "Dommages : 16 à 30 (neutre)",
       "Vole 3 à 6 PV (neutre)"
     ],
+    "conditions": [
+      "Force > 250",
+      "Vitalité > 200"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -38848,6 +40802,11 @@ const ITEMS = [
       "Dommages : 7 à 16 (neutre)",
       "Dommages : 7 à 16 (air)",
       "Vole 3 à 5 PV (feu)"
+    ],
+    "conditions": [
+      "Force > 150",
+      "Agilité > 150",
+      "Intelligence > 150"
     ],
     "effects": [
       {
@@ -38895,6 +40854,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 16 (eau)",
       "Dommages : 9 à 16 (terre)"
+    ],
+    "conditions": [
+      "Vitalité > 500"
     ],
     "effects": [
       {
@@ -38973,6 +40935,12 @@ const ITEMS = [
       "Dommages : 7 à 16 (neutre)",
       "Dommages : 7 à 16 (neutre)"
     ],
+    "conditions": [
+      "Force > 150",
+      "Vitalité > 400",
+      "Intelligence > 50",
+      "Agilité > 50"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -39019,6 +40987,7 @@ const ITEMS = [
     "damages": [
       "Vole 1 à 10 PV (air)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -39057,6 +41026,7 @@ const ITEMS = [
       "Vole 3 à 5 PV (eau)",
       "Vole 3 à 5 PV (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -39107,6 +41077,10 @@ const ITEMS = [
     "imageUrl": "html/img/baton_du_maitre_zoth.png",
     "damages": [
       "Dommages : 21 à 40 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 180",
+      "Force > 100"
     ],
     "effects": [
       {
@@ -39159,6 +41133,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 21 (feu)",
       "Dommages : 9 à 21 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 450"
     ],
     "effects": [
       {
@@ -39213,6 +41190,10 @@ const ITEMS = [
       "Dommages : 7 à 11 (terre)",
       "Vole 4 à 6 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 250",
+      "Force > 200"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -39265,6 +41246,11 @@ const ITEMS = [
       "Dommages : 18 à 27 (neutre)",
       "Vole 1 à 8 PV (terre)",
       "Vole 1 à 8 PV (eau)"
+    ],
+    "conditions": [
+      "Force > 200",
+      "Chance > 200",
+      "Intelligence > 100"
     ],
     "effects": [
       {
@@ -39325,6 +41311,9 @@ const ITEMS = [
       "Dommages : 1 (feu)",
       "Dommages : 1 (terre)"
     ],
+    "conditions": [
+      "Métier doit etre Sculptemage de Baguettes"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -39341,6 +41330,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 3 (neutre)"
     ],
+    "conditions": [
+      "Métier > Sculpteur de Baguettes (49)"
+    ],
     "effects": []
   },
   {
@@ -39351,6 +41343,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -39370,6 +41363,9 @@ const ITEMS = [
       "Dommages : 1 à 0 (feu)",
       "Dommages : 1 à 0 (terre)"
     ],
+    "conditions": [
+      "Métier doit etre Sculptemage d'Arcs"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -39386,6 +41382,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -39404,6 +41401,9 @@ const ITEMS = [
       "Dommages : 1 (eau)",
       "Dommages : 1 à 0 (feu)",
       "Dommages : 1 à 0 (terre)"
+    ],
+    "conditions": [
+      "Métier doit etre Sculptemage de Bâtons"
     ],
     "effects": [
       {
@@ -39424,6 +41424,9 @@ const ITEMS = [
       "Dommages : 1 (feu)",
       "Dommages : 1 (terre)"
     ],
+    "conditions": [
+      "Métier doit etre Cordomage"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -39440,6 +41443,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -39459,6 +41463,9 @@ const ITEMS = [
       "Dommages : 1 à 0 (feu)",
       "Dommages : 1 à 0 (terre)"
     ],
+    "conditions": [
+      "Métier doit etre Joaillomage"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -39475,6 +41482,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -39491,6 +41499,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -39507,6 +41516,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 3 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -39522,6 +41532,9 @@ const ITEMS = [
     "imageUrl": "html/img/petites_dagues_de_boisaille.png",
     "damages": [
       "Dommages : 1 à 3 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 2"
     ],
     "effects": [
       {
@@ -39539,6 +41552,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 3 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 4"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -39554,6 +41570,9 @@ const ITEMS = [
     "imageUrl": "html/img/grandes_dagues_de_boisaille.png",
     "damages": [
       "Dommages : 2 à 4 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 6"
     ],
     "effects": [
       {
@@ -39571,6 +41590,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 4 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 7"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -39586,6 +41608,9 @@ const ITEMS = [
     "imageUrl": "html/img/petites_dagues_de_fouraille.png",
     "damages": [
       "Dommages : 4 à 6 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 10"
     ],
     "effects": [
       {
@@ -39603,6 +41628,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 3 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -39618,6 +41646,9 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_de_fouraille.png",
     "damages": [
       "Dommages : 4 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 11"
     ],
     "effects": [
       {
@@ -39635,6 +41666,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 3 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 12"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -39650,6 +41684,9 @@ const ITEMS = [
     "imageUrl": "html/img/grandes_dagues_de_fouraille.png",
     "damages": [
       "Dommages : 5 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 12"
     ],
     "effects": [
       {
@@ -39668,6 +41705,7 @@ const ITEMS = [
       "Dommages : 3 à 5 (air)",
       "Vole de 6 à 10 kamas"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -39683,6 +41721,9 @@ const ITEMS = [
     "imageUrl": "html/img/puissantes_dagues_de_fouraille.png",
     "damages": [
       "Dommages : 5 à 8 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 13"
     ],
     "effects": [
       {
@@ -39700,6 +41741,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 4 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 13"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -39715,6 +41759,9 @@ const ITEMS = [
     "imageUrl": "html/img/grandes_dagues_de_croclage.png",
     "damages": [
       "Dommages : 2 à 4 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 15"
     ],
     "effects": [
       {
@@ -39732,6 +41779,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 5 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 17"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -39747,6 +41797,10 @@ const ITEMS = [
     "imageUrl": "html/img/petites_dagues_sylvestres.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 20",
+      "Intelligence > 5"
     ],
     "effects": [
       {
@@ -39779,6 +41833,7 @@ const ITEMS = [
     "damages": [
       "Vole 6 à 8 PV (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Agilité",
@@ -39799,6 +41854,10 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_sylvestres.png",
     "damages": [
       "Dommages : 7 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 23",
+      "Intelligence > 5"
     ],
     "effects": [
       {
@@ -39832,6 +41891,11 @@ const ITEMS = [
       "Dommages : 1 à 7 (eau)",
       "Dommages : 1 à 7 (air)"
     ],
+    "conditions": [
+      "Agilité > 40",
+      "Force > 20",
+      "Vitalité > 20"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -39857,6 +41921,10 @@ const ITEMS = [
     "imageUrl": "html/img/grandes_dagues_sylvestres.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 25",
+      "Intelligence > 5"
     ],
     "effects": [
       {
@@ -39889,6 +41957,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 27",
+      "Intelligence > 5"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -39920,6 +41992,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 14 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 40"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -39940,6 +42015,9 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_obert.png",
     "damages": [
       "Dommages : 6 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 30"
     ],
     "effects": [
       {
@@ -39967,6 +42045,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 12 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 30",
+      "Vitalité > 30"
+    ],
     "effects": []
   },
   {
@@ -39976,6 +42058,9 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_tylo.png",
     "damages": [
       "Dommages : 4 à 9 (terre)"
+    ],
+    "conditions": [
+      "Force > 50"
     ],
     "effects": [
       {
@@ -40008,6 +42093,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 12 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 30",
+      "Sagesse > 5"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -40033,6 +42122,9 @@ const ITEMS = [
     "imageUrl": "html/img/le_rasoir_infernal.png",
     "damages": [
       "Dommages : 8 à 12 (feu)"
+    ],
+    "conditions": [
+      "Agilité > 30"
     ],
     "effects": [
       {
@@ -40060,6 +42152,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 4 à 7 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 32",
+      "Force > 10"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -40086,6 +42182,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 15 (air)"
     ],
+    "conditions": [
+      "Agilité > 55",
+      "Chance > 5"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -40106,6 +42206,10 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_eguisees.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 33",
+      "Sagesse > 5"
     ],
     "effects": [
       {
@@ -40133,6 +42237,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 34",
+      "Intelligence > 10"
+    ],
     "effects": [
       {
         "stat": "Dommages",
@@ -40158,6 +42266,9 @@ const ITEMS = [
     "imageUrl": "html/img/epee_cassee_du_chevalier_malchanceux.png",
     "damages": [
       "Dommages : 12 à 26 (neutre)"
+    ],
+    "conditions": [
+      "Force > 20"
     ],
     "effects": [
       {
@@ -40185,6 +42296,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 8 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 35",
+      "Force > 12"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -40210,6 +42325,10 @@ const ITEMS = [
     "imageUrl": "html/img/grandes_dagues_eguisees.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 36",
+      "Sagesse > 5"
     ],
     "effects": [
       {
@@ -40237,6 +42356,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 9 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 38",
+      "Force > 14"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -40262,6 +42385,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissantes_dagues_eguisees.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 39",
+      "Sagesse > 5"
     ],
     "effects": [
       {
@@ -40289,6 +42416,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 5 (eau)",
       "Dommages : 3 à 5 (terre)"
+    ],
+    "conditions": [
+      "Agilité > 40"
     ],
     "effects": [
       {
@@ -40326,6 +42456,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 20 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -40351,6 +42482,9 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_cruelles_delorie_entuwan.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 40"
     ],
     "effects": [
       {
@@ -40383,6 +42517,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 15 (eau)"
     ],
+    "conditions": [
+      "Chance > 40",
+      "Vitalité > 40"
+    ],
     "effects": []
   },
   {
@@ -40392,6 +42530,10 @@ const ITEMS = [
     "imageUrl": "html/img/large_couteau_a_stek.png",
     "damages": [
       "Dommages : 7 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 41",
+      "Force > 16"
     ],
     "effects": [
       {
@@ -40418,6 +42560,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_lame_de_fon.png",
     "damages": [
       "Dommages : 5 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 44",
+      "Chance > 5"
     ],
     "effects": [
       {
@@ -40450,6 +42596,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (air)"
     ],
+    "conditions": [
+      "Agilité > 60"
+    ],
     "effects": [
       {
         "stat": "PM",
@@ -40471,6 +42620,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 7 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 46"
+    ],
     "effects": [
       {
         "stat": "PM",
@@ -40486,6 +42638,9 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_honies.png",
     "damages": [
       "Dommages : 6 à 15 (air)"
+    ],
+    "conditions": [
+      "Agilité > 60"
     ],
     "effects": [
       {
@@ -40507,6 +42662,10 @@ const ITEMS = [
     "imageUrl": "html/img/lame_de_fon.png",
     "damages": [
       "Dommages : 6 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 48",
+      "Chance > 8"
     ],
     "effects": [
       {
@@ -40539,6 +42698,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 15 (terre)"
     ],
+    "conditions": [
+      "Force > 50",
+      "Vitalité > 50"
+    ],
     "effects": []
   },
   {
@@ -40548,6 +42711,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_lame_de_fon.png",
     "damages": [
       "Dommages : 7 à 13 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 52",
+      "Chance > 10"
     ],
     "effects": [
       {
@@ -40579,6 +42746,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_dague_fourbesque.png",
     "damages": [
       "Dommages : 6 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 53",
+      "Force > 18"
     ],
     "effects": [
       {
@@ -40616,6 +42787,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 14 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 56",
+      "Chance > 12"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -40645,6 +42820,7 @@ const ITEMS = [
     "name": "Dagues Ristocrates",
     "imageUrl": "html/img/dagues_ristocrates.png",
     "damages": [],
+    "conditions": [],
     "effects": []
   },
   {
@@ -40654,6 +42830,10 @@ const ITEMS = [
     "imageUrl": "html/img/dague_fourbesque.png",
     "damages": [
       "Dommages : 7 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 58",
+      "Force > 20"
     ],
     "effects": [
       {
@@ -40691,6 +42871,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 16 (air)"
     ],
+    "conditions": [
+      "Agilité > 60",
+      "Vitalité > 60"
+    ],
     "effects": []
   },
   {
@@ -40700,6 +42884,10 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_aerdala.png",
     "damages": [
       "Dommages : 11 à 16 (air)"
+    ],
+    "conditions": [
+      "Agilité > 150",
+      "Force > 50"
     ],
     "effects": [
       {
@@ -40731,6 +42919,10 @@ const ITEMS = [
     "imageUrl": "html/img/superbe_dague_fourbesque.png",
     "damages": [
       "Dommages : 8 à 13 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 63",
+      "Force > 22"
     ],
     "effects": [
       {
@@ -40768,6 +42960,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 18 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 64",
+      "Vitalité > 10",
+      "Chance > 10"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -40803,6 +43000,10 @@ const ITEMS = [
     "imageUrl": "html/img/hypnotique_dague_fourbesque.png",
     "damages": [
       "Dommages : 9 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 67",
+      "Force > 25"
     ],
     "effects": [
       {
@@ -40840,6 +43041,9 @@ const ITEMS = [
     "damages": [
       "Vole 3 à 4 PV (neutre)"
     ],
+    "conditions": [
+      "Agilité > 100"
+    ],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -40870,6 +43074,10 @@ const ITEMS = [
     "imageUrl": "html/img/griffettes.png",
     "damages": [
       "Dommages : 9 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 100",
+      "Force > 100"
     ],
     "effects": [
       {
@@ -40905,6 +43113,13 @@ const ITEMS = [
       "Dommages : 3 à 5 (feu)",
       "Dommages : 3 à 5 (terre)"
     ],
+    "conditions": [
+      "Agilité > 35",
+      "Chance > 35",
+      "Force > 35",
+      "Intelligence > 35",
+      "Vitalité > 70"
+    ],
     "effects": []
   },
   {
@@ -40914,6 +43129,10 @@ const ITEMS = [
     "imageUrl": "html/img/chakra_style.png",
     "damages": [
       "Dommages : 10 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 73",
+      "Chance > 15"
     ],
     "effects": [
       {
@@ -40952,6 +43171,10 @@ const ITEMS = [
       "Dommages : 13 à 22 (neutre)",
       "PV rendus : 13 à 22"
     ],
+    "conditions": [
+      "Agilité > 100",
+      "Force > 80"
+    ],
     "effects": [
       {
         "stat": "Portée",
@@ -40982,6 +43205,10 @@ const ITEMS = [
     "imageUrl": "html/img/lames_sanglantes_dortimus_contrari.png",
     "damages": [
       "Dommages : 11 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 79",
+      "Force > 40"
     ],
     "effects": [
       {
@@ -41019,6 +43246,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 23 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 80",
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -41054,6 +43285,10 @@ const ITEMS = [
     "imageUrl": "html/img/daguette_du_captain_chafer.png",
     "damages": [
       "Dommages : 15 à 22 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 100",
+      "Force > 50"
     ],
     "effects": [
       {
@@ -41097,6 +43332,11 @@ const ITEMS = [
       "Dommages : 10 à 14 (neutre)",
       "Vole 2 à 4 PV (air)"
     ],
+    "conditions": [
+      "Vitalité > 30",
+      "Agilité > 100",
+      "Force > 70"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -41138,6 +43378,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 9 (air)",
       "Dommages : 6 à 9 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 80",
+      "Force > 100"
     ],
     "effects": [
       {
@@ -41185,6 +43429,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 15 à 20 (neutre)"
     ],
+    "conditions": [
+      "Force > 150",
+      "Agilité > 150"
+    ],
     "effects": [
       {
         "stat": "Coup critiques",
@@ -41221,6 +43469,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 17 à 20 (air)",
       "Vole de 21 à 30 kamas"
+    ],
+    "conditions": [
+      "Agilité > 250",
+      "Sagesse > 100",
+      "Vitalité > 300"
     ],
     "effects": [
       {
@@ -41269,6 +43522,10 @@ const ITEMS = [
       "Dommages : 12 à 15 (neutre)",
       "Vole 3 à 4 PV (neutre)"
     ],
+    "conditions": [
+      "Force > 300",
+      "Agilité > 100"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -41305,6 +43562,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 18 (neutre)",
       "Vole 3 à 4 PV (feu)"
+    ],
+    "conditions": [
+      "Agilité > 100",
+      "Intelligence > 100"
     ],
     "effects": [
       {
@@ -41348,6 +43609,10 @@ const ITEMS = [
       "Dommages : 11 à 20 (air)",
       "Vole 3 à 4 PV (neutre)"
     ],
+    "conditions": [
+      "Agilité > 250",
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -41389,6 +43654,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)",
       "Dommages : 7 à 11 (air)"
+    ],
+    "conditions": [
+      "Agilité > 150",
+      "Force > 100",
+      "Vitalité > 100"
     ],
     "effects": [
       {
@@ -41432,6 +43702,10 @@ const ITEMS = [
       "Dommages : 5 à 14 (neutre)",
       "Vole 5 à 6 PV (air)"
     ],
+    "conditions": [
+      "Agilité > 200",
+      "Force > 200"
+    ],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -41473,6 +43747,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 5 à 10 (terre)",
       "Dommages : 5 à 10 (feu)"
+    ],
+    "conditions": [
+      "Force > 150",
+      "Intelligence > 150",
+      "Agilité > 100"
     ],
     "effects": [
       {
@@ -41524,6 +43803,10 @@ const ITEMS = [
     "imageUrl": "html/img/les_dagues_du_bouwin.png",
     "damages": [
       "Dommages : 14 à 25 (neutre)"
+    ],
+    "conditions": [
+      "Force > 250",
+      "Agilité > 100"
     ],
     "effects": [
       {
@@ -41582,6 +43865,10 @@ const ITEMS = [
       "Dommages : 13 à 22 (neutre)",
       "Vole 4 à 5 PV (air)"
     ],
+    "conditions": [
+      "Force > 250",
+      "Agilité > 100"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -41629,6 +43916,10 @@ const ITEMS = [
       "Vole 3 à 6 PV (feu)",
       "Vole 3 à 6 PV (eau)",
       "PV rendus : 1 à 20"
+    ],
+    "conditions": [
+      "Intelligence > 250",
+      "Chance > 250"
     ],
     "effects": [
       {
@@ -41697,6 +43988,10 @@ const ITEMS = [
       "Dommages : 8 à 13 (neutre)",
       "Dommages : 8 à 13 (air)"
     ],
+    "conditions": [
+      "Agilité > 250",
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "PM",
@@ -41747,6 +44042,9 @@ const ITEMS = [
     "imageUrl": "html/img/dagues_ruik.png",
     "damages": [
       "Dommages : 1 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 300"
     ],
     "effects": [
       {
@@ -41799,6 +44097,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 10 (terre)",
       "Dommages : 9 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Force > 350",
+      "Agilité > 200"
     ],
     "effects": [
       {
@@ -41863,6 +44165,11 @@ const ITEMS = [
       "Dommages : 8 à 13 (eau)",
       "Vole 1 à 2 PV (neutre)"
     ],
+    "conditions": [
+      "Agilité > 250",
+      "Chance > 250",
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -41926,6 +44233,12 @@ const ITEMS = [
       "Dommages : 6 à 10 (eau)",
       "Dommages : 6 à 10 (feu)"
     ],
+    "conditions": [
+      "Force > 200",
+      "Intelligence > 150",
+      "Chance > 150",
+      "Agilité > 150"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -41972,6 +44285,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 14 (neutre)",
       "Dommages : 8 à 14 (air)"
+    ],
+    "conditions": [
+      "Agilité > 450"
     ],
     "effects": [
       {
@@ -42029,6 +44345,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 5 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -42044,6 +44361,10 @@ const ITEMS = [
     "imageUrl": "html/img/epee_de_yingnitie.png",
     "damages": [
       "Dommages : 1 à 5 (neutre)"
+    ],
+    "conditions": [
+      "Classe doit etre Ecaflip",
+      "Sexe masculin"
     ],
     "effects": [
       {
@@ -42061,6 +44382,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 5 (neutre)"
     ],
+    "conditions": [
+      "Classe doit etre Ecaflip",
+      "Sexe féminin"
+    ],
     "effects": [
       {
         "stat": "Initiative",
@@ -42077,6 +44402,7 @@ const ITEMS = [
     "damages": [
       "Vole 41 à 60 PV (neutre)"
     ],
+    "conditions": [],
     "effects": []
   },
   {
@@ -42086,6 +44412,9 @@ const ITEMS = [
     "imageUrl": "html/img/petite_epee_de_boisaille.png",
     "damages": [
       "Dommages : 1 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Force > 4"
     ],
     "effects": [
       {
@@ -42103,6 +44432,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 8 (neutre)"
     ],
+    "conditions": [
+      "Force > 6"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -42118,6 +44450,9 @@ const ITEMS = [
     "imageUrl": "html/img/grande_epee_de_boisaille.png",
     "damages": [
       "Dommages : 3 à 9 (neutre)"
+    ],
+    "conditions": [
+      "Force > 12"
     ],
     "effects": [
       {
@@ -42135,6 +44470,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 4 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 14"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -42151,6 +44489,7 @@ const ITEMS = [
     "damages": [
       "PV rendus : 6 à 13"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -42167,6 +44506,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 26",
+      "Vitalité > 5"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -42182,6 +44525,9 @@ const ITEMS = [
     "imageUrl": "html/img/petite_epee_de_fouraille.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 26"
     ],
     "effects": [
       {
@@ -42204,6 +44550,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 16 (neutre)"
     ],
+    "conditions": [
+      "Force > 26"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -42224,6 +44573,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_epee_dha.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 26",
+      "Vitalité > 4"
     ],
     "effects": [
       {
@@ -42246,6 +44599,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 25 (neutre)"
     ],
+    "conditions": [
+      "Force > 26",
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -42261,6 +44618,9 @@ const ITEMS = [
     "imageUrl": "html/img/grande_epee_de_fouraille.png",
     "damages": [
       "Dommages : 13 à 17 (neutre)"
+    ],
+    "conditions": [
+      "Force > 28"
     ],
     "effects": [
       {
@@ -42283,6 +44643,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [
+      "Force > 30",
+      "Vitalité > 3"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -42298,6 +44662,9 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_epee_de_fouraille.png",
     "damages": [
       "Dommages : 14 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Force > 30"
     ],
     "effects": [
       {
@@ -42320,6 +44687,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 30",
+      "Vitalité > 6"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -42341,6 +44712,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 12 (neutre)"
     ],
+    "conditions": [
+      "Force > 32",
+      "Vitalité > 4"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -42356,6 +44731,9 @@ const ITEMS = [
     "imageUrl": "html/img/lame_du_chevaucheur_de_karne.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Force > 32"
     ],
     "effects": [
       {
@@ -42378,6 +44756,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 32",
+      "Vitalité > 8"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -42398,6 +44780,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_epee_dha.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 34",
+      "Vitalité > 10"
     ],
     "effects": [
       {
@@ -42420,6 +44806,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (neutre)"
     ],
+    "conditions": [
+      "Force > 34",
+      "Vitalité > 5"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -42435,6 +44825,9 @@ const ITEMS = [
     "imageUrl": "html/img/koupe-koupe.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 36"
     ],
     "effects": [
       {
@@ -42462,6 +44855,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (neutre)"
     ],
+    "conditions": [
+      "Force > 42"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -42482,6 +44878,9 @@ const ITEMS = [
     "imageUrl": "html/img/la_triste_lame.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 42"
     ],
     "effects": [
       {
@@ -42504,6 +44903,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 25 (neutre)"
     ],
+    "conditions": [
+      "Force > 42"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -42524,6 +44926,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_epee_dalle.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 42",
+      "Intelligence > 6"
     ],
     "effects": [
       {
@@ -42551,6 +44957,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 35 (neutre)"
     ],
+    "conditions": [
+      "Force > 42",
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -42572,6 +44982,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (neutre)"
     ],
+    "conditions": [
+      "Force > 44",
+      "Agilité > 15"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -42592,6 +45006,10 @@ const ITEMS = [
     "imageUrl": "html/img/epee_dalle.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 44",
+      "Intelligence > 12"
     ],
     "effects": [
       {
@@ -42619,6 +45037,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 18 à 22 (neutre)"
     ],
+    "conditions": [
+      "Force > 46",
+      "Agilité > 8"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -42639,6 +45061,9 @@ const ITEMS = [
     "imageUrl": "html/img/epee_du_chevalier.png",
     "damages": [
       "Dommages : 13 à 27 (neutre)"
+    ],
+    "conditions": [
+      "Force > 46"
     ],
     "effects": [
       {
@@ -42661,6 +45086,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 15 à 29 (neutre)"
     ],
+    "conditions": [
+      "Force > 48"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -42681,6 +45109,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_epee_dalle.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 48",
+      "Intelligence > 14"
     ],
     "effects": [
       {
@@ -42708,6 +45140,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 20 à 24 (neutre)"
     ],
+    "conditions": [
+      "Force > 48",
+      "Agilité > 14"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -42728,6 +45164,10 @@ const ITEMS = [
     "imageUrl": "html/img/la_klebik.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 50",
+      "Sagesse > 5"
     ],
     "effects": [
       {
@@ -42750,6 +45190,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 17 à 31 (neutre)"
     ],
+    "conditions": [
+      "Force > 52"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -42771,6 +45214,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 22 à 26 (neutre)"
     ],
+    "conditions": [
+      "Force > 52",
+      "Agilité > 16"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -42791,6 +45238,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_epee_dalle.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 52",
+      "Intelligence > 18"
     ],
     "effects": [
       {
@@ -42818,6 +45269,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (neutre)"
     ],
+    "conditions": [
+      "Force > 54",
+      "Chance > 10"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -42844,6 +45299,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 17 (air)"
     ],
+    "conditions": [
+      "Agilité > 30",
+      "Vitalité > 30"
+    ],
     "effects": []
   },
   {
@@ -42853,6 +45312,9 @@ const ITEMS = [
     "imageUrl": "html/img/la_criniere_de_badoul.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 66"
     ],
     "effects": [
       {
@@ -42869,6 +45331,11 @@ const ITEMS = [
     "imageUrl": "html/img/la_griffe.png",
     "damages": [
       "Dommages : 11 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 10",
+      "Force > 10",
+      "Agilité > 10"
     ],
     "effects": [
       {
@@ -42896,6 +45363,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 20 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 10",
+      "Force > 10",
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Initiative",
@@ -42922,6 +45394,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 30 (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -42948,6 +45421,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 20 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 30",
+      "Force > 20",
+      "Sagesse > 20"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -42969,6 +45447,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 15 à 22 (neutre)"
     ],
+    "conditions": [
+      "Force > 60"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -42989,6 +45470,11 @@ const ITEMS = [
     "imageUrl": "html/img/petite_etoile_du_soir.png",
     "damages": [
       "Dommages : 11 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 35",
+      "Vitalité > 35",
+      "Force > 11"
     ],
     "effects": [
       {
@@ -43021,6 +45507,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 24 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 40",
+      "Vitalité > 40"
+    ],
     "effects": []
   },
   {
@@ -43030,6 +45520,11 @@ const ITEMS = [
     "imageUrl": "html/img/goultard.png",
     "damages": [
       "Dommages : 26 à 30 (neutre)"
+    ],
+    "conditions": [
+      "Force > 80",
+      "Vitalité > 40",
+      "Agilité > 40"
     ],
     "effects": [
       {
@@ -43062,6 +45557,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 25 (terre)"
     ],
+    "conditions": [
+      "Force > 50",
+      "Vitalité > 50"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -43092,6 +45591,10 @@ const ITEMS = [
     "imageUrl": "html/img/kwaklame_du_vent.png",
     "damages": [
       "Dommages : 16 à 25 (air)"
+    ],
+    "conditions": [
+      "Agilité > 50",
+      "Vitalité > 50"
     ],
     "effects": [
       {
@@ -43124,6 +45627,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 25 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 50",
+      "Vitalité > 50"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -43154,6 +45661,10 @@ const ITEMS = [
     "imageUrl": "html/img/kwaklame_de_glace.png",
     "damages": [
       "Dommages : 16 à 25 (eau)"
+    ],
+    "conditions": [
+      "Chance > 50",
+      "Vitalité > 50"
     ],
     "effects": [
       {
@@ -43186,6 +45697,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 22 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 36",
+      "Vitalité > 36",
+      "Force > 12"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -43217,6 +45733,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 28 (neutre)"
     ],
+    "conditions": [
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -43233,6 +45752,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 50 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -43259,6 +45779,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 30 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -43295,6 +45816,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 15 à 24 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 38",
+      "Vitalité > 38",
+      "Force > 13"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -43326,6 +45852,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 33 (eau)"
     ],
+    "conditions": [
+      "Chance > 50",
+      "Vitalité > 50"
+    ],
     "effects": []
   },
   {
@@ -43335,6 +45865,11 @@ const ITEMS = [
     "imageUrl": "html/img/immortelle_etoile_du_soir.png",
     "damages": [
       "Dommages : 17 à 26 (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 40",
+      "Vitalité > 40",
+      "Force > 15"
     ],
     "effects": [
       {
@@ -43367,6 +45902,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 33 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -43402,6 +45938,11 @@ const ITEMS = [
     "imageUrl": "html/img/razielle.png",
     "damages": [
       "Dommages : 26 à 40 (neutre)"
+    ],
+    "conditions": [
+      "Force > 104",
+      "Vitalité > 52",
+      "Agilité > 20"
     ],
     "effects": [
       {
@@ -43439,6 +45980,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 15 à 36 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -43475,6 +46017,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 26 à 35 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -43506,6 +46049,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 17 à 31 (neutre)"
     ],
+    "conditions": [
+      "Force > 100",
+      "Vitalité > 50"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -43527,6 +46074,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 35 (terre)"
     ],
+    "conditions": [
+      "Force > 60",
+      "Vitalité > 60"
+    ],
     "effects": []
   },
   {
@@ -43536,6 +46087,10 @@ const ITEMS = [
     "imageUrl": "html/img/decoupeuse_de_kralamoure.png",
     "damages": [
       "Dommages : 31 à 45 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 60",
+      "Sagesse > 60"
     ],
     "effects": [
       {
@@ -43568,6 +46123,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 17 à 39 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -43604,6 +46160,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 26 à 37 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 80"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -43629,6 +46188,11 @@ const ITEMS = [
     "imageUrl": "html/img/la_griffe_aiguisee.png",
     "damages": [
       "Dommages : 16 à 30 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 30",
+      "Agilité > 30",
+      "Force > 30"
     ],
     "effects": [
       {
@@ -43664,6 +46228,7 @@ const ITEMS = [
       "Dommages : 4 à 8 (feu)",
       "Dommages : 4 à 8 (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Sagesse",
@@ -43688,6 +46253,13 @@ const ITEMS = [
       "Dommages : 4 à 8 (feu)",
       "Dommages : 4 à 8 (terre)"
     ],
+    "conditions": [
+      "Agilité > 35",
+      "Force > 35",
+      "Intelligence > 35",
+      "Chance > 35",
+      "Vitalité > 70"
+    ],
     "effects": []
   },
   {
@@ -43698,6 +46270,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 21 à 40 (neutre)",
       "Vole 1 à 2 PV (neutre)"
+    ],
+    "conditions": [
+      "Agilité > 150",
+      "Chance > 150",
+      "Vitalité > 100"
     ],
     "effects": [
       {
@@ -43731,6 +46308,11 @@ const ITEMS = [
       "Dommages : 15 à 22 (neutre)",
       "Dommages : 6 à 10 (air)",
       "Dommages : 6 à 10 (feu)"
+    ],
+    "conditions": [
+      "Force > 80",
+      "Intelligence > 80",
+      "Agilité > 80"
     ],
     "effects": [
       {
@@ -43767,6 +46349,10 @@ const ITEMS = [
     "imageUrl": "html/img/eventail_tranchant.png",
     "damages": [
       "Dommages : 26 à 40 (neutre)"
+    ],
+    "conditions": [
+      "Sagesse > 40",
+      "Vitalité > 40"
     ],
     "effects": [
       {
@@ -43810,6 +46396,10 @@ const ITEMS = [
       "Dommages : 11 à 30 (feu)",
       "Vole 2 à 3 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 200",
+      "Agilité > 60"
+    ],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -43841,6 +46431,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 99 (neutre)"
     ],
+    "conditions": [
+      "Force > 99",
+      "Agilité > 99",
+      "Vitalité > 99"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -43861,6 +46456,9 @@ const ITEMS = [
     "imageUrl": "html/img/sabre_sandanwa.png",
     "damages": [
       "Dommages : 28 à 41 (neutre)"
+    ],
+    "conditions": [
+      "Force > 120"
     ],
     "effects": [
       {
@@ -43888,6 +46486,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 26 à 30 (neutre)"
     ],
+    "conditions": [
+      "Force > 80"
+    ],
     "effects": [
       {
         "stat": "Dommages",
@@ -43909,6 +46510,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 21 à 40 (neutre)",
       "Vole 3 à 4 PV (air)"
+    ],
+    "conditions": [
+      "Agilité > 100"
     ],
     "effects": [
       {
@@ -43935,6 +46539,11 @@ const ITEMS = [
     "imageUrl": "html/img/fausse_griffe_de_ceangal.png",
     "damages": [
       "Dommages : 21 à 40 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 50",
+      "Agilité > 50",
+      "Force > 50"
     ],
     "effects": [
       {
@@ -43972,6 +46581,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 21 à 40 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 50",
+      "Agilité > 50",
+      "Force > 50"
+    ],
     "effects": [
       {
         "stat": "Initiative",
@@ -44008,6 +46622,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 4 à 23 (neutre)"
     ],
+    "conditions": [
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -44033,6 +46650,9 @@ const ITEMS = [
     "imageUrl": "html/img/patte_decaflip.png",
     "damages": [
       "Dommages : 12 à 31 (neutre)"
+    ],
+    "conditions": [
+      "Force > 150"
     ],
     "effects": [
       {
@@ -44060,6 +46680,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 25 (neutre)"
     ],
+    "conditions": [
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -44085,6 +46708,9 @@ const ITEMS = [
     "imageUrl": "html/img/patte_decaflip_parfaite.png",
     "damages": [
       "Dommages : 31 à 50 (neutre)"
+    ],
+    "conditions": [
+      "Force > 150"
     ],
     "effects": [
       {
@@ -44112,6 +46738,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 20 à 39 (neutre)"
     ],
+    "conditions": [
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -44137,6 +46766,9 @@ const ITEMS = [
     "imageUrl": "html/img/patte_decaflip.png",
     "damages": [
       "Dommages : 16 à 35 (neutre)"
+    ],
+    "conditions": [
+      "Force > 150"
     ],
     "effects": [
       {
@@ -44164,6 +46796,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 33 (neutre)"
     ],
+    "conditions": [
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -44189,6 +46824,9 @@ const ITEMS = [
     "imageUrl": "html/img/patte_decaflip.png",
     "damages": [
       "Dommages : 18 à 37 (neutre)"
+    ],
+    "conditions": [
+      "Force > 150"
     ],
     "effects": [
       {
@@ -44216,6 +46854,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 31 à 50 (terre)"
     ],
+    "conditions": [
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -44241,6 +46882,9 @@ const ITEMS = [
     "imageUrl": "html/img/patte_decaflip.png",
     "damages": [
       "Dommages : 2 à 21 (neutre)"
+    ],
+    "conditions": [
+      "Force > 150"
     ],
     "effects": [
       {
@@ -44268,6 +46912,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 27 (neutre)"
     ],
+    "conditions": [
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -44293,6 +46940,9 @@ const ITEMS = [
     "imageUrl": "html/img/patte_decaflip.png",
     "damages": [
       "Dommages : 22 à 41 (neutre)"
+    ],
+    "conditions": [
+      "Force > 150"
     ],
     "effects": [
       {
@@ -44320,6 +46970,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 29 (neutre)"
     ],
+    "conditions": [
+      "Force > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -44345,6 +46998,10 @@ const ITEMS = [
     "imageUrl": "html/img/epee_doncule.png",
     "damages": [
       "Dommages : 46 à 65 (neutre)"
+    ],
+    "conditions": [
+      "Force > 250",
+      "Intelligence < 1"
     ],
     "effects": [
       {
@@ -44392,6 +47049,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 23 à 57 (terre)"
     ],
+    "conditions": [
+      "Force > 200",
+      "Agilité > 200",
+      "Vitalité > 200"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -44433,6 +47095,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 23 à 37 (neutre)"
     ],
+    "conditions": [
+      "Force > 200",
+      "Agilité > 100"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -44470,6 +47136,10 @@ const ITEMS = [
       "Dommages : 23 à 38 (air)",
       "Vole 3 à 5 PV (neutre)"
     ],
+    "conditions": [
+      "Agilité > 150",
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -44505,6 +47175,10 @@ const ITEMS = [
     "imageUrl": "html/img/griffe_de_grizmine.png",
     "damages": [
       "Dommages : 31 à 48 (terre)"
+    ],
+    "conditions": [
+      "Force > 300",
+      "Agilité > 120"
     ],
     "effects": [
       {
@@ -44542,6 +47216,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 18 à 32 (feu)",
       "Dommages : 11 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 250",
+      "Intelligence > 300",
+      "Classe doit etre Iop"
     ],
     "effects": [
       {
@@ -44590,6 +47269,10 @@ const ITEMS = [
       "Dommages : 16 à 25 (terre)",
       "Dommages : 16 à 25 (air)"
     ],
+    "conditions": [
+      "Force > 200",
+      "Agilité > 200"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -44636,6 +47319,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 20 (neutre)",
       "Dommages : 11 à 20 (air)"
+    ],
+    "conditions": [
+      "Force > 200",
+      "Agilité > 120",
+      "Vitalité > 300"
     ],
     "effects": [
       {
@@ -44689,6 +47377,13 @@ const ITEMS = [
       "Dommages : 26 à 40 (neutre)",
       "Vole 4 à 6 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 300",
+      "Force > 130",
+      "Classe doit etre Ecaflip",
+      "Classe doit etre Iop",
+      "Classe doit etre Sacrieur"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -44731,6 +47426,10 @@ const ITEMS = [
       "Dommages : 36 à 60 (neutre)",
       "Vole 3 à 5 PV (terre)"
     ],
+    "conditions": [
+      "Force > 350",
+      "Vitalité > 400"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -44772,6 +47471,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 29 à 47 (neutre)",
       "Vole 4 à 6 PV (air)"
+    ],
+    "conditions": [
+      "Vitalité > 300",
+      "Agilité > 300",
+      "Classe doit etre Iop"
     ],
     "effects": [
       {
@@ -44819,6 +47523,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 28 (air)",
       "Dommages : 16 à 28 (feu)"
+    ],
+    "conditions": [
+      "Agilité > 300",
+      "Intelligence > 300"
     ],
     "effects": [
       {
@@ -44872,6 +47580,10 @@ const ITEMS = [
       "Dommages : 26 à 50 (neutre)",
       "Vole 3 à 4 PV (terre)"
     ],
+    "conditions": [
+      "Force > 450",
+      "Vitalité > 450"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -44907,6 +47619,9 @@ const ITEMS = [
     "imageUrl": "html/img/lepee_nice.png",
     "damages": [
       "Dommages : 16 à 30 (neutre)"
+    ],
+    "conditions": [
+      "PM > 5"
     ],
     "effects": [
       {
@@ -44975,6 +47690,10 @@ const ITEMS = [
       "Dommages : 10 à 21 (neutre)",
       "Dommages : 10 à 21 (neutre)"
     ],
+    "conditions": [
+      "Force > 300",
+      "Agilité > 150"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -45037,6 +47756,10 @@ const ITEMS = [
       "Dommages : 6 à 28 (eau)",
       "Dommages : 6 à 28 (air)"
     ],
+    "conditions": [
+      "Chance > 300",
+      "Agilité > 300"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -45094,6 +47817,11 @@ const ITEMS = [
       "Dommages : 31 à 50 (neutre)",
       "Vole 6 à 8 PV (air)",
       "Vole 6 à 8 PV (eau)"
+    ],
+    "conditions": [
+      "Agilité > 200",
+      "Chance > 200",
+      "Force > 200"
     ],
     "effects": [
       {
@@ -45160,6 +47888,7 @@ const ITEMS = [
       "Dommages : 9 à 18 (neutre)",
       "Dommages : 9 à 18 (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -45246,6 +47975,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -45262,6 +47992,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (terre)"
     ],
+    "conditions": [
+      "Métier > Bûcheron (79)"
+    ],
     "effects": []
   },
   {
@@ -45272,6 +48005,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 3 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -45287,6 +48021,9 @@ const ITEMS = [
     "imageUrl": "html/img/hachette_de_bucheron.png",
     "damages": [
       "Dommages : 4 à 9 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 2"
     ],
     "effects": [
       {
@@ -45304,6 +48041,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -45325,6 +48063,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -45340,6 +48079,10 @@ const ITEMS = [
     "imageUrl": "html/img/mangeuse_de_chataignier.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 8",
+      "Agilité > 3"
     ],
     "effects": [
       {
@@ -45362,6 +48105,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 10",
+      "Chance > 10"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -45382,6 +48129,9 @@ const ITEMS = [
     "imageUrl": "html/img/hache_vorom.png",
     "damages": [
       "Dommages : 10 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 10"
     ],
     "effects": [
       {
@@ -45404,6 +48154,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 7 (terre)"
     ],
+    "conditions": [
+      "Force > 70",
+      "Intelligence < 10"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -45425,6 +48179,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (neutre)"
     ],
+    "conditions": [
+      "Force > 10",
+      "Intelligence > 35"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -45445,6 +48203,9 @@ const ITEMS = [
     "imageUrl": "html/img/trancheuse_de_noyer.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 30"
     ],
     "effects": [
       {
@@ -45472,6 +48233,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (eau)"
     ],
+    "conditions": [
+      "Sagesse > 30"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -45498,6 +48262,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 30"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -45519,6 +48286,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 20 (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -45535,6 +48303,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 12 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 15"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -45550,6 +48321,9 @@ const ITEMS = [
     "imageUrl": "html/img/francisque_a_breles.png",
     "damages": [
       "Dommages : 11 à 15 (air)"
+    ],
+    "conditions": [
+      "Agilité > 30"
     ],
     "effects": [
       {
@@ -45572,6 +48346,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 20 (eau)"
     ],
+    "conditions": [
+      "Chance > 30",
+      "Vitalité > 30"
+    ],
     "effects": []
   },
   {
@@ -45581,6 +48359,9 @@ const ITEMS = [
     "imageUrl": "html/img/fendeuse_de_merisier.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 40"
     ],
     "effects": [
       {
@@ -45608,6 +48389,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (neutre)"
     ],
+    "conditions": [
+      "Force > 66",
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -45634,6 +48419,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 18 (feu)"
     ],
+    "conditions": [
+      "Force > 50"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -45655,6 +48443,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 30 (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -45675,6 +48464,10 @@ const ITEMS = [
     "imageUrl": "html/img/coupeuse_de_bombu.png",
     "damages": [
       "Dommages : 15 à 24 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 20",
+      "Sagesse > 20"
     ],
     "effects": [
       {
@@ -45697,6 +48490,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 23 (terre)"
     ],
+    "conditions": [
+      "Force > 40",
+      "Vitalité > 40"
+    ],
     "effects": []
   },
   {
@@ -45706,6 +48503,9 @@ const ITEMS = [
     "imageUrl": "html/img/elagueuse_doliviolet.png",
     "damages": [
       "Dommages : 16 à 22 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 60"
     ],
     "effects": [
       {
@@ -45738,6 +48538,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 20",
+      "Intelligence > 20",
+      "Chance > 20"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -45769,6 +48574,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 19 à 28 (air)"
     ],
+    "conditions": [
+      "Agilité > 50",
+      "Vitalité > 50"
+    ],
     "effects": []
   },
   {
@@ -45778,6 +48587,10 @@ const ITEMS = [
     "imageUrl": "html/img/hache_de_pierre.png",
     "damages": [
       "Dommages : 16 à 25 (neutre)"
+    ],
+    "conditions": [
+      "Force > 50",
+      "Vitalité > 60"
     ],
     "effects": [
       {
@@ -45810,6 +48623,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 21 à 25 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 70"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -45831,6 +48647,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 35 (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -45861,6 +48678,11 @@ const ITEMS = [
     "imageUrl": "html/img/hache_darsson.png",
     "damages": [
       "Dommages : 18 à 27 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 20",
+      "Agilité > 20",
+      "Vitalité > 20"
     ],
     "effects": [
       {
@@ -45893,6 +48715,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 37 (neutre)"
     ],
+    "conditions": [
+      "Force > 100",
+      "Vitalité > 50"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -45919,6 +48745,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 21 à 30 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 60",
+      "Vitalité > 60"
+    ],
     "effects": []
   },
   {
@@ -45928,6 +48758,11 @@ const ITEMS = [
     "imageUrl": "html/img/boulgourde_des_clairieres.png",
     "damages": [
       "Dommages : 31 à 45 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 124",
+      "Chance > 30",
+      "Vitalité > 10"
     ],
     "effects": [
       {
@@ -45965,6 +48800,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 23 à 28 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -45985,6 +48823,11 @@ const ITEMS = [
     "imageUrl": "html/img/coupeuse_de_sifflet.png",
     "damages": [
       "Dommages : 21 à 30 (neutre)"
+    ],
+    "conditions": [
+      "Force > 30",
+      "Vitalité > 30",
+      "Agilité > 30"
     ],
     "effects": [
       {
@@ -46017,6 +48860,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 21 à 25 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 50",
+      "Force > 30"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -46046,6 +48893,13 @@ const ITEMS = [
       "Dommages : 4 à 8 (feu)",
       "Dommages : 4 à 8 (terre)"
     ],
+    "conditions": [
+      "Force > 35",
+      "Agilité > 35",
+      "Chance > 35",
+      "Intelligence > 35",
+      "Vitalité > 70"
+    ],
     "effects": []
   },
   {
@@ -46055,6 +48909,11 @@ const ITEMS = [
     "imageUrl": "html/img/fendeuse_dabraknyde.png",
     "damages": [
       "Dommages : 21 à 35 (neutre)"
+    ],
+    "conditions": [
+      "Force > 148",
+      "Sagesse > 10",
+      "Vitalité > 30"
     ],
     "effects": [
       {
@@ -46092,6 +48951,12 @@ const ITEMS = [
     "damages": [
       "Dommages : 26 à 32 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 30",
+      "Force > 30",
+      "Sagesse > 30",
+      "Chance > 5"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -46128,6 +48993,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 17 (neutre)",
       "Dommages : 11 à 17 (eau)"
+    ],
+    "conditions": [
+      "Chance > 120",
+      "Agilité > 60"
     ],
     "effects": [
       {
@@ -46169,6 +49038,11 @@ const ITEMS = [
     "imageUrl": "html/img/hachette_savante.png",
     "damages": [
       "Dommages : 23 à 29 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 50",
+      "Agilité > 50",
+      "Intelligence > 50"
     ],
     "effects": [
       {
@@ -46212,6 +49086,7 @@ const ITEMS = [
       "Dommages : 11 à 35 (terre)",
       "Vole 3 à 4 PV (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -46248,6 +49123,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 45 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -46284,6 +49160,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 28 à 32 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 100",
+      "Force > 50"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -46304,6 +49184,10 @@ const ITEMS = [
     "imageUrl": "html/img/vouge_a_poisson.png",
     "damages": [
       "Dommages : 31 à 35 (neutre)"
+    ],
+    "conditions": [
+      "Vitalité > 50",
+      "Agilité > 50"
     ],
     "effects": [
       {
@@ -46331,6 +49215,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 31 à 35 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 150",
+      "Sagesse > 50",
+      "Force > 250"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -46356,6 +49245,10 @@ const ITEMS = [
     "imageUrl": "html/img/fendeuse_dabraknyde_ancestral.png",
     "damages": [
       "Dommages : 21 à 35 (neutre)"
+    ],
+    "conditions": [
+      "Force > 200",
+      "Intelligence > 100"
     ],
     "effects": [
       {
@@ -46398,6 +49291,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 31 à 37 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 120"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -46435,6 +49331,11 @@ const ITEMS = [
       "Dommages : 6 à 25 (neutre)",
       "Dommages : 6 à 25 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 150",
+      "Force > 75",
+      "Vitalité > 85"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -46466,6 +49367,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 36 à 40 (neutre)"
     ],
+    "conditions": [
+      "Vitalité > 100",
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -46493,6 +49398,7 @@ const ITEMS = [
       "Dommages : 21 à 40 (neutre)",
       "Vole 3 à 5 PV (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -46534,6 +49440,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 19 (neutre)",
       "Dommages : 9 à 19 (neutre)"
+    ],
+    "conditions": [
+      "Force > 150",
+      "Sagesse > 150"
     ],
     "effects": [
       {
@@ -46597,6 +49507,10 @@ const ITEMS = [
       "Dommages : 21 à 32 (neutre)",
       "Dommages : 7 à 16 (air)"
     ],
+    "conditions": [
+      "Agilité > 120",
+      "Vitalité > 150"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -46654,6 +49568,10 @@ const ITEMS = [
       "Dommages : 23 à 37 (neutre)",
       "Vole 4 à 6 PV (eau)"
     ],
+    "conditions": [
+      "Chance > 180",
+      "Sagesse > 80"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -46710,6 +49628,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 24 à 42 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 230",
+      "Agilité > 60",
+      "Vitalité > 250"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -46754,6 +49677,7 @@ const ITEMS = [
       "Vole 3 à 4 PV (terre)",
       "Vole 3 à 4 PV (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Force",
@@ -46803,6 +49727,10 @@ const ITEMS = [
       "Dommages : 7 à 13 (feu)",
       "Dommages : 7 à 13 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 250",
+      "Vitalité > 500"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -46840,6 +49768,11 @@ const ITEMS = [
       "Dommages : 13 à 19 (air)",
       "Dommages : 13 à 19 (feu)",
       "Dommages : 13 à 19 (eau)"
+    ],
+    "conditions": [
+      "Chance > 150",
+      "Agilité > 150",
+      "Intelligence > 150"
     ],
     "effects": [
       {
@@ -46903,6 +49836,10 @@ const ITEMS = [
       "Vole 10 PV (terre)",
       "Dommages : 30 (neutre)"
     ],
+    "conditions": [
+      "Sagesse > 250",
+      "Force > 300"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -46944,6 +49881,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 23 (eau)",
       "Dommages : 11 à 23 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 450"
     ],
     "effects": [
       {
@@ -46996,6 +49936,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 3 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47011,6 +49952,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_marteau_de_boisaille.png",
     "damages": [
       "Dommages : 1 à 5 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 1",
+      "Force > 1"
     ],
     "effects": [
       {
@@ -47028,6 +49973,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47046,6 +49992,9 @@ const ITEMS = [
       "Dommages : 1 (eau)",
       "Dommages : 1 à 0 (feu)",
       "Dommages : 1 à 0 (terre)"
+    ],
+    "conditions": [
+      "Métier doit etre Forgemage de Haches"
     ],
     "effects": [
       {
@@ -47066,6 +50015,9 @@ const ITEMS = [
       "Dommages : 1 à 0 (feu)",
       "Dommages : 1 à 0 (terre)"
     ],
+    "conditions": [
+      "Métier doit etre Forgemage d'Epées"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -47084,6 +50036,9 @@ const ITEMS = [
       "Dommages : 1 (eau)",
       "Dommages : 1 à 0 (feu)",
       "Dommages : 1 à 0 (terre)"
+    ],
+    "conditions": [
+      "Métier doit etre Forgemage de Pelles"
     ],
     "effects": [
       {
@@ -47104,6 +50059,9 @@ const ITEMS = [
       "Dommages : 1 à 0 (feu)",
       "Dommages : 1 à 0 (terre)"
     ],
+    "conditions": [
+      "Métier doit etre Forgemage de Dagues"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -47123,6 +50081,9 @@ const ITEMS = [
       "Dommages : 1 à 0 (feu)",
       "Dommages : 1 à 0 (terre)"
     ],
+    "conditions": [
+      "Métier doit etre Forgemage de Marteaux"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -47139,6 +50100,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47155,6 +50117,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47171,6 +50134,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 3 (neutre)"
     ],
+    "conditions": [
+      "Métier > Forgeur de Pelles (49)"
+    ],
     "effects": []
   },
   {
@@ -47181,6 +50147,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47207,6 +50174,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47223,6 +50191,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47239,6 +50208,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47255,6 +50225,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -47270,6 +50241,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_de_boisaille.png",
     "damages": [
       "Dommages : 2 à 6 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 1",
+      "Force > 1"
     ],
     "effects": [
       {
@@ -47287,6 +50262,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 3 à 7 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 3",
+      "Force > 1"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -47302,6 +50281,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissant_marteau_de_boisaille.png",
     "damages": [
       "Dommages : 4 à 8 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 5",
+      "Force > 1"
     ],
     "effects": [
       {
@@ -47320,6 +50303,7 @@ const ITEMS = [
       "Dommages : 4 à 8 (feu)",
       "Dommages : 4 à 8 (terre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -47335,6 +50319,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_de_raclage.png",
     "damages": [
       "Dommages : 12 à 16 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 3"
     ],
     "effects": [
       {
@@ -47352,6 +50340,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 3"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -47367,6 +50359,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_marteau_divoire.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 3"
     ],
     "effects": [
       {
@@ -47389,6 +50385,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 17 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 4"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -47405,6 +50405,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 18 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 5"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -47420,6 +50424,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_divoire.png",
     "damages": [
       "Dommages : 7 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 5"
     ],
     "effects": [
       {
@@ -47442,6 +50450,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 12 (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -47463,6 +50472,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 15",
+      "Force > 15"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -47478,6 +50491,10 @@ const ITEMS = [
     "imageUrl": "html/img/grand_marteau_divoire.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 8"
     ],
     "effects": [
       {
@@ -47500,6 +50517,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 14 (neutre)"
     ],
+    "conditions": [
+      "Force > 18",
+      "Intelligence > 2"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -47520,6 +50541,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_pickeur.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 12",
+      "Force > 6"
     ],
     "effects": [
       {
@@ -47542,6 +50567,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 9"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -47562,6 +50591,10 @@ const ITEMS = [
     "imageUrl": "html/img/masse_dha.png",
     "damages": [
       "Dommages : 12 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 20",
+      "Intelligence > 3"
     ],
     "effects": [
       {
@@ -47584,6 +50617,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 28",
+      "Force > 3"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -47604,6 +50641,10 @@ const ITEMS = [
     "imageUrl": "html/img/le_marteau_du_chafer.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 10",
+      "Intelligence > 11"
     ],
     "effects": [
       {
@@ -47626,6 +50667,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 17 (neutre)"
     ],
+    "conditions": [
+      "Force > 22",
+      "Intelligence > 4"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -47646,6 +50691,9 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_tau.png",
     "damages": [
       "Dommages : 6 à 17 (air)"
+    ],
+    "conditions": [
+      "Agilité > 20"
     ],
     "effects": [
       {
@@ -47673,6 +50721,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 13",
+      "Force > 10"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -47693,6 +50745,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_runique.png",
     "damages": [
       "Dommages : 9 à 14 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 30",
+      "Force > 4"
     ],
     "effects": [
       {
@@ -47715,6 +50771,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 19 (neutre)"
     ],
+    "conditions": [
+      "Force > 24",
+      "Intelligence > 4"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -47735,6 +50795,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_de_laurore.png",
     "damages": [
       "Dommages : 3 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Force > 10",
+      "Intelligence > 16"
     ],
     "effects": [
       {
@@ -47767,6 +50831,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 15 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 32",
+      "Force > 5"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -47787,6 +50855,10 @@ const ITEMS = [
     "imageUrl": "html/img/sargasse.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 17",
+      "Chance > 5"
     ],
     "effects": [
       {
@@ -47809,6 +50881,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 17",
+      "Chance > 5"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -47830,6 +50906,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 13 (terre)"
     ],
+    "conditions": [
+      "Force > 30",
+      "Vitalité > 30"
+    ],
     "effects": []
   },
   {
@@ -47839,6 +50919,10 @@ const ITEMS = [
     "imageUrl": "html/img/imposant_marteau_runique.png",
     "damages": [
       "Dommages : 9 à 16 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 34",
+      "Force > 6"
     ],
     "effects": [
       {
@@ -47860,6 +50944,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_masse_tmosfer.png",
     "damages": [
       "Dommages : 13 à 17 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 10",
+      "Force > 10"
     ],
     "effects": [
       {
@@ -47897,6 +50985,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 80",
+      "Sagesse > 30"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -47923,6 +51015,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 25 (terre)"
     ],
+    "conditions": [
+      "Force > 50",
+      "Agilité > 20"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -47943,6 +51039,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_marteau_outar.png",
     "damages": [
       "Dommages : 17 à 24 (neutre)"
+    ],
+    "conditions": [
+      "Force > 35",
+      "Intelligence > 8"
     ],
     "effects": [
       {
@@ -47974,6 +51074,10 @@ const ITEMS = [
     "imageUrl": "html/img/masse_tmosfer.png",
     "damages": [
       "Dommages : 14 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 11",
+      "Force > 11"
     ],
     "effects": [
       {
@@ -48011,6 +51115,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 18 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 40",
+      "Force > 8"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -48041,6 +51149,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_outar.png",
     "damages": [
       "Dommages : 18 à 25 (neutre)"
+    ],
+    "conditions": [
+      "Force > 36",
+      "Intelligence > 9"
     ],
     "effects": [
       {
@@ -48073,6 +51185,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 15 (air)"
     ],
+    "conditions": [
+      "Agilité > 40",
+      "Vitalité > 40"
+    ],
     "effects": []
   },
   {
@@ -48082,6 +51198,10 @@ const ITEMS = [
     "imageUrl": "html/img/longue_masse_tmosfer.png",
     "damages": [
       "Dommages : 15 à 19 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 13",
+      "Force > 13"
     ],
     "effects": [
       {
@@ -48120,6 +51240,7 @@ const ITEMS = [
       "Dommages : 5 à 12 (air)",
       "Dommages : 5 à 12 (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -48145,6 +51266,10 @@ const ITEMS = [
     "imageUrl": "html/img/redoutable_masse_tmosfer.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 15",
+      "Force > 15"
     ],
     "effects": [
       {
@@ -48182,6 +51307,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 19 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 42",
+      "Force > 8"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -48212,6 +51341,10 @@ const ITEMS = [
     "imageUrl": "html/img/grand_marteau_outar.png",
     "damages": [
       "Dommages : 19 à 27 (neutre)"
+    ],
+    "conditions": [
+      "Force > 38",
+      "Intelligence > 10"
     ],
     "effects": [
       {
@@ -48244,6 +51377,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 50",
+      "Vitalité > 30"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -48269,6 +51406,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_masse_aj_taye.png",
     "damages": [
       "Dommages : 11 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 42",
+      "Force > 8"
     ],
     "effects": [
       {
@@ -48301,6 +51442,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 21 à 30 (neutre)"
     ],
+    "conditions": [
+      "Force > 42",
+      "Intelligence > 10"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -48331,6 +51476,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_tape_doigts.png",
     "damages": [
       "Dommages : 16 à 25 (neutre)"
+    ],
+    "conditions": [
+      "Force > 30",
+      "Intelligence > 30"
     ],
     "effects": [
       {
@@ -48368,6 +51517,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 18 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 50",
+      "Vitalité > 50"
+    ],
     "effects": []
   },
   {
@@ -48379,6 +51532,7 @@ const ITEMS = [
       "Vole 3 à 7 PV (feu)",
       "PV rendus : 7 à 11"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -48399,6 +51553,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_masse_aj_taye.png",
     "damages": [
       "Dommages : 11 à 21 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 45",
+      "Force > 8"
     ],
     "effects": [
       {
@@ -48431,6 +51589,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 13 (air)"
     ],
+    "conditions": [
+      "Intelligence > 62",
+      "Sagesse > 22"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -48456,6 +51618,10 @@ const ITEMS = [
     "imageUrl": "html/img/petit_marteau_pospodrol.png",
     "damages": [
       "Dommages : 21 à 25 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 25",
+      "Force > 25"
     ],
     "effects": [
       {
@@ -48493,6 +51659,7 @@ const ITEMS = [
     "damages": [
       "Vole 2 à 4 PV (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -48524,6 +51691,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 30 (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -48566,6 +51734,10 @@ const ITEMS = [
       "Dommages : 5 à 9 (feu)",
       "Dommages : 5 à 9 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 60",
+      "Force > 20"
+    ],
     "effects": [
       {
         "stat": "Dommages (%)",
@@ -48596,6 +51768,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_pospodrol.png",
     "damages": [
       "Dommages : 22 à 27 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 26",
+      "Force > 26"
     ],
     "effects": [
       {
@@ -48633,6 +51809,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 22 (eau)"
     ],
+    "conditions": [
+      "Chance > 60",
+      "Vitalité > 60"
+    ],
     "effects": []
   },
   {
@@ -48642,6 +51822,10 @@ const ITEMS = [
     "imageUrl": "html/img/grand_marteau_pospodrol.png",
     "damages": [
       "Dommages : 23 à 29 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 28",
+      "Force > 28"
     ],
     "effects": [
       {
@@ -48679,6 +51863,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 23 (neutre)"
     ],
+    "conditions": [
+      "Force > 40",
+      "Intelligence > 40",
+      "Sagesse > 10"
+    ],
     "effects": [
       {
         "stat": "Créature invocables",
@@ -48709,6 +51898,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissant_marteau_pospodrol.png",
     "damages": [
       "Dommages : 24 à 31 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 30",
+      "Force > 30"
     ],
     "effects": [
       {
@@ -48749,6 +51942,13 @@ const ITEMS = [
       "Dommages : 2 à 5 (feu)",
       "Dommages : 2 à 5 (terre)"
     ],
+    "conditions": [
+      "Chance > 35",
+      "Agilité > 35",
+      "Force > 35",
+      "Intelligence > 35",
+      "Vitalité > 70"
+    ],
     "effects": []
   },
   {
@@ -48758,6 +51958,9 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_des_falistos.png",
     "damages": [
       "Dommages : 31 à 50 (neutre)"
+    ],
+    "conditions": [
+      "Force > 79"
     ],
     "effects": [
       {
@@ -48792,6 +51995,7 @@ const ITEMS = [
       "Dommages : 7 à 12 (eau)",
       "Dommages : 7 à 12 (feu)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Vitalité",
@@ -48822,6 +52026,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_fantal.png",
     "damages": [
       "Dommages : 21 à 38 (neutre)"
+    ],
+    "conditions": [
+      "Force > 80",
+      "Vitalité > 70"
     ],
     "effects": [
       {
@@ -48859,6 +52067,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 20 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 100"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -48891,6 +52102,10 @@ const ITEMS = [
       "Dommages : 13 à 24 (air)",
       "Dommages : 9 à 14 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 100",
+      "Intelligence > 50"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -48921,6 +52136,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_nitruhant.png",
     "damages": [
       "Dommages : 19 à 38 (neutre)"
+    ],
+    "conditions": [
+      "Intelligence > 50",
+      "Chance > 50"
     ],
     "effects": [
       {
@@ -48963,6 +52182,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 25 (neutre)"
     ],
+    "conditions": [
+      "Force > 80",
+      "Intelligence > 80",
+      "Agilité > 50"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -48994,6 +52218,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 14 (neutre)",
       "Dommages : 7 à 14 (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 100",
+      "Vitalité > 100"
     ],
     "effects": [
       {
@@ -49031,6 +52259,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 8 à 16 (eau)",
       "Dommages : 8 à 16 (air)"
+    ],
+    "conditions": [
+      "Chance > 100",
+      "Agilité > 100",
+      "Vitalité > 150"
     ],
     "effects": [
       {
@@ -49070,6 +52303,10 @@ const ITEMS = [
       "Dommages : 6 à 10 (feu)",
       "Vole 2 à 6 PV (neutre)"
     ],
+    "conditions": [
+      "Force > 60",
+      "Intelligence > 60"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -49106,6 +52343,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (feu)",
       "Dommages : 11 à 15 (eau)"
+    ],
+    "conditions": [
+      "Chance > 100",
+      "Sagesse > 40",
+      "Force > 50"
     ],
     "effects": [
       {
@@ -49149,6 +52391,12 @@ const ITEMS = [
       "Dommages : 1 à 20 (neutre)",
       "PV rendus : 1 à 80"
     ],
+    "conditions": [
+      "Intelligence > 150",
+      "Vitalité > 150",
+      "Classe doit etre Osamodas",
+      "Classe doit etre Xelor"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -49180,6 +52428,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 17 (neutre)",
       "Dommages : 9 à 17 (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 350",
+      "Vitalité > 200",
+      "Sagesse > 100"
     ],
     "effects": [
       {
@@ -49218,6 +52471,11 @@ const ITEMS = [
       "Dommages : 6 à 15 (neutre)",
       "Vole 3 à 4 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 150",
+      "Sagesse > 100",
+      "Classe doit etre Xelor"
+    ],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -49244,6 +52502,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 25 à 42 (neutre)",
       "Vole 4 à 6 PV (neutre)"
+    ],
+    "conditions": [
+      "Force > 100",
+      "Intelligence > 150"
     ],
     "effects": [
       {
@@ -49285,6 +52547,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_kahr.png",
     "damages": [
       "Dommages : 25 à 42 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 150",
+      "Intelligence > 150"
     ],
     "effects": [
       {
@@ -49342,6 +52608,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 21 à 46 (neutre)"
     ],
+    "conditions": [
+      "Intelligence > 150",
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -49394,6 +52664,10 @@ const ITEMS = [
       "Dommages : 21 à 35 (neutre)",
       "Vole 3 à 5 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 200",
+      "Chance > 100"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -49435,6 +52709,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 10 à 22 (neutre)",
       "Dommages : 10 à 22 (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 250"
     ],
     "effects": [
       {
@@ -49479,6 +52756,11 @@ const ITEMS = [
       "Vole 1 à 8 PV (air)",
       "Vole 1 à 8 PV (eau)"
     ],
+    "conditions": [
+      "Agilité > 130",
+      "Chance > 130",
+      "Sagesse > 130"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -49521,6 +52803,9 @@ const ITEMS = [
       "Dommages : 16 à 30 (neutre)",
       "Vole 6 à 10 PV (eau)"
     ],
+    "conditions": [
+      "Chance > 200"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -49556,6 +52841,10 @@ const ITEMS = [
     "imageUrl": "html/img/marteau_xiko.png",
     "damages": [
       "Dommages : 21 à 32 (terre)"
+    ],
+    "conditions": [
+      "Force > 250",
+      "Intelligence > 150"
     ],
     "effects": [
       {
@@ -49609,6 +52898,10 @@ const ITEMS = [
       "Dommages : 11 à 18 (air)",
       "Dommages : 11 à 18 (neutre)"
     ],
+    "conditions": [
+      "Agilité > 250",
+      "Sagesse > 150"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -49656,6 +52949,10 @@ const ITEMS = [
       "Dommages : 13 à 21 (neutre)",
       "Dommages : 13 à 21 (eau)"
     ],
+    "conditions": [
+      "Chance > 200",
+      "Vitalité > 300"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -49702,6 +52999,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 23 (feu)",
       "Dommages : 14 à 23 (eau)"
+    ],
+    "conditions": [
+      "Intelligence > 250",
+      "Chance > 250"
     ],
     "effects": [
       {
@@ -49751,6 +53052,10 @@ const ITEMS = [
       "Dommages : 11 à 20 (air)",
       "Vole 5 à 7 PV (air)"
     ],
+    "conditions": [
+      "Agilité > 250",
+      "Classe doit etre Xelor"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -49788,6 +53093,12 @@ const ITEMS = [
       "Dommages : 18 à 36 (neutre)",
       "Vole 5 à 8 PV (feu)"
     ],
+    "conditions": [
+      "Intelligence > 150",
+      "Vitalité > 200",
+      "Classe doit etre Xelor",
+      "Classe doit etre Osamodas"
+    ],
     "effects": [
       {
         "stat": "PA perdu à la cible",
@@ -49819,6 +53130,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 27 à 43 (neutre)",
       "Vole 4 à 6 PV (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 350",
+      "Sagesse > 180"
     ],
     "effects": [
       {
@@ -49862,6 +53177,9 @@ const ITEMS = [
       "Dommages : 19 à 35 (neutre)",
       "Vole 2 à 7 PV (eau)"
     ],
+    "conditions": [
+      "Vitalité > 1200"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -49898,6 +53216,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 4 (neutre)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Initiative",
@@ -49913,6 +53232,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_pelle_de_boisaille.png",
     "damages": [
       "Dommages : 1 à 5 (neutre)"
+    ],
+    "conditions": [
+      "Force > 1",
+      "Chance > 1"
     ],
     "effects": [
       {
@@ -49930,6 +53253,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 6 (neutre)"
     ],
+    "conditions": [
+      "Force > 1",
+      "Chance > 1"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -49945,6 +53272,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_pelle_de_boisaille.png",
     "damages": [
       "Dommages : 3 à 7 (neutre)"
+    ],
+    "conditions": [
+      "Force > 1",
+      "Chance > 3"
     ],
     "effects": [
       {
@@ -49962,6 +53293,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 4 à 8 (neutre)"
     ],
+    "conditions": [
+      "Force > 1",
+      "Chance > 5"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -49978,6 +53313,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 1 à 18 (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -49993,6 +53329,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_pelle_de_crapouille.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 3",
+      "Chance > 10"
     ],
     "effects": [
       {
@@ -50015,6 +53355,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 3",
+      "Chance > 10"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -50035,6 +53379,9 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_des_champs.png",
     "damages": [
       "Dommages : 5 à 9 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 15"
     ],
     "effects": [
       {
@@ -50062,6 +53409,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [
+      "Force > 10",
+      "Chance > 5"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -50082,6 +53433,10 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_de_crapouille.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Force > 5",
+      "Chance > 10"
     ],
     "effects": [
       {
@@ -50104,6 +53459,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 6",
+      "Chance > 10"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -50124,6 +53483,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_pelle_de_rapage.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Force > 7",
+      "Chance > 10"
     ],
     "effects": [
       {
@@ -50146,6 +53509,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 7",
+      "Chance > 10"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -50167,6 +53534,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 13 (neutre)"
     ],
+    "conditions": [
+      "Force > 9",
+      "Chance > 10"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -50187,6 +53558,10 @@ const ITEMS = [
     "imageUrl": "html/img/barbe_grise.png",
     "damages": [
       "Dommages : 16 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Force > 5",
+      "Chance > 15"
     ],
     "effects": [
       {
@@ -50214,6 +53589,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 10 (neutre)"
     ],
+    "conditions": [
+      "Force > 5",
+      "Chance > 15"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -50239,6 +53618,11 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_houze.png",
     "damages": [
       "Dommages : 11 à 16 (terre)"
+    ],
+    "conditions": [
+      "Chance > 27",
+      "Sagesse < 100",
+      "Force > 10"
     ],
     "effects": [
       {
@@ -50266,6 +53650,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [
+      "Force > 8",
+      "Chance > 15"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -50292,6 +53680,7 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 15 (eau)"
     ],
+    "conditions": [],
     "effects": [
       {
         "stat": "Chance",
@@ -50312,6 +53701,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_pelle_teuze.png",
     "damages": [
       "Dommages : 11 à 15 (neutre)"
+    ],
+    "conditions": [
+      "Force > 5",
+      "Chance > 20"
     ],
     "effects": [
       {
@@ -50339,6 +53732,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 7 à 11 (neutre)"
     ],
+    "conditions": [
+      "Chance > 22",
+      "Intelligence > 3"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -50364,6 +53761,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_pelle_du_craqueleur.png",
     "damages": [
       "Dommages : 8 à 12 (neutre)"
+    ],
+    "conditions": [
+      "Force > 11",
+      "Chance > 15"
     ],
     "effects": [
       {
@@ -50391,6 +53792,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 16 (neutre)"
     ],
+    "conditions": [
+      "Force > 7",
+      "Chance > 20"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -50416,6 +53821,10 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_de_koutoulou.png",
     "damages": [
       "Dommages : 6 à 11 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 24",
+      "Intelligence > 4"
     ],
     "effects": [
       {
@@ -50443,6 +53852,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 13 à 17 (neutre)"
     ],
+    "conditions": [
+      "Force > 9",
+      "Chance > 20"
+    ],
     "effects": [
       {
         "stat": "Force",
@@ -50468,6 +53881,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_pelle_du_craqueleur.png",
     "damages": [
       "Dommages : 9 à 13 (neutre)"
+    ],
+    "conditions": [
+      "Force > 14",
+      "Chance > 15"
     ],
     "effects": [
       {
@@ -50495,6 +53912,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 9 à 15 (eau)"
     ],
+    "conditions": [
+      "Chance > 30",
+      "Vitalité > 30"
+    ],
     "effects": []
   },
   {
@@ -50504,6 +53925,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_pelle_mechba.png",
     "damages": [
       "Dommages : 7 à 15 (eau)"
+    ],
+    "conditions": [
+      "Chance > 10",
+      "Intelligence > 10"
     ],
     "effects": [
       {
@@ -50531,6 +53956,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 12 (neutre)"
     ],
+    "conditions": [
+      "Chance > 27",
+      "Intelligence > 5"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -50556,6 +53985,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_pelle_teuze.png",
     "damages": [
       "Dommages : 14 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Force > 11",
+      "Chance > 20"
     ],
     "effects": [
       {
@@ -50583,6 +54016,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 13 (neutre)"
     ],
+    "conditions": [
+      "Chance > 29",
+      "Intelligence > 5"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -50608,6 +54045,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_pelle_de_bois_dormant.png",
     "damages": [
       "Dommages : 14 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Force > 4",
+      "Chance > 26"
     ],
     "effects": [
       {
@@ -50635,6 +54076,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 21 (neutre)"
     ],
+    "conditions": [
+      "Force > 4",
+      "Chance > 27"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -50660,6 +54105,10 @@ const ITEMS = [
     "imageUrl": "html/img/petite_pelle_melle.png",
     "damages": [
       "Dommages : 14 à 20 (neutre)"
+    ],
+    "conditions": [
+      "Force > 10",
+      "Chance > 28"
     ],
     "effects": [
       {
@@ -50692,6 +54141,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 20 (neutre)"
     ],
+    "conditions": [
+      "Force > 10",
+      "Chance > 30"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -50717,6 +54170,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_pelle_de_bois_dormant.png",
     "damages": [
       "Dommages : 14 à 22 (neutre)"
+    ],
+    "conditions": [
+      "Force > 4",
+      "Chance > 28"
     ],
     "effects": [
       {
@@ -50744,6 +54201,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 20 (terre)"
     ],
+    "conditions": [
+      "Force > 40",
+      "Vitalité > 40"
+    ],
     "effects": []
   },
   {
@@ -50753,6 +54214,10 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_melle.png",
     "damages": [
       "Dommages : 15 à 21 (neutre)"
+    ],
+    "conditions": [
+      "Force > 11",
+      "Chance > 31"
     ],
     "effects": [
       {
@@ -50785,6 +54250,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 23 (neutre)"
     ],
+    "conditions": [
+      "Force > 4",
+      "Chance > 30"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -50811,6 +54280,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 14 à 18 (eau)"
     ],
+    "conditions": [
+      "Chance > 15",
+      "Intelligence > 15"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -50836,6 +54309,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_pelle_melle.png",
     "damages": [
       "Dommages : 16 à 22 (neutre)"
+    ],
+    "conditions": [
+      "Force > 12",
+      "Chance > 33"
     ],
     "effects": [
       {
@@ -50868,6 +54345,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 25 (neutre)"
     ],
+    "conditions": [
+      "Chance > 40",
+      "Force > 40"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -50899,6 +54380,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 19 à 25 (air)"
     ],
+    "conditions": [
+      "Agilité > 50",
+      "Vitalité > 50"
+    ],
     "effects": []
   },
   {
@@ -50908,6 +54393,10 @@ const ITEMS = [
     "imageUrl": "html/img/puissante_pelle_melle.png",
     "damages": [
       "Dommages : 17 à 23 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 35",
+      "Force > 15"
     ],
     "effects": [
       {
@@ -50940,6 +54429,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 2 à 20 (air)"
     ],
+    "conditions": [
+      "Chance > 30",
+      "Agilité > 10"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -50965,6 +54458,10 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_doudesque.png",
     "damages": [
       "Dommages : 11 à 30 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 60",
+      "Vitalité > 40"
     ],
     "effects": [
       {
@@ -50992,6 +54489,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 18 à 29 (neutre)"
     ],
+    "conditions": [
+      "Chance > 80",
+      "Intelligence > 50"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -51017,6 +54518,9 @@ const ITEMS = [
     "imageUrl": "html/img/cruelle_pelle-truelle.png",
     "damages": [
       "Dommages : 6 à 10 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 47"
     ],
     "effects": [
       {
@@ -51054,6 +54558,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 27 (neutre)"
     ],
+    "conditions": [
+      "Chance > 42",
+      "Force > 42"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -51085,6 +54593,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 35 (eau)"
     ],
+    "conditions": [
+      "Alignement doit etre Brâkmar",
+      "Chance > 50"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -51110,6 +54622,10 @@ const ITEMS = [
     "imageUrl": "html/img/grande_pelle_woukuis.png",
     "damages": [
       "Dommages : 16 à 29 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 45",
+      "Force > 45"
     ],
     "effects": [
       {
@@ -51142,6 +54658,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 20 à 23 (eau)"
     ],
+    "conditions": [
+      "Chance > 25",
+      "Intelligence > 25"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -51167,6 +54687,11 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_secutrice.png",
     "damages": [
       "Dommages : 19 à 26 (air)"
+    ],
+    "conditions": [
+      "Chance > 60",
+      "Force > 30",
+      "Agilité > 10"
     ],
     "effects": [
       {
@@ -51199,6 +54724,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 20 à 26 (feu)"
     ],
+    "conditions": [
+      "Intelligence > 60",
+      "Vitalité > 60"
+    ],
     "effects": []
   },
   {
@@ -51208,6 +54737,10 @@ const ITEMS = [
     "imageUrl": "html/img/imposante_pelle_woukuis.png",
     "damages": [
       "Dommages : 16 à 31 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 50",
+      "Force > 50"
     ],
     "effects": [
       {
@@ -51240,6 +54773,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 12 (neutre)",
       "Dommages : 6 à 12 (feu)"
+    ],
+    "conditions": [
+      "Intelligence > 100",
+      "Chance > 50"
     ],
     "effects": [
       {
@@ -51280,6 +54817,13 @@ const ITEMS = [
       "Dommages : 5 à 7 (feu)",
       "Dommages : 5 à 7 (terre)"
     ],
+    "conditions": [
+      "Intelligence > 35",
+      "Agilité > 35",
+      "Chance > 35",
+      "Force > 35",
+      "Vitalité > 70"
+    ],
     "effects": []
   },
   {
@@ -51290,6 +54834,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 24 (neutre)",
       "Vole 2 à 3 PV (eau)"
+    ],
+    "conditions": [
+      "Chance > 100"
     ],
     "effects": [
       {
@@ -51323,6 +54870,10 @@ const ITEMS = [
       "Dommages : 21 à 40 (neutre)",
       "PV rendus : 1 à 80"
     ],
+    "conditions": [
+      "Force > 30",
+      "Chance > 150"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -51348,6 +54899,9 @@ const ITEMS = [
     "imageUrl": "html/img/ares.png",
     "damages": [
       "Dommages : 7 à 13 (eau)"
+    ],
+    "conditions": [
+      "Chance > 200"
     ],
     "effects": [
       {
@@ -51390,6 +54944,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 26 à 35 (feu)"
     ],
+    "conditions": [
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -51417,6 +54974,10 @@ const ITEMS = [
       "Dommages : 6 à 13 (eau)",
       "Dommages : 6 à 13 (neutre)"
     ],
+    "conditions": [
+      "Chance > 200",
+      "Vitalité > 70"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -51442,6 +55003,10 @@ const ITEMS = [
     "imageUrl": "html/img/la_pelle_helabete.png",
     "damages": [
       "Dommages : 18 à 37 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 150",
+      "Vitalité > 80"
     ],
     "effects": [
       {
@@ -51479,6 +55044,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 11 à 20 (neutre)",
       "Vole 1 à 8 PV (eau)"
+    ],
+    "conditions": [
+      "Chance > 200",
+      "Vitalité > 100",
+      "Agilité > 70"
     ],
     "effects": [
       {
@@ -51522,6 +55092,11 @@ const ITEMS = [
       "Dommages : 11 à 16 (neutre)",
       "Vole 3 à 6 PV (eau)"
     ],
+    "conditions": [
+      "Intelligence > 80",
+      "Chance > 150",
+      "Sagesse > 40"
+    ],
     "effects": [
       {
         "stat": "Sagesse",
@@ -51557,6 +55132,11 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_hebuse.png",
     "damages": [
       "Dommages : 24 à 41 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 200",
+      "Vitalité > 70",
+      "Sagesse > 50"
     ],
     "effects": [
       {
@@ -51594,6 +55174,9 @@ const ITEMS = [
     "damages": [
       "Vole 9 à 15 PV (eau)"
     ],
+    "conditions": [
+      "Chance > 200"
+    ],
     "effects": [
       {
         "stat": "Prospection",
@@ -51630,6 +55213,11 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 21 (neutre)",
       "Dommages : 12 à 21 (eau)"
+    ],
+    "conditions": [
+      "Chance > 250",
+      "Vitalité > 100",
+      "Force > 75"
     ],
     "effects": [
       {
@@ -51671,6 +55259,12 @@ const ITEMS = [
     "imageUrl": "html/img/pelle_hikule.png",
     "damages": [
       "Dommages : 24 à 43 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 300",
+      "Force > 50",
+      "Vitalité > 100",
+      "Sagesse > 50"
     ],
     "effects": [
       {
@@ -51714,6 +55308,10 @@ const ITEMS = [
       "Dommages : 18 à 33 (neutre)",
       "Vole 4 à 6 PV (neutre)"
     ],
+    "conditions": [
+      "Chance > 200",
+      "Force > 100"
+    ],
     "effects": [
       {
         "stat": "Chance",
@@ -51750,6 +55348,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 6 à 14 (neutre)",
       "Dommages : 6 à 8 (eau)"
+    ],
+    "conditions": [
+      "Chance > 250",
+      "Agilité > 100"
     ],
     "effects": [
       {
@@ -51818,6 +55420,10 @@ const ITEMS = [
       "Dommages : 20 à 34 (neutre)",
       "Vole 4 à 6 PV (air)"
     ],
+    "conditions": [
+      "Chance > 150",
+      "Agilité > 200"
+    ],
     "effects": [
       {
         "stat": "Agilité",
@@ -51880,6 +55486,10 @@ const ITEMS = [
       "Dommages : 24 à 43 (neutre)",
       "Vole 5 à 7 PV (eau)"
     ],
+    "conditions": [
+      "Chance > 400",
+      "Vitalité > 250"
+    ],
     "effects": [
       {
         "stat": "Vitalité",
@@ -51916,6 +55526,10 @@ const ITEMS = [
     "damages": [
       "Dommages : 16 à 27 (feu)",
       "Dommages : 16 à 27 (terre)"
+    ],
+    "conditions": [
+      "Force > 250",
+      "Intelligence > 250"
     ],
     "effects": [
       {
@@ -51979,6 +55593,10 @@ const ITEMS = [
       "Dommages : 6 à 10 (feu)",
       "Dommages : 16 à 30 (eau)"
     ],
+    "conditions": [
+      "Chance > 250",
+      "Intelligence > 250"
+    ],
     "effects": [
       {
         "stat": "Intelligence",
@@ -52035,6 +55653,9 @@ const ITEMS = [
     "damages": [
       "Dommages : 12 à 26 (eau)",
       "Dommages : 8 à 18 (neutre)"
+    ],
+    "conditions": [
+      "Chance > 450"
     ],
     "effects": [
       {
