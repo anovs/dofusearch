@@ -183,11 +183,12 @@ function updateItemList() {
     for (const item of itemsToDisplay) {
         const liElt = document.createElement('li');
         const imgElt = document.createElement('img');
-        const spanElt = document.createElement('span');
+        const aElt = document.createElement('a');
         const ulElt = document.createElement('ul');
-        spanElt.textContent = `${item.name} (niv ${item.level})`;
+        aElt.textContent = `${item.name} (niv ${item.level})`;
         // spanElt.style.fontWeight = 'bold';
-        spanElt.style.fontSize = 'large';
+        aElt.href = `https://wiki-dofus.eu/w/${item.name.replace(/ /g, '_')}`;
+        aElt.style.fontSize = 'large';
         imgElt.src = item.imageUrl;
         imgElt.style.width = '40px';
         imgElt.style.position = 'relative';
@@ -196,7 +197,7 @@ function updateItemList() {
         liElt.style.position = 'relative';
         liElt.style.left = '-40px';
         liElt.appendChild(imgElt);
-        liElt.appendChild(spanElt);
+        liElt.appendChild(aElt);
 
         for (const str of item.damages) {
             const li = document.createElement('li');
@@ -224,7 +225,7 @@ function updateItemList() {
             ulElt.appendChild(li);
         }
 
-        liElt.appendChild(spanElt);
+        liElt.appendChild(aElt);
         liElt.appendChild(ulElt);
         EQUIPMENT_ELT.appendChild(liElt);
     }
