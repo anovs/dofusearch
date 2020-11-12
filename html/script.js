@@ -171,7 +171,7 @@ function fetchItemsToDisplay() {
             && item.level <= maxLevel
             && typeList.some(type => item.type === type)
             && effectList.every(effect => item.effects.some(e => e.stat === effect.stat && e.max >= effect.value));
-    }).sort((item1, item2) => item1.level - item2.level);
+    }).sort((item1, item2) => item2.level - item1.level);
 }
 
 function updateItemList() {
